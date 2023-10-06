@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "b56464330d67a5c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "07d421075502f1c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9715efe4b68e730e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec9596d8eb3755e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "245d365a42cdb9a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df89177c9357c6a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bfbfa7194163c3a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "90257b859b3c78c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3f10bc9f878b6cc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c672359e8fdfd723",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99ac2682d1e6a580",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e3be22d96cd24fca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8dd9987db8b3ace0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "83e4a5105ed7c960",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "b8a99326fdeef4b0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "99bcb6318dce3434",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "bfe2d8470b47eb5f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "bfe2d8470b47eb5f",
+  "lastOpenFiles": [
+    "000 Bachelor Ingénierie Sonore/Histoire des arts/Essais pour le github.md",
+    "500 Journal/2023-10-06.md",
+    "000 Bachelor Ingénierie Sonore/Ma-sauvegarde",
+    "Cours jeudi nouvelle organisation.md",
+    "500 Journal/2023-10-05.md",
+    "500 Journal/2023/2023-09-23.md",
+    "500 Journal/2023/2023-09-24.md",
+    "500 Journal/2023-09-25.md",
+    "500 Journal/2023-09-26.md",
+    "500 Journal/2023-09-27.md",
+    "500 Journal/2023-09-28.md",
+    "930 Modèles/Modèle Journal.md",
+    "930 Modèles/Modèle Cours.md",
+    "2023-09-25.md",
+    "NaN.md",
+    "POur mettre à jour mon modèle.md",
+    "500 Journal/2023-09-24.md",
+    "500 Journal/2023-09-23.md",
+    "Lisbonne.md",
+    "Appel 22-09-2023.md",
+    "Check de rentrée niveau 2.md",
+    "Sans titre.md",
+    "410 Notes Rapides/Conférence Lis avis.md",
+    "400 DANSE/Tandem Entrances.md",
+    "Soirée Lindy Rockcaliente Octobre 2023.md",
+    "000 Bachelor Ingénierie Sonore/Histoire des arts/1.Esthétique sonore.md",
+    "000 Bachelor Ingénierie Sonore/Histoire des arts/Histoire/3.LE BAROQUE.md",
+    "410 Notes Rapides",
+    "References/Sans titre",
+    "420 References",
+    "000 Bachelor Ingénierie Sonore/Histoire des arts/Son à l'image",
+    "000 Bachelor Ingénierie Sonore/Histoire des arts/Histoire",
+    "930 Modèles",
+    "Bachelier Ingénierie Sonore",
+    "900 Excalidraw"
+  ]
+}

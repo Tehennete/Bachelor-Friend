@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "bfaf70d96e0220b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "17d684978488714d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8efe87488dd8f399",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lisbonne.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0283d27dd6294e60",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bdfbddb09050855b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "298c4b17941a28fe",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f1ef17bbd202d141",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "3d5544bc1e34db80",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d94268fe11ea1d01",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b58ce4df42e5e36f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Lisbonne.md",
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6de3c5d1d1abc41a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Lisbonne.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0c5ab5e2ddb9858f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Lisbonne.md"
+          }
+        }
+      },
+      {
+        "id": "7bdf7f01043cae65",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "bdfbddb09050855b",
+  "lastOpenFiles": [
+    "400 DANSE/SOM - Cours Avancé.md",
+    "Bachelor Ingénierie Sonore/Histoire des arts/1.Esthétique sonore.md",
+    "Bachelor Ingénierie Sonore/Histoire des arts/Son à l'image",
+    "Bachelor Ingénierie Sonore/Histoire des arts/Histoire",
+    "Mes Modeles",
+    "Utilitaire/Test pour thème.md",
+    "DANSE/SOM - Cours Avancé.md",
+    "Ramos Gin fizz.md",
+    "Bachelor Ingénierie Sonore/Histoire des arts/Musique à l’image Esthétique sonore.md",
+    "DANSE",
+    "SON/Techniques du son/Scène avec que des sm58.md",
+    "Utilitaire/Raccourcis clavier Mac.md",
+    "SON/Techniques du son",
+    "Mes Notes",
+    "Bachelor Ingénierie Sonore/Droit",
+    "Bachelor Ingénierie Sonore/Sciences",
+    "Bachelor Ingénierie Sonore/Math",
+    "Bachelor Ingénierie Sonore/Anglais",
+    "Bachelor Ingénierie Sonore/Sans titre/Sans titre.md",
+    "Note pour papa.md",
+    "Utilitaire/Mes Metadata.md",
+    "Images/IMG-20230725-WA0002.jpg",
+    "Images/IMG-20230725-WA0003.jpg",
+    "Training session and preparation for summer workshop.md",
+    "Liste Tablatures Ukulele.md",
+    "Appel la clic.md",
+    "Raccourcis clavier Mac.md",
+    "Lullaby of Birthland.md",
+    "Excalidraw/Drawing 2023-07-23 14.08.27.excalidraw.md",
+    "Myriam Makeba.md",
+    "Bonne balances.md",
+    "Artiste à écouter.md",
+    "Scène avec que des sm58.md",
+    "Carry milk punch.md",
+    "Voyage à Dublin.md"
+  ]
+}

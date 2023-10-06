@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "bfaf70d96e0220b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c7fb4a411b9f2fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad8d64df08afe834",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "400 DANSE/Texte soirée 23-10-15.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d26ceae753d42073",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "500 Journal/2023-09-30.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1,
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0283d27dd6294e60",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bdfbddb09050855b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "298c4b17941a28fe",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f1ef17bbd202d141",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "3d5544bc1e34db80",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d94268fe11ea1d01",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b58ce4df42e5e36f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "500 Journal/2023-09-30.md",
+            "collapseAll": true,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6de3c5d1d1abc41a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "500 Journal/2023-09-30.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0c5ab5e2ddb9858f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "500 Journal/2023-09-30.md"
+          }
+        }
+      },
+      {
+        "id": "7bdf7f01043cae65",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "audio-recorder:Démarrer / arrêter l'enregistrement": false,
+      "workspaces:Gérer les espaces de travail": false,
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "bdfbddb09050855b",
+  "lastOpenFiles": [
+    "930 Modèles/Modèle Journal.md",
+    "500 Journal/2023-09-30.md",
+    "500 Journal/2023/2023-09-27.md",
+    "500 Journal/2023/2023-09-26.md",
+    "2023-09-25.md",
+    "500 Journal/2023/2023-09-24.md",
+    "500 Journal/2023/2023-09-23.md",
+    "2023-09-29.md",
+    "500 Journal/2023/2023-09-28.md",
+    "500 Journal/2023/2023-09-25.md",
+    "POur mettre à jour mon modèle.md",
+    "400 DANSE/Texte soirée 23-10-15.md",
+    "920 Utilitaire/Test pour thème.md",
+    "500 Journal/2023",
+    "<%tp.date.now(\"YYYY-MM-DD \",-1, tp.file.title, \"YYYY-MM-DD \") %>.md",
+    "<%+ tp.date.now(\"YYYY-MM-DD\",1 , tp.file.title, \"YYYY-MM-DD\") %>.md",
+    "<%+ tp.date.now(\"YYYY-MM-DD\", tp.file.title)  %>.md",
+    "<%+ tp.date.now(”YYYY-MM-DD”, tp.file.title, ”YYYY-MM-DD”)  %>.md",
+    "<%+ tp.date.now(“YYYY-MM-DD”, 1, tp.file.title, “YYYY-MM-DD”) %>.md",
+    "<%+ tp.date.now(“YYYY-MM-DD”, -1, tp.file.title, “YYYY-MM-DD”) %>.md",
+    "<%+ tp.date.now(”YYYY-MM-DD”,1 , tp.file.title, ”YYYY-MM-DD”) %>.md",
+    "930 Modèles/Modèle Cours.md",
+    "Excalidraw/2023-09-26.md",
+    "<%+ tp.date.now(\"YYYY-MM-DD \",-1, tp.file.title, \"YYYY-MM-DD \")  %>.md",
+    "400 DANSE/SOM - Cours Avancé.md",
+    "<%+tp.date.now(\"YYYY-MM-DD \", tp.file.title, \"YYYY-MM-DD \") %>.md",
+    "<%tp.date.now(\"YYYY-MM-DD \", tp.file.title, \"YYYY-MM-DD \") %>.md",
+    "500 Journal",
+    "Excalidraw",
+    "Bachelor Ingénierie Sonore/Histoire des arts/Son à l'image",
+    "Bachelor Ingénierie Sonore/Histoire des arts/Histoire",
+    "Mes Modeles",
+    "DANSE",
+    "SON/Techniques du son",
+    "Mes Notes",
+    "Bachelor Ingénierie Sonore/Droit",
+    "Images/IMG-20230725-WA0002.jpg",
+    "Images/IMG-20230725-WA0003.jpg"
+  ]
+}
