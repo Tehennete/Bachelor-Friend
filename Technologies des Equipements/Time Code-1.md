@@ -64,9 +64,9 @@ Ainsi selon le type de donnée à coder, il faudra un mot binaire plus ou moins 
 Ils ont cherché à alléger le plus possible en séparant les unités et les dizaines pour simplifier le code binaire du Time Code. 
 
 |  Heures     | Minutes    | Secondes   | N° Images |
- | ---------- | ---------- | ---------- | ---------- | --------- |
- | Diz./unit. | Diz./unit. | Diz./unit. | Diz./unit. |           |
- | (2 + 4)    | (3 + 4)    | (4 + 5)    | (1 + 8)    |           |
- | 24         | 34         | 45         | 18         |           |
+ | ---------- | ---------- | ---------- | ---------- |
+ | Diz./unit. | Diz./unit. | Diz./unit. | Diz./unit. |  
+ | (2 + 4)    | (3 + 4)    | (4 + 5)    | (1 + 8)    |    
+ | 24         | 34         | 45         | 18         |    
 
 Il faut également intégrer un mot de synchro pour le début et la fin de chaque information composé de 26 bits
