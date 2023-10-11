@@ -5,9 +5,6 @@ Date: 2023-10-11
 Prof: Mebarki
 Type: notes de cours
 ---
-test 
-> [!NOTE]
-> Highlights information that users should take into account, even when skimming.
 
 # Technique d'écoute
 Date: [[2023-10-11]] | Tags : #cours #histoire-de-la-musique
@@ -18,7 +15,7 @@ Date: [[2023-10-11]] | Tags : #cours #histoire-de-la-musique
 #### Mélodie 
 Mélodie est une mélodie, quand il y a un **lien logique** entre les notes. Il faut quelle soit "chantable". 
 
-> [!NOTE]
+> [!NOTE] Définition
 > **Mélodie** : Une *Courbe de hauteur*, constituées de *Note* construisant une *phrase* musicale
 
  Cadence : succession d'accord :
