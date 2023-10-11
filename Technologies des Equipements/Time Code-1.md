@@ -14,7 +14,7 @@ Dates: [[2023-10-11]] | Tags : #cours #Technologie-des-équipements
 #### 1. Definitions
 - **synchronisation** : Action de rendre solidaires et simultanés les mouvements de deux appareils
 - **synchrone** : Se dit des mouvements qui se font dans un même temps (son synchrone c'est les sons enregistrés sur le plateau, on l'appel aussi son 
-- 
+
 > [!NOTE]
 > Il faut environ 3 images (120ms) de décalage entre image et son pour pouvoir établir précisément le sens du dé-synchronisme. EN revanche un décalage d'une seule image est détectable par un œil et une oreille exercés. À une image c'est dur de dire si le son est en avance ou en retard
 

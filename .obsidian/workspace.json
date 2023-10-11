@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Histoire des arts/Essais pour le github.md",
+                "file": "Technologies des Equipements/Time Code-1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Histoire des arts/Essais pour le github.md",
+                "file": "Technologies des Equipements/Time Code-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Histoire des arts/Essais pour le github.md",
+                "file": "Technologies des Equipements/Time Code-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Histoire des arts/Essais pour le github.md"
+                "file": "Technologies des Equipements/Time Code-1.md"
               }
             }
           },
@@ -183,11 +183,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df89177c9357c6a5",
+  "active": "9715efe4b68e730e",
   "lastOpenFiles": [
+    "2023-10-11.md",
+    "Technologies des Equipements/Time Code-1.md",
+    "Histoire des arts/Essais pour le github.md",
     "Histoire des arts/1.Esthétique sonore.md",
     "Z1-Utilitaire/Test pour thème.md",
-    "Histoire des arts/Essais pour le github.md",
     "500 Journal/2023-10-06.md",
     "000 Bachelor Ingénierie Sonore/Ma-sauvegarde",
     "Cours jeudi nouvelle organisation.md",
@@ -210,8 +212,6 @@
     "Check de rentrée niveau 2.md",
     "Sans titre.md",
     "410 Notes Rapides/Conférence Lis avis.md",
-    "400 DANSE/Tandem Entrances.md",
-    "Soirée Lindy Rockcaliente Octobre 2023.md",
     "410 Notes Rapides",
     "References/Sans titre",
     "420 References",
