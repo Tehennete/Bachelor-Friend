@@ -8,15 +8,15 @@ Type: notes de cours
 # Time Code-1
 Dates: [[2023-10-11]] | Tags : #cours #Technologie-des-équipements
 
->[!INFO] Objectif
->Étude du système de repérage absolu des images en heures, minutes, secondes et nombre d'images, normalisé au niveau mondial. Notions de synchronisation et modes d'utilisation en particulier dans le cas du son à l'image. 
+#### Objectif
+Étude du système de repérage absolu des images en heures, minutes, secondes et nombre d'images, normalisé au niveau mondial. Notions de synchronisation et modes d'utilisation en particulier dans le cas du son à l'image. 
 ## Introduction
 #### 1. Definitions
 - **synchronisation** : Action de rendre solidaires et simultanés les mouvements de deux appareils
 - **synchrone** : Se dit des mouvements qui se font dans un même temps (son synchrone c'est les sons enregistrés sur le plateau, on l'appel aussi son 
 - 
-> [!NOTE] Notabene 
-Il faut environ 3 images (120ms) de décalage entre image et son pour pouvoir établir précisément le sens du dé-synchronisme. EN revanche un décalage d'une seule image est détectable par un œil et une oreille exercés. À une image c'est dur de dire si le son est en avance ou en retard
+> [!NOTE]
+> Il faut environ 3 images (120ms) de décalage entre image et son pour pouvoir établir précisément le sens du dé-synchronisme. EN revanche un décalage d'une seule image est détectable par un œil et une oreille exercés. À une image c'est dur de dire si le son est en avance ou en retard
 
 - Historiquement c'est le support Image/vidéo qui "porte" le Time Code (Master), et le ou les supports (ou appareils) du Son qui seront asservies (Slave). C'est l'image qui porte la synchronisation. (Il est possible de le changer, c'est une norme historique)
 - La CST (Commission Supérieure des Techniques de l'image et du son) indique les limites de perception et limites maximales admissibles de la désynchronisation Son/Image en diffusion pour la télé : -1 ou + 2 images max.
@@ -28,7 +28,7 @@ Le TIme Code est né du besoin de caractériser chaque image dans le domaine de 
 - L'UER (EBU en anglais) (Union Européenne de Radiodiffusion) pour les systèmes à 25i/s
 Rappel : le format initial au cinéma (sur pellicule) est de 24i/s
 
-> [!note] Notabene
+> [!NOTE]
 > Il existe des variantes concernant le nombre d'i/s par exemple le 29,97 qui correspond au système vidéo couleur américain NTSC (petite blague accronyme = Never Twice the Same Color)
 
  Représentation du Time Code : **HEURE : MINUTES : SECONDES : N° D'IMAGES**
