@@ -9,7 +9,7 @@ Type: notes de cours
 Date: [[2023-10-11]] | Tags : #cours #histoire-de-la-musique
 
 ### Éléments de Vocabulaire
-> [!INFO] Sous-titre
+> [!INFO] 
 > Mélodie, Rythme, Harmonie, Timbre, Expression
 #### Mélodie 
 Mélodie est une mélodie, quand il y a un **lien logique** entre les notes. Il faut quelle soit "chantable". 
