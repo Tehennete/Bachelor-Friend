@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z1-Utilitaire/Test pour thème.md",
+                "file": "Histoire des arts/Essais pour le github.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z1-Utilitaire/Test pour thème.md",
+                "file": "Histoire des arts/Essais pour le github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Z1-Utilitaire/Test pour thème.md",
+                "file": "Histoire des arts/Essais pour le github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z1-Utilitaire/Test pour thème.md"
+                "file": "Histoire des arts/Essais pour le github.md"
               }
             }
           },
@@ -183,8 +183,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "152f4375e936999b",
+  "active": "df89177c9357c6a5",
   "lastOpenFiles": [
+    "Histoire des arts/1.Esthétique sonore.md",
+    "Z1-Utilitaire/Test pour thème.md",
     "Histoire des arts/Essais pour le github.md",
     "500 Journal/2023-10-06.md",
     "000 Bachelor Ingénierie Sonore/Ma-sauvegarde",
@@ -210,8 +212,6 @@
     "410 Notes Rapides/Conférence Lis avis.md",
     "400 DANSE/Tandem Entrances.md",
     "Soirée Lindy Rockcaliente Octobre 2023.md",
-    "Histoire des arts/1.Esthétique sonore.md",
-    "Histoire des arts/Histoire/3.LE BAROQUE.md",
     "410 Notes Rapides",
     "References/Sans titre",
     "420 References",
@@ -219,6 +219,6 @@
     "Histoire des arts/Histoire",
     "Z2-Modèles",
     "Bachelier Ingénierie Sonore",
-    "900 Excalidraw"
+    "Z3-Dessins et schemas"
   ]
 }

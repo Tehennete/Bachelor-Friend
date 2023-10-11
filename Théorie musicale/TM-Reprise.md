@@ -10,7 +10,7 @@ Date: [[2023-10-10]] | Tags : #cours #theorie-musicale
 
 [[Amen Break]] → Break le plus utiliser, fondation de plusieurs genres musicaux → Drum'n'Bass, Jungle. 
 Réaliser par G.C. Coleman avec le groupe [[The Winston]].
-Découverte écoute [[Stéréoptique]]
+Découverte écoute [[Stéréoptique]] 
 
 
 ## Objectif de l'année
