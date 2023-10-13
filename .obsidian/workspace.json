@@ -11,13 +11,8 @@
             "id": "9715efe4b68e730e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technologies des Equipements/Time Code-1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technologies des Equipements/Time Code-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technologies des Equipements/Time Code-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Technologies des Equipements/Time Code-1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,8 +176,9 @@
   },
   "active": "9715efe4b68e730e",
   "lastOpenFiles": [
-    "2023-10-11.md",
+    "Technologies des Equipements/Time Code.md",
     "Technologies des Equipements/Time Code-1.md",
+    "2023-10-11.md",
     "Histoire des arts/Essais pour le github.md",
     "Histoire des arts/1.Esthétique sonore.md",
     "Z1-Utilitaire/Test pour thème.md",
@@ -211,7 +203,6 @@
     "Appel 22-09-2023.md",
     "Check de rentrée niveau 2.md",
     "Sans titre.md",
-    "410 Notes Rapides/Conférence Lis avis.md",
     "410 Notes Rapides",
     "References/Sans titre",
     "420 References",
