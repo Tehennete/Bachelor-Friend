@@ -14,8 +14,22 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "3ae74fbb5978156b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physique/Révisions-physique-2023.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Physique/Révisions-physique-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Physique/Révisions-physique-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Physique/Révisions-physique-2023.md"
+              }
             }
           },
           {
@@ -174,8 +192,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9715efe4b68e730e",
+  "active": "3ae74fbb5978156b",
   "lastOpenFiles": [
+    "Technologies des Equipements/Les Normes PAD.md",
+    "Théorie musicale/Analyse musicale - Virtual Reality.md",
     "Technologies des Equipements/Time Code.md",
     "Technologies des Equipements/Time Code-1.md",
     "2023-10-11.md",
@@ -201,8 +221,6 @@
     "500 Journal/2023-09-23.md",
     "Lisbonne.md",
     "Appel 22-09-2023.md",
-    "Check de rentrée niveau 2.md",
-    "Sans titre.md",
     "410 Notes Rapides",
     "References/Sans titre",
     "420 References",
