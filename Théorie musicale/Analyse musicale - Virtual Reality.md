@@ -6,7 +6,7 @@ Prof: Lenavelan
 Type: notes de cours
 ---
 # Théorie musical - Analyse musicale
-Date: [[2023-10-16]] | Tags : #cours #theorie-musicale 
+Date: [[500 Journal/2023/2023-10-Octobre/2023-10-16]] | Tags : #cours #theorie-musicale 
 ## Propositions d'écoute 
 Unsquare dance - [[Dave Brubeck]] 
 Shufokan - [[Snarky Puppy]]

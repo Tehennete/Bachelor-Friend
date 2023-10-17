@@ -6,7 +6,7 @@ Prof: David Laurent
 Type: notes de cours
 ---
 # Les Normes PAD
-Date: [[2023-10-16]] | Tags : #cours 
+Date: [[500 Journal/2023/2023-10-Octobre/2023-10-16]] | Tags : #cours 
 
 >[!NOTE]
 >Étude de l'évolution et des recommandations actuelles concernant les nomes PAD (Prêt à Diffuser) principalement dans le domaine de l'audio-visuel et de la diffusion télé et plateforme de streaming. La mesure Loudness fera l'objet d'une étude approfondie
