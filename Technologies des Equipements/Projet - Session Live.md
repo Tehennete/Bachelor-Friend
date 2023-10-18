@@ -17,7 +17,8 @@ Un jury décidera du meilleur mix (musiciens et école)
 
 Le lieu ne sera pas adapté au son en tant que tel c'est les décisions sur les choix du materiel qui sera adapté. 
 
->[!info] Objectif
+>[!info]
+>**Objectif :**
 >Être cohérent dans le groupe. Le but c'est de travailler en cohésion.
 > On travail en temps que groupe et pas pour soi.
 
