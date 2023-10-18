@@ -1,13 +1,13 @@
 ---
-Matière: 
-Semestre: 
+Matière: Physique
+Semestre: B2-1
 Date: 2023-10-12
-Prof: 
+Prof: Mebarki
 Type: notes de cours
 tags:
   - cours
 ---
-# Sans titre
+# Rappels 
 Date: [[2023-10-17]] 
 
 ## Atténuation géométrique

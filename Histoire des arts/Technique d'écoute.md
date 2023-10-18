@@ -2,7 +2,7 @@
 Matière: Histoire de la Musique
 Semestre: B2-1
 Date: 2023-10-11
-Prof: Mebarki
+Prof: Tom Mebarki
 Type: notes de cours
 ---
 # Technique d'écoute

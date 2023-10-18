@@ -7,9 +7,10 @@ Type: notes de cours
 tags:
   - cours
   - Technologie-des-équipements
+  - "#pratique"
 ---
 # Projet - Session Live
-Date: [[2023-10-17]] 
+Date: [[2023-10-17]] - [[2023-10-18]]
 
 Rencontre avec le côté artistique → musiciens et toute la partie technique car image et son. 
 Donc préparation à la captation, captation, montage, mixage et mastering
@@ -45,6 +46,10 @@ On communique entièrement par mail.
 SI rapport téléphonique, il faut qu'il y ait une retranscription par mail. 
 L'écris ça reste. User et abuser du mail. 
 
+Faire attention aux retards → si jamais, essayer de faire une estimation de marge d'erreur. 
+Pour les temps toujours ajouter une demi heure aux estimations. 
+
+Bien déléguer les tâches pour une répartition optimale du groupe. 
 ## Objectifs
 ### 01v96 Yamaha
 Apprendre à l'utiliser, le routing, I/O, et l'utilisation de l'extension ADAT.
@@ -118,4 +123,91 @@ Envoyer la fiche tech au régisseur qui renverra
 Toutes les deux prises on change de poste. Les RECs passent au plateau et inversement.
 
 
+
+## Rencontre avec Les GPs + Métaprod
+C'est à eux que tu vas confier tes timings car c'est eux qui vont organiser la journée. 
+
+Plus la prépa est bien faite, moins on aura de soucis en cas de problèmes → Mettre en place des plan A,B,C → Pouvoir avancer malgré les soucis.
+
+Alec et Nicolas → Métaprod 
+
+nicolas@metaprod.fr
+Alec@metaprod.fr
+
+Les prises se font tant que les images ET le son soient content.
+Le but c'est de faire le moins d'éditions possible. 
+
+Penser aux placements → micros par rapport à la lumière et l'image. 
+Comment faire/quel compromis pour avoir le meilleur son et Image. 
+
+Comment s'organise entre le son et l'image dès le matin → Construction lumière et son en simultané. 
+
+Clap systématiques sur les mises à plat. 
+
+Le clap est enregistré → 
+### Termes de démarrage
+1. Moteurs = image est prête 
+2. ça tourne (x le nombre de caméra)
+3. Ça tourne au son (quand le REC à démarré)
+Bien s'écouter 
+4. Annonce
+5. Clap
+6. Une fois tout les ça tourne dis → → **Action**
+7. On coupe UNIQUEMENT quand on entend **coupé**
+
+Sur un tournage c'est le réalisateur le patron (et son assistant), c'est le dieu vivant sur le plateau → Être cohérent et à l'écoute. 
+
+Pour l'ingé son parfois ça passe par un relais qui va voir l'ingé son pour lui demander (car ingé son dans sa bulle →Casque)
+
+### Communication et retour caméramans
+Les caméramans ont besoin d'avoir des retours pour pouvoir suivre les solos et variation musicales (retour des instruments qu'on entend pas sur le plateau)
++Mise en place des canaux intercoms pour qu'ils puissent communiquer entre eux.
+
+Objectif → **COMMUNICATION** bien recentrer les infos → Groupe whatsapp
+
+Par mail, bien penser à dire quel groupe on est. 
+
+Mieux vaut donner 2 fois une infos que de ne pas le dire et que ça devienne un oubli. 
+
+## Tableau de Récap
+
+Groupe Son 
+Groupe GP
+Groupe musique (+ responsable)
+Date de tournage 
+→ A présenter sous forme de fiche 
+Agent de liaison par mail
+
+
+## Coordonnées du groupe - Baltimore
+Electro dub maker
+
+Bassiste -  
+Chanteur - 
+Dub maker - 
+Site internet : www.baltimore-pro.com 
+morceau : Blessing 8ème morceau du lien internet
+
+
+## Pour la semaine du 23 - 27
+### Faire la fiche technique 
+AVEC LE PATCH
+### Se renseigner
+#### 01V96
+Se renseigner sur cette console. 
+Peut être regarder les vidéos sur la console (maybe overview)
+#### Midas XL48-ADAT
+Comprendre la couleur, savoir pour quel instruments/vois on l'utiliser
+#### Patch / Sous-patch 
+Penser au cross-patch, regarder ce que c'est. 
+#### HDP2 - Tascam
+Regarder les videos (pratique)
+http://imamp.colum.edu/mediawiki/index.php/TASCAM_HD-P2_Tutorial
+
+### Consoles
+Les consoles fonctionnent avec des **Layers** (pages)
+Aux (enter) → sous menu → AUX 1 
+Sigle enter = validation 
+
+Sur les consoles numériques, il faut faire attention à ce qu'il y a sur l'écran. 
 

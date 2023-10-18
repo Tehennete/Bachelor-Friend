@@ -48,9 +48,10 @@ Tonalité Eb ?
 ### Rythmique
 4/4 
 ### Grille
-| Ebm7 Ab79 | Db7  Gb$\Delta$ | Cm7/b5 ou Cdim7 | À completer |
-| --------- | --------------- | --------------- | ----------- |
-|           |                 |                 |             |
+| Ebm7 Ab79 | Db7  Gb$\Delta$ | Cm7/b5 ou Cdim7  B$\Delta$ | Bb7 (mesure à deux temps) |
+| --------- | --------------- | --------------------------- | ------------------------- |
+| Ebm7 Ab79 | Db7  Gb$\Delta$ | Cm7/b5 ou Cdim7  B$\Delta$ | Bb7 Ebm7                  |
+|           |                 |                             |                           |
 
 Sur le début c'est chromatique descendant. C# → C → B → Bb
 Ou une monté de quarte / descente de Quinte
