@@ -23,7 +23,7 @@ Septième mineure
 #### Phrygien - Mi (mineur)
 C - Db - Eb - F - G - Ab - Bb
 **Différence avec le Ionien :**
-Comme le **Dorien** avec en plus : 
+Comme le **Dorien** avec en plus: 
 Seconde mineure
 Sixte diminuée
 #### Lydien - Fa (Majeur)
@@ -33,19 +33,20 @@ Quarte augmentée
 #### Mixolydien - Sol (Majeur)
 C - D - E - F - G - A - Bb
 **Différence avec le Ionien :**
-Septième Diminuée
+Septième mineure
 Mode du blues 
 #### Éolien - La (mineur)
 C - D - Eb - F - G - Ab - Bb 
 **Différence avec le Ionien :**
 Comme le dorien avec :
-Septième mineure 
+Sixte diminuée 
 #### Locrien - Si (mineur)
 C - Db - Eb - F - Gb - Ab - Bb 
 **Différence avec le Ionien :**
 Comme le Dorien avec 
 Seconde mineure 
-Quinte diminué
+Quinte diminuée
+Sixte diminuée
 
 ### Tableau des Modes
 | Mode   | Maj/min | Intervals | 2       | 3      | 4      | 5      | 6     | 7        |
