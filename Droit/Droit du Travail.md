@@ -60,7 +60,7 @@ Le dépassement de la durée moyenne de 44 heures est possible, dans la limite d
 ##### Quels sont les temps de pauses prévus
 Un temps de pause de 20 minutes est accordé, dès 6 heures de travail consécutif.
 
->[!info]
+>[!INFO]
 >Tribunal pour les droits du travail : Prud'hommes
 >Si tu es indépendant, c'est le Tribunal de Commerces 
 #### Durée maximale journalière de travail effectif pour un technicien du spectacle
