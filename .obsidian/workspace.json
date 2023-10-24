@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physique/Révisions-physique-2023.md",
+                "file": "Technologies des Equipements/Les Normes PAD.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physique/Révisions-physique-2023.md",
+                "file": "Technologies des Equipements/Les Normes PAD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physique/Révisions-physique-2023.md",
+                "file": "Technologies des Equipements/Les Normes PAD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physique/Révisions-physique-2023.md"
+                "file": "Technologies des Equipements/Les Normes PAD.md"
               }
             }
           },
@@ -194,6 +194,11 @@
   },
   "active": "3ae74fbb5978156b",
   "lastOpenFiles": [
+    "Technologies des Equipements/Codages des signaux.md",
+    "Informatique/Protools/Certification Protools.md",
+    "Informatique/Protools/Raccourcis Protools.md",
+    "Informatique/Protools/Elastic audio.md",
+    "Physique/Révisions-physique-2023.md",
     "Technologies des Equipements/Les Normes PAD.md",
     "Théorie musicale/Analyse musicale - Virtual Reality.md",
     "Technologies des Equipements/Time Code.md",
@@ -216,11 +221,6 @@
     "Z2-Modèles/Modèle Cours.md",
     "2023-09-25.md",
     "NaN.md",
-    "POur mettre à jour mon modèle.md",
-    "500 Journal/2023-09-24.md",
-    "500 Journal/2023-09-23.md",
-    "Lisbonne.md",
-    "Appel 22-09-2023.md",
     "410 Notes Rapides",
     "References/Sans titre",
     "420 References",

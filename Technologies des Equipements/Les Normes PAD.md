@@ -44,7 +44,7 @@ Plusieurs institutions internationales ont proposé des normes qui se rejoignent
 - *USA* : ATSC A/85 RP
 - *International* : ITU-R BS.1770-1/ évolue en 2, 3, 4 (Dernière en vigueur)  (avec LKFS, où la mesure ce fait avec une courbe de pondération K, à regarder si c'est encore présent sur la dernière version)
 
->[!info] Remarque
+>[!NOTE] 
 >	La CST a proposé des recommandations qui sont reprises par certains diffuseurs to en France = Recommandation CST-RT-017-V3 (très ressemblante à la norme EBU)
  
 Donc il faut aller voir sur les normes PAD de la chaîne quelle norme elle applique et ses recommandation techniques. (Fiche PAD quoi).
@@ -62,13 +62,13 @@ C'est la mesure de loudness faite sur une longue période. Impliqué un start/st
 #### Loudness Short Term / en LUFS
 C'est une mesure de loudness qui intègre les 3 dernières secondes (défini par EBU). Un Meter Short Term affiche le **niveau moyen des 3 dernières secondes**. Il donne une idée de l'évolution du niveau du programme et de sa dynamique. Le loudness Short Term est mesuré sans la "Safety" gate. 
 
-> [!note] Notabene
+> [!NOTE] 
 > certains instruments de mesure permettent aussi un short term sur 10sec.
 
 #### Loudness Momentary / en LUFS
 C'est une mesure de loudness (sans gate) **intégrée sur 400ms** (définition EBU). Sert de "Vu-mètre" agrémenté de la pondération ITU. Peu utilisé actuellement. Unité = LUFS
 
-> [!note] Notabene 
+> [!NOTE]
 > La norme ITU utilisait la notation LkFS pour signifier que la courbe de pondération k était appliquée. Aujourd'hui une harmonisation autour de l'unité LUFS a été mise en place 
 
 #### True Peak / en dBTP
