@@ -18,8 +18,7 @@ Un jury décidera du meilleur mix (musiciens et école)
 
 Le lieu ne sera pas adapté au son en tant que tel c'est les décisions sur les choix du materiel qui sera adapté. 
 
->[!info]
->**Objectif :**
+>[!info] Objectif
 >Être cohérent dans le groupe. Le but c'est de travailler en cohésion.
 > On travail en temps que groupe et pas pour soi.
 
@@ -82,7 +81,7 @@ On demande les contacts, le responsable du groupe. Qui est le plus réactif. Pen
 Éléments constituant (le band)
 Éléments de backline(instruments)
 Éléments scénographique (position dans l'espace) → meta prod
-Le quatrième point on pourra en discuter dès le [[500 Journal/2023-10-17|2023-10-17]].
+Le quatrième point on pourra en discuter dès le [[2023-10-17|2023-10-17]].
 ##### Demandes
 1. Fiche technique provisoire
 Avec un patch + Plan de scène. 
@@ -198,7 +197,9 @@ AVEC LE PATCH
 Se renseigner sur cette console. 
 Peut être regarder les vidéos sur la console (maybe overview)
 #### Midas XL48-ADAT
-Comprendre la couleur, savoir pour quel instruments/vois on l'utiliser
+Pré-amp issue de la console XL4 → Son coloré → à transistors 
+Comprendre la couleur, savoir pour quel instruments/vois on l'utiliser 
+![[IMG_0038.png|400]]
 #### Patch / Sous-patch 
 Penser au cross-patch, regarder ce que c'est. 
 #### HDP2 - Tascam
