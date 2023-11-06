@@ -27,7 +27,7 @@ A un signal sinusoidal $u(t) = Û.sin(\omega t+\theta_U)$ est associé un vecteu
 ### Nombre.complexe
 axe des imaginaires (b) et axe des imaginaires (a)
 
-- module |$\underline{Y}$| = p = valeur efficace Y 
+- module | $\underline{Y}$ | = p = valeur efficace Y 
 - argument arg ($\underline{U}$) = phase à l'origine $\theta_U$
 
 ## 3. Ensemble C
