@@ -1,7 +1,7 @@
 ---
 Matière: Théorie de la Musique
 Semestre: B2-1
-Date: 2023-10-12
+Date: 2023-10-17
 Prof: 
 Type: notes de cours
 tags:
@@ -23,7 +23,7 @@ Septième mineure
 #### Phrygien - Mi (mineur)
 C - Db - Eb - F - G - Ab - Bb
 **Différence avec le Ionien :**
-Comme le **Dorien** avec en plus: 
+Comme le **Dorien** avec en plus : 
 Seconde mineure
 Sixte diminuée
 #### Lydien - Fa (Majeur)
@@ -33,22 +33,32 @@ Quarte augmentée
 #### Mixolydien - Sol (Majeur)
 C - D - E - F - G - A - Bb
 **Différence avec le Ionien :**
-Septième mineure
+Septième Diminuée
 Mode du blues 
 #### Éolien - La (mineur)
 C - D - Eb - F - G - Ab - Bb 
 **Différence avec le Ionien :**
 Comme le dorien avec :
-Sixte diminuée 
+Septième mineure 
 #### Locrien - Si (mineur)
 C - Db - Eb - F - Gb - Ab - Bb 
 **Différence avec le Ionien :**
 Comme le Dorien avec 
 Seconde mineure 
-Quinte diminuée
-Sixte diminuée
+Quinte diminué
 
-### Tableau des Modes
+### Tableau des Degrés
+| Degré          | I   | ii  | iii | IV  | V   | iv  | iiv$^{dim}$ |
+| -------------- | --- | --- | --- | --- | --- | --- | ----------- |
+| Base Do : Note | C   | D   | E   | F   | G   | A   | B           |
+| Note           | Do  | ré  | mi  | Fa  | Sol | la  | si (dim)    |
+| Base Fa        | F   | G   | A   | Bb  | C   | D   | E           | 
+
+
+
+
+
+
 | Mode   | Maj/min | Intervals | 2       | 3      | 4      | 5      | 6     | 7        |
 | ------ | ------- | --------- | ------- | ------ | ------ | ------ | ----- | -------- |
 | Ionien | Maj     |           | Seconde | tierce | quarte | quinte | sixte | septième |

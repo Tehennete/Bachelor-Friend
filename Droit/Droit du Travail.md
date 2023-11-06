@@ -9,7 +9,7 @@ tags:
   - droit
 ---
 # Droit du travail
-Date: [[2023-10-09]] - [[500 Journal/2023-10-16|2023-10-16]] - [[2023-10-23]]
+Date: [[2023-10-09]] - [[2023-10-16|2023-10-16]] - [[2023-10-23]] - [[2023-10-30]]
 ## Les règles générales applicables aux contrats de travail 
 C'est un contrat qui va lier un personne à une personne physique, contrat qui peut avoir différentes formes (CTT, CDI, CDD, CDDU).
 Il a trois phrase dans le contrat de travail : 
@@ -119,13 +119,25 @@ Les secteurs professionnels pouvant recourir au CDDU sont listes a l'article D12
 
 #### Avantages (principalement employeur)
 Le principal avantage de ce mode d'embauche est la souplesse d'utilisation. Contrairement au CDD standard, ou à celui de remplacement ce dernier permet à l'employeur :
-- de reconduire les CDD des salariés de manière répétée et sans limitation:
-- de conclure les COD sans avoir besoin de mettre de date de fin du contrat CDD précise dans le contrat
+- de reconduire les CDD des salariés de **manière répétée et sans limitation**.
+- de conclure les COD sans avoir besoin de mettre de date de **fin du contrat CDD précise** dans le contrat. C'est une condition 
 - d'embaucher immédiatement un autre salarié sans avoir besoin de respecter la période d'attente normalement obligatoire entre deux CDD
-- de ne pas verser au salarié les indemnités de précarités qui sont normalement obligatoires en fin de contrat (article L.1243-10 du code du travail).
+
+>[!NOTE] 
+>Un CDD peut être renouveler 2 fois. Parfois les employeurs reprenaient un nouveau salarié après les trois CDDs. Ce qui est interdit car il y a un délais de carence entre l'emploi des deux salariés CDD (plusieurs mois).
+
+
+- de ne pas verser au salarié **les indemnités de précarités** qui sont normalement obligatoires en fin de contrat (article L.1243-10 du code du travail).
 
 >[!NOTE]
 >L'intermittence n'est pas un statut, mais un mode de chômage. Pôle emploi te paie durant tes périodes sans travail. 
 
+1. D ✅
+2. B ✅
+3. B ❌ C 
+4. B ✅
+5. C 
 
 
+Quand on poursuit devant le tribunal civil : Dommages et intérêts → plus intéressant pour grappiller de l'argent.
+Tribunal pénal → Prison ou/et Amande.  
