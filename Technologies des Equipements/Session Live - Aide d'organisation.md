@@ -12,26 +12,26 @@ tags:
 Date: [[2023-11-07]] 
 ## Liste materiel
 ### Cables
-8 XLR
-1 TRS - XLRf. (Il faudra des TRS - XLRm pour les aux)
-2 Éclatés 
-2 Toslink (3 avec le spare)
-2 BNC (3 avec le spare)
-2 Multiprises
-2 Prolongs
-2 cable coaxiaux Stéréo avec prise RCA 
-1 Sous Patch 
+- 8 XLR
+- 1 TRS - XLRf. (Il faudra des TRS - XLRm pour les aux)
+- 2 Éclatés 
+- 2 Toslink (3 avec le spare)
+- 2 BNC (3 avec le spare)
+- 2 Multiprises
+- 2 Prolongs
+- 2 cable coaxiaux Stéréo avec prise RCA 
+- 1 Sous Patch 
 ### Hardware
-Régie scarlet midas + préamplificateurs mic et Casque + alim (7shuko)
-Console 01v96
-1 HDP2 + ALIM (DC12) + CARTE + **LECTEUR DE CARTE**
-2 Enceintes Edirols + Alim bipolaire 220V
-2 Enceinte ADAM ou genelec
-1 Patch
-1 MacBook + Alim
+- Régie scarlet midas + préamplificateurs mic et - Casque + alim (7shuko)
+- Console 01v96
+- 1 HDP2 + ALIM (DC12) + CARTE + **LECTEUR DE CARTE**
+- 2 Enceintes Edirols + Alim bipolaire 220V
+- 2 Enceinte ADAM ou genelec
+- 1 Patch
+- 1 MacBook + Alim
 ### Micros
-2 SM86
-1 SM58 On/Off TB
+- 2 SM86
+- 1 SM58 On/Off TB
 # Déroulé
 ## Régie REC 
 1. On prépare le Hardware → Mise en place + électricité
