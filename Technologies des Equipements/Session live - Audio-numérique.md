@@ -1,7 +1,7 @@
 ---
 Matière: Technologie des Equipements
 Semestre: B2-1
-Date: 2023-10-12
+Date: 2023-10-23
 Prof: Ruddy Palmier
 Type: notes de cours
 tags:
@@ -94,7 +94,11 @@ Le jour J, c'est à notre charge.
 Proposition de patch → Fin de semaine impératif → Patch protools (quels préamps)
 
 Donc il faut deux patch (scène/protools)
-### Hardware Console 
+
+## Diff après écoute midas/ focusrite 
+Son punchy et clair pour le Midas, le midas colore le son → MIDAS a fait colorer ses préamplificateurs pour leur donner une signature.  On récupère de la patate. 
+Les pré-amps sont juste la pour monter le niveau. On attend d'un préamplificateurs qu'il nous donne de la dynamique. 
+## Hardware Console 
 On va ajouter une extension Behringer sur la console Yamaha → Pour les connecter : toslink + BNC (ADAT + Wordclock)
 
 À faire pour la synchro → Vérifier que c'est bien la console qui donne le WC
@@ -120,7 +124,7 @@ Objectifs :
 Faire un patch 
 Synchroniser les machines 
 Maîtriser le routing c'est la base → Maîtriser le signal et équaliser pour que ce soit clean dans les oreilles. Avec en plus caler une plate dans la voix.
-#### Pairer les Stéréoptique 
+#### Pairer les Stéréo
 
 Display Access → Pair 
 Ensuite on choisit les voies que l'on veut appairer. Elles sont appairés aux faders et EQ. tous le reste (gain, pan) ne seront pas impacter. 
@@ -203,7 +207,18 @@ Sinon il y a juste la led qui signal le -20dB et le PEAK
 
 Quand on fait le gain, penser que les EQ altèrent le gain → penser à adapter le niveau après les EQ
 
-### Sur Protools
+#### 2-track
+Patch → Onglet 2-tracks
+
+2-track in ou le 2-track Output 
+
+
+### Pendant le REC 
+Il faudra un bon niveau pour le HDP2. 
+## Plateau
+C'est la régie plateau qui envoie le +48 MON → Bien penser à demander aux collègues qui envoie le 48 Volt
+
+## Sur Protools
 #### Création de session
 48k 24bits 
 
@@ -216,6 +231,56 @@ Par déduction on a trouvé que le 9-10 correspondait au SPDIF → le check quan
 Sur laquelle on va mettre le clic
 ##### bus 
 On ne va pas utiliser les bus. 
-
 ##### Le clic 
-On ne vas pas lui mettre de sortie de base, on va l'envoyer dans une des sorties de la carte avec un send. 
+On ne vas pas lui mettre de sortie de base, on va l'envoyer dans une des sorties de la carte avec un send.  Ou en paramétrant directement sur la sortie.
+
+## Patch 
+Manque de détails. 
+Mettre deux sous patchs → Jar et cours 
+Sur une scène jamais de cable en nez de scène (sécurité). 
+Noter les capsules si c'est des capsules (schoeps)
+
+Midas généreuse dans le bas médium → Et un peu molle → à palier avec un compresseur. 
+SSL comp sur une batterie → Donne du gain. 
+Le préamplificateurs amène de la SATURATION (préamplificateur avec coloration)
+
+TELEFUKEN M80/M81
+
+La chose la plus importante c'est Le couple MICRO/PR2
+Transistors => SEC 
+LAMP => Sec ou moelleux
+
+Le plus important c'est le lien entre micro et préamplificateurs. 
+
+Détailler les AUX → AUX 1 → lead / AUX 2 → basse
+Chercher à exprimer de façon simple. 
+Notifier le hors phase - Le +48V - L'ÉQ - Tout. 
+Détailler tout, tout, tout → Même chose pour les AUXs
+
+**Valider tous les mail par le Régisseur**
+### Prendre une grosse caisse 
+Kick In (91)
+Kick Out (52)
+L'un va servi à l'attaque(in) et l'autre le boomy(out)
+Sur des styles percussifs → Hip Hop, RnB, Rock 
+AUDIX D6 → permet le même résultat que le couple 91-52 mais on privilégiera toujours le. Couple car permet de varier la grosse caisse pendant le morceau. 
+### Caisse claire 
+Top → Côté percussif et peau attaque 
+Bottom → Le timbre et la résonance 
+L'objectif c'est que tout le monde dans le groupe comprennent. 
+
+## Cross patch 
+→ Routing 
+![[Session live - Audio-numérique 2023-10-30 14.57.58.excalidraw]]
+
+Ground Lift penser à le mettre sur les DIs et sur le cross-patch
+
+Sur le cross patch une entrée pour deux sorties → Foh / Mon 
+Sur le patch que l'on va utiliser il y a qu'une seule sortie qui peut être alimenté par +48 VOLT 
+
+>[!note]
+>Bien REC une voix c'est savoir gérer n'importe quel instrument. 
+
+Bah ouais c'est le tarif hein après c'est quand tu as un Nom… 
+
+Installer les retours casque 

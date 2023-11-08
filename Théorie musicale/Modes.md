@@ -15,7 +15,7 @@ Date: [[2023-10-17]]
 ### Sur la gamme de do
 #### Ionien - Do (majeur naturel)
 C - D - E - F - G - A - B
-#### Dorien - Ré (mineur naturel) 
+#### Dorien - Ré (mineur) 
 C - D - Eb - F - G - A - Bb
 **Différence avec le mode Ionien**
 Tierce mineure 
@@ -35,7 +35,7 @@ C - D - E - F - G - A - Bb
 **Différence avec le Ionien :**
 Septième Diminuée
 Mode du blues 
-#### Éolien - La (mineur)
+#### Éolien - La (mineur Naturel)
 C - D - Eb - F - G - Ab - Bb 
 **Différence avec le Ionien :**
 Comme le dorien avec :
@@ -52,14 +52,15 @@ Quinte diminué
 | -------------- | --- | --- | --- | --- | --- | --- | ----------- |
 | Base Do : Note | C   | D   | E   | F   | G   | A   | B           |
 | Note           | Do  | ré  | mi  | Fa  | Sol | la  | si (dim)    |
-| Base Fa        | F   | G   | A   | Bb  | C   | D   | E           | 
+| Base Fa        | F   | g   | A   | Bb  | C   | D   | E           | 
 
-
-
-
-
-
-| Mode   | Maj/min | Intervals | 2       | 3      | 4      | 5      | 6     | 7        |
-| ------ | ------- | --------- | ------- | ------ | ------ | ------ | ----- | -------- |
-| Ionien | Maj     |           | Seconde | tierce | quarte | quinte | sixte | septième |
-| Dorien |         |           |         |        |        |        |       |          |
+## Autres Gammes
+#### Mineur Mélodique
+C - D - Eb - F - G - A - B
+**C'est un ionien avec une tierce mineure**
+#### Mineur Harmonique
+C - D - Eb - F - G - Ab - B 
+**Différence avec le Ionien :**
+Tierce Mineure 
+Sixte Mineure
+Mais attention la 7ème est *MAJEUR*

@@ -58,4 +58,7 @@ Rapport à faire d'après la session
 	- Patchs 
 	- Synopsys et synoptique (explication Avec nos mots à nous - avec un schéma / dessin) → Explication du système et du process 
 	- Rapport Son 
-- 
+
+## Ré-amping guitare basse 
+Chopper la référence d'ampli sur le plateau, faire une photo des réglages du musiciens pour les ré-injecter dans la simulation d'ampli en prenant le même ampli. 
+
