@@ -14,22 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "3ae74fbb5978156b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technologies des Equipements/Session Live - Présentation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technologies des Equipements/Session Live - Présentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technologies des Equipements/Session Live - Présentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,6 +178,17 @@
   },
   "active": "152f4375e936999b",
   "lastOpenFiles": [
+    "Technologies des Equipements/Session Live/Session Live - Semaine avant le REC.md",
+    "Technologies des Equipements/Session Live/Session Live - Regie REC.md",
+    "Technologies des Equipements/Session Live/Session Live - Présentation.md",
+    "Technologies des Equipements/Session Live/Session Live - Protools.md",
+    "Technologies des Equipements/Session Live/Session Live - Mise en place système.md",
+    "Technologies des Equipements/Session Live/Session Live - Console - 01V96.md",
+    "Technologies des Equipements/Session Live/Session Live - Intercoms.md",
+    "Technologies des Equipements/Session Live/Session Live - Audio-numérique.md",
+    "Technologies des Equipements/Session Live/Session Live - Aide d'organisation.md",
+    "Technologies des Equipements/Session Live",
+    "Technologies des Equipements/DI.md",
     "Anglais/Anglais - Scene Play.md",
     "Anglais/Anglais - Question Pronouns.md",
     "Anglais/Anglais - Time reminder.md",
@@ -210,17 +205,7 @@
     "Technologies des Equipements/Time Code.md",
     "Technologies des Equipements/Time Code-1.md",
     "2023-10-11.md",
-    "Histoire des arts/Essais pour le github.md",
-    "Histoire des arts/1.Esthétique sonore.md",
-    "Z1-Utilitaire/Test pour thème.md",
-    "500 Journal/2023-10-06.md",
     "000 Bachelor Ingénierie Sonore/Ma-sauvegarde",
-    "Cours jeudi nouvelle organisation.md",
-    "500 Journal/2023-10-05.md",
-    "500 Journal/2023/2023-09-23.md",
-    "500 Journal/2023/2023-09-24.md",
-    "500 Journal/2023-09-25.md",
-    "500 Journal/2023-09-26.md",
     "410 Notes Rapides",
     "References/Sans titre",
     "420 References",

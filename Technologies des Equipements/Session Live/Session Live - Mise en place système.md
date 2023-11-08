@@ -62,3 +62,24 @@ Rapport à faire d'après la session
 ## Ré-amping guitare basse 
 Chopper la référence d'ampli sur le plateau, faire une photo des réglages du musiciens pour les ré-injecter dans la simulation d'ampli en prenant le même ampli. 
 
+## Problèmes 
+### Micros
+Partir de la ligne → Penser à passer outre le patch → Le brancher en direct`
+
+### Feedback
+Attention quand on écoute aux monitor de bien couper le rec.
+## Différence de Micro 
+Le schoeps est beaucoup plus clair que l'Oktava. 
+Neumann ne fait que des micros sur le classique → Ils sont donc très fidèles en restitution, donc on en voit beaucoup sur des orchestres et des opéras. Mais ils sont très fragile. 
+
+## Prise Hugo William 
+Hugo = Midas
+William = Scarlett
+### 1 prise 
+Ambiance = Oktava Mk012 avec atténuateur 
+### 2 prise 
+Ambiance = Schoeps 
+### 3 prise 
+Ambiance = Oktava Mk012 
+### 4 prise 
+Ambiance = Neumann 184
