@@ -1,6 +1,9 @@
 ---
 Matière: Protools
-Semestre: B1-1, B1-2, B2-1
+Semestre: 
+- B1-1 
+- B1-2
+- B2-1
 Type: notes de cours
 ---
 # Raccourcis Pro Tools
