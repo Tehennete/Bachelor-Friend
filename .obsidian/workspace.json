@@ -11,8 +11,13 @@
             "id": "9715efe4b68e730e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Technologies des Equipements/Les Liaisons HF.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Technologies des Equipements/Les Liaisons HF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Technologies des Equipements/Les Liaisons HF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Technologies des Equipements/Les Liaisons HF.md"
+              }
             }
           },
           {
@@ -176,10 +185,15 @@
   },
   "active": "df89177c9357c6a5",
   "lastOpenFiles": [
+    "Technologies des Equipements/Les Liaisons HF.md",
+    "Technologies des Equipements/Liaisons HautesF.md",
+    "Technologies des Equipements/Liaisons HF.md",
+    "Technologies des Equipements/DI.md",
+    "Technologies des Equipements/Les Normes PAD.md",
+    "conflict-files-obsidian-git.md",
     "Histoire des arts/Histoire/Commentaire d'écoute - focus.md",
     "Histoire des arts/Histoire/Commentaire d'écoute - Focus",
     "Droit/Responsabilité contractuelle et delictuelle.md",
-    "conflict-files-obsidian-git.md",
     "Technologies des Equipements/Session Live/Session Live - Préparation.md aux studios",
     "Technologies des Equipements/Session Live/Session live - Préparation aux studios.md",
     "Technologies des Equipements/Session Live/Session Live - Préparation aux studios",
@@ -201,11 +215,6 @@
     "Technologies des Equipements/Session Live/Session Live - Audio-numérique.md",
     "Technologies des Equipements/Session Live/Session Live - Aide d'organisation.md",
     "Technologies des Equipements/Session Live",
-    "Technologies des Equipements/DI.md",
-    "Anglais/Anglais - Scene Play.md",
-    "Anglais/Anglais - Question Pronouns.md",
-    "Anglais/Anglais - Time reminder.md",
-    "Technologies des Equipements/Session live - Audio-numérique.md",
     "000 Bachelor Ingénierie Sonore/Ma-sauvegarde",
     "410 Notes Rapides",
     "References/Sans titre",
