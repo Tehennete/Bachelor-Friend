@@ -1,12 +1,12 @@
 ---
 Matière: Technologie des Equipements
 Semestre: B2-1
-Date: 2023-10-11
-Prof: David Laurent
+Date: 2023-10-12
+Prof: "[[David Laurent]]"
 Type: notes de cours
 ---
 # Codages des signaux
-Dates: [[500 journal/2023-10-12|2023-10-12]]  | Tags : #cours #Technologie-des-équipements
+Dates: [[2023-10-12 1|2023-10-12 1]]  | Tags : #cours #Technologie-des-équipements
 
 # Codages des signaux
 ### 1 Codage NRZ

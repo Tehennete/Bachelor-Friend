@@ -1,8 +1,10 @@
 ---
-Matière: Droit
-Semestre: B2-1
+Matière:
+  - Droit
+Semestre:
+  - B2-1
 Date: 2023-10-09
-Prof: Djebbari
+Prof: "[[Adem Djebbari]]"
 Type: notes de cours
 tags:
   - cours
@@ -16,7 +18,7 @@ Il a trois phrase dans le contrat de travail :
 - Pré-contractuelle 
 - Contractuelle : débute à la signature du contrat, elle commence avec une période transitoire qui a une durée variable en fonction du secteur (il y a des secteur sans période transitoire), elle est souvent plus longue pour les CDIs que pour les CDDs.
 Dans le privé, la durée minimum est de 1 mois, renouvelable une fois. Souvent la durée est lié au statut de l'emploi dans la société. 
-- Post-contractuelle : Débute quand le contrat se termine
+- Post-contractuelle : Débute quand le contrat se ==termine==
 
 ### Phase Pré-contractuelle 
 Dérapage sur les serveurs dans les restaurants de spécialité (pays, et autres)

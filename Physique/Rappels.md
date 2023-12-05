@@ -1,7 +1,7 @@
 ---
 Matière: Physique
 Semestre: B2-1
-Date: 2023-10-12
+Date: 2023-10-17
 Prof: Mebarki
 Type: notes de cours
 tags:

@@ -1,15 +1,12 @@
 ---
 Matière: Technologie des Equipements
 Semestre: B2-1
-Date: 2023-10-12
-Prof: David Laurent
+Date: 2023-10-16
+Prof: "[[David Laurent]]"
 Type: notes de cours
-tags:
-  - cours
-  - Technologie-des-équipements
 ---
 # Les Normes PAD
-Date: [[500 Journal/2023/2023-10-Octobre/2023-10-16]] 
+Date: [[500 Journal/2023/2023-10-Octobre/2023-10-16|2023-10-16]] - [[2023-10-19]]   | Tags : #cours 
 
 >[!NOTE]
 >Étude de l'évolution et des recommandations actuelles concernant les nomes PAD (Prêt à Diffuser) principalement dans le domaine de l'audio-visuel et de la diffusion télé et plateforme de streaming. La mesure Loudness fera l'objet d'une étude approfondie
@@ -47,7 +44,7 @@ Plusieurs institutions internationales ont proposé des normes qui se rejoignent
 - *USA* : ATSC A/85 RP
 - *International* : ITU-R BS.1770-1/ évolue en 2, 3, 4 (Dernière en vigueur)  (avec LKFS, où la mesure ce fait avec une courbe de pondération K, à regarder si c'est encore présent sur la dernière version)
 
->[!NOTE] 
+>[!info] Remarque
 >	La CST a proposé des recommandations qui sont reprises par certains diffuseurs to en France = Recommandation CST-RT-017-V3 (très ressemblante à la norme EBU)
  
 Donc il faut aller voir sur les normes PAD de la chaîne quelle norme elle applique et ses recommandation techniques. (Fiche PAD quoi).
@@ -65,13 +62,13 @@ C'est la mesure de loudness faite sur une longue période. Impliqué un start/st
 #### Loudness Short Term / en LUFS
 C'est une mesure de loudness qui intègre les 3 dernières secondes (défini par EBU). Un Meter Short Term affiche le **niveau moyen des 3 dernières secondes**. Il donne une idée de l'évolution du niveau du programme et de sa dynamique. Le loudness Short Term est mesuré sans la "Safety" gate. 
 
-> [!NOTE] 
+> [!note] Notabene
 > certains instruments de mesure permettent aussi un short term sur 10sec.
 
 #### Loudness Momentary / en LUFS
 C'est une mesure de loudness (sans gate) **intégrée sur 400ms** (définition EBU). Sert de "Vu-mètre" agrémenté de la pondération ITU. Peu utilisé actuellement. Unité = LUFS
 
-> [!NOTE]
+> [!note] Notabene 
 > La norme ITU utilisait la notation LkFS pour signifier que la courbe de pondération k était appliquée. Aujourd'hui une harmonisation autour de l'unité LUFS a été mise en place 
 
 #### True Peak / en dBTP
@@ -118,3 +115,56 @@ De nombreux diffuseurs TV en France se basent sur ces recommandations.
 Tableau des valeurs recommandées par la CST
 
 ![[IMG_0025.png]]
+Aller sur la CST pour télécharger le document de base (qui a été le point de départ)
+## Les Instruments de mesure 
+Pour permettre aux ingénieurs son et aux vérificateurs PAD des chaînes de tv de s'assurer que les programmes sonores respectent les normes définies, il est indispensable d'utiliser des instruments de mesure adaptés au Loudness.
+On les trouve sous la forme d'appareils hardware (ex : Clarity de TC Electronic, WFM 8300 de TeKtronix) ou sous la forme de softwares ou plug-ins (ex : WLM Meter de Waves, VsiLM2 de Nugen).
+
+Un outil qui se nomme Loudness meter, il est calibré pour les recommandations.
+### WLM Meter de Waves
+Dans load en haut à droite on a la liste des différentes normes. Car il faut bien le paramétrer pour qu'il nous informe des dépassement des normes dans lesquelles on travaille. 
+### VisLM2 de Nguyen Audio 
+Avantage on a une courbe en fonction du temps avec une deuxième courbe en pourcentage. 
+### Clarity de TS Electronic 
+Penser à mettre le plug-in qui envoie l'info au hardware.
+
+## Normes plateformes streaming
+### Recommandation de l'EBU R128 s2(2021)
+#### Considérations initiales
+- La grande majorité des diffuseurs européens utilisent la R128 (cible-23LUFS)
+- Il existe 2 situation d'écoute depuis les plateformes de streaming 
+	1. Système avec gain important et grande dynamique (home cinéma, enceinte connectée, ou tv)
+	2. Système avec gain et dynamique limitée (smartphone, tablettes, ordinateurs portables…)	
+	3. 
+>[!NOTE]
+> le cas du casque n'est pas abordé mais peut entrer dans la catégorie 1
+
+#### Recommandations 
+- Les programmes sonores devraient être livrés suivant la norme R128 et le guide technique 3343
+- Les programmes devraient être diffusés tels quels sans modification de niveaux.
+- Les métadonnées devraient être utilisées en indiquant correctement le niveau Loudness 
+
+D'autre propositions avancées par l'EBU : 
+- Si pas de gestion des métadonnées, alors une optimisation des niveaux réalise par la plateforme est possible pour atteindre une cible loudness entre -20 et -16 LUFS
+- Pour les plateformes qui ont leur propre application (app téléphone, web, browser…) et qui utilisent les métadonnées : gestion des niveaux directement sur l'appareil. Cf schéma. Les adaptations se font avec intelligence car elles prennent en compte les métadonnées. 
+
+On observera que pour l'instant les plateformes n'ont pas réussi à se mettre d'accord sur une norme et se situent à des niveaux assez différents. Attention lorsque vous faites un upload d'un programme sonore qui ne respecte pas la norme de la plateforme, un algorithme va analyser puis modifier votre mix ! Pour vérifier son mix, il existe par exemple le site web :
+[vérificateur de mix](https://www.loudnesspenalty.com)
+
+Tableau des cibles Loudness des plateformes 2022
+
+| Valeur en LUFS | Plateforme                           |
+| -------------- | ------------------------------------ |
+| -11            | Spotify                              |
+| -14            | Amazon, Spotify, Tidal, Youtube      |
+| -15            | Deezer                               |
+| -16            | Apple, AES Streaming Recommandations |
+| -18            | Sony Entertainement                  |
+| -23            | EU R128 broadcast                    |
+| -24            | US TV ATSC A/85 Broadcast            |
+| -27            | Netflix Online Streaming             |
+
+D'où l'apparition de Studio de delivery qui font plusieurs propositions de mix pour chaque plateformes. 
+
+
+Regarder soulseak (petit oiseau bleu)

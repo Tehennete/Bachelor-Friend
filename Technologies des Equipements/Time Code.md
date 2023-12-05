@@ -2,11 +2,11 @@
 Matière: Technologie des Equipements
 Semestre: B2-1
 Date: 2023-10-11
-Prof: David Laurent
+Prof: "[[David Laurent]]"
 Type: notes de cours
 ---
 # Time Code
-Dates: [[500 journal/2023-10-11|2023-10-11]] - [[500 journal/2023-10-12|2023-10-12]]  | Tags : #cours #Technologie-des-équipements
+Dates: [[2023-10-11|2023-10-11]] - [[2023-10-12 1|2023-10-12 1]]  | Tags : #cours #Technologie-des-équipements
 
 >[!INFO] Objectif
 >Étude du système de repérage absolu des images en heures, minutes, secondes et nombre d'images, normalisé au niveau mondial. Notions de synchronisation et modes d'utilisation en particulier dans le cas du son à l'image. 

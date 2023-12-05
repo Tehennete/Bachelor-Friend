@@ -1,8 +1,10 @@
 ---
-Matière: Droit
-Semestre: B2-1
+Matière:
+  - Droit
+Semestre:
+  - B2-1
 Date: 2023-11-28
-Prof: Djebbari
+Prof: "[[Adem Djebbari]]"
 Type: notes de cours
 tags:
   - cours

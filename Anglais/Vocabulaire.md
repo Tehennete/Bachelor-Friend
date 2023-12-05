@@ -2,7 +2,7 @@
 Matière: Anglais
 Semestre: B2-1
 Date: 2023-10-12
-Prof: Aurélien Ibanez
+Prof: "[[Aurélien Ibanez]]"
 Type: notes de cours
 ---
 # Vocabulaire

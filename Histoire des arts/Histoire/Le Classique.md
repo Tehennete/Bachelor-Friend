@@ -9,7 +9,7 @@ tags:
   - histoire-de-la-musique
 ---
 # Le Classique
-Date: [[2023-10-18]] 
+Date: [[2023-10-18]] - 2023-11-3
 
 XVIIeme → On va vouloir tout rationaliser car c'est le siècle des lumière. Donc on va transformer tout le Baroque et la renaissance en une référence. Qu'on va ensuite venir changer au romantisme. 
 Le classique c'est une courte période de 50 ans. 
