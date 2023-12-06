@@ -11,13 +11,8 @@
             "id": "9715efe4b68e730e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technologies des Equipements/Les Liaisons HF.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -123,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
