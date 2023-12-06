@@ -42,6 +42,7 @@ Les sanctions qui ne sont pas incompatibles peuvent être cumulées; des dommage
 Article 1240 du Code Civil 
 [Lien vu en cours sur une affaire de chute](https://publications-prairial.fr/bacaly/index.php?id=1467)
 [Analyse des risques](https://www.cnd.fR/fr/file/file/67/inline/13-gestiondesrisques.pdf) (page 10 ou page 2)
-5dec 15h30-17h30
+
+
 
 

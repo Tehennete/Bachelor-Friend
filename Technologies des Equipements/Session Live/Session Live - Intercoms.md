@@ -2,7 +2,7 @@
 Matière: Pratique
 Semestre: B2-1
 Date: 2023-11-08
-Prof: Ruddy Palmier
+Prof: "[[Ruddy Palmier]]"
 Type: notes de cours
 tags:
   - cours

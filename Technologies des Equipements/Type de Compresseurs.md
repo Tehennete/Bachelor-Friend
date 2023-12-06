@@ -21,6 +21,8 @@ Peut être utiliser sur des mix bus ou master bus. Certains de ces compresseurs 
 [[dBx 160A]]
 [[API2500]]
 [[Focusrite ISA130]]
+[[Drawmer DL241]] 
+[[Chameleon Labs 7720]] 
 
 ## FET (Field Effect Transistor)
 ### Description
@@ -31,6 +33,7 @@ Utile sur des instruments de avec beaucoup de transitoires comme une batterie
 
 ### Exemples 
 [[Universal Audio 1176]]
+[[Drawmer 1970]]
 ## Compresseur Opto
 ### Description 
 Compresseur avec un principe Optique basé sur l'utilisation d'une ampoule (dont l'éclairement varie avec le niveau sonore du signal) et d'une cellule photosensible. L'éclairement plus ou moins important capté par la céllule déclenche une réduction de niveau du signal audio en sortie. L'attaque est assez lente et souple, souvent utilisé pour des voix, la basse, les cordes…

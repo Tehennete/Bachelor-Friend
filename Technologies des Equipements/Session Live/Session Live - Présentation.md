@@ -2,7 +2,7 @@
 Matière: Technologie des Equipements
 Semestre: B2-1
 Date: 2023-10-12
-Prof: Ruddy Palmier
+Prof: "[[Ruddy Palmier]]"
 Type: notes de cours
 tags:
   - cours

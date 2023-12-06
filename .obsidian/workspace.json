@@ -86,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technologies des Equipements/Les Liaisons HF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technologies des Equipements/Les Liaisons HF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technologies des Equipements/Les Liaisons HF.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -183,14 +181,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df89177c9357c6a5",
+  "active": "152f4375e936999b",
   "lastOpenFiles": [
     "Technologies des Equipements/Les Liaisons HF.md",
+    "conflict-files-obsidian-git.md",
     "Technologies des Equipements/Liaisons HautesF.md",
     "Technologies des Equipements/Liaisons HF.md",
     "Technologies des Equipements/DI.md",
     "Technologies des Equipements/Les Normes PAD.md",
-    "conflict-files-obsidian-git.md",
     "Histoire des arts/Histoire/Commentaire d'écoute - focus.md",
     "Histoire des arts/Histoire/Commentaire d'écoute - Focus",
     "Droit/Responsabilité contractuelle et delictuelle.md",

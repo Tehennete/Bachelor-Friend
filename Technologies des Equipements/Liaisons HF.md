@@ -1,8 +1,10 @@
 ---
-Matière: Technologie des Equipements
-Semestre: B2-1
+Matière:
+  - Technologie des Equipements
+Semestre:
+  - B2-1
 Date: 2023-10-26
-Prof: David Laurent
+Prof: "[[David Laurent]]"
 Type: notes de cours
 tags:
   - cours
@@ -170,7 +172,56 @@ C'est comme une antenne hélicoïdale mais avec une plaque à l'arrière qui ser
 - Exprimée en dBi ou en Watt
 - Liaison HF : 30mW (environ 15dBm) **Attention : max autorisé 50mW 
 - Émetteur TV : 250kW
-### Traitements audio 
+#### Traitements audio 
 Il sont réalisés dans l'émetteur avant la modulation de la porteuse et l'émission par l'antenne, ils permettent d'optimiser la qualité audio de la liaison HF.
-	1. Réduire le bruit de fond lié à la transmission par une pré-accentuation des aigus (qui seront dé-accentués dans le récepteur ainsi que le bruit de fond apparu pendant la transmission). 
-	2. 
+	1. Réduire le bruit de fond lié à la transmission par une pré-accentuation des aigus (qui seront dé-accentués dans le récepteur ainsi que le bruit de fond apparu pendant la transmission).  
+	2. **Gérer la dynamique** en utilisant un compresseur à ratio 2:1 pour la réduire de 100 à 50 dB environ (on utilisera un expandeur avec ratio 1:2 dans le récepteur pour rétablir les 100dB de départ). Ce double traitement s'appelle un "**compandeur**" (réalisé en Multibandes dans certains modèles haut de gamme). Parfois le ratio est variable (n:1) en fonction du signal audio = meilleur qualité audio. 
+	3. **Empêcher de dépasser le swing autorisé** à 56kHz de variation de la porteuse grâce à un *limiteur*. C'est souvent lui qui impact le plus le son sur les HF analogique. C'est également pour ça qu'il faut vraiment bien régler le gain du micro. 
+
+Les variations de prix de liaisons HF portent souvent sur la qualité des traitements audio. 
+#### Exemple d'émetteur de poches
+[[Sennheiser G4]] - [[Shure ADX1]] (numérique) - [[Audio limited A10-TX]] (numérique)
+
+>[!note]
+>Il existe des modèles d'émetteurs numériques (voir plus paragraphe IV) qui sont équipés d'un enregistreur audio (format carte micro-sd), permettant ainsi d'assurer la prise de son même si la liaison hf avec le récepteur est interrompue ou défaillante. (ex : Zaxcom TRXLA3)
+
+### Récepteur (Rx)
+Il assure la réception de la porteuse par l'antenne puis réalise la démodulation de celle-ci afin de restituer le signal audio via une sortie niveau ligne ou micro (
+
+>[!note]
+>Attention : Niveau OUT MIC à privilégier afin de ne pas utiliser le préamplificateur du récepteur mais celui de la minette ou de la console.
+
+Certains récepteurs possèdent une fonction "**SCAN**" : Recherche automatique d'une fréquence porteuse libre. On trouve parfois une fonction "**SYNC**" : capteur infra-rouge qui permet d'attribuer la fréquence choisie sur le récepteur directement au micro (que l'on approche du capteur), très pratique pour les plateaux avec beaucoup de HF. 
+#### Traitements audio 
+
+![[Liaisons HF 2023-12-06 15.50.59.excalidraw|700]]
+
+#### Squelch 
+- Lorsque l'émetteur s'éloigne du récepteur, le niveau de la porteuse diminue jusqu'à se rapprocher du bruit de fond électromagnétique environnant. A ce moment là le circuit de démodulation ne peut plus isoler correctement la porteuse et produit un bruit blanc audio à fort niveau. C'est la limite de la portée de la liaison HF. 
+- Le Squelch est une fonction qui agit comme un noise-gâté au niveau de la porteuse (RF) dont l'utilisateur **doit régler correctement le seuil** empêchant ainsi l'apparition brutale du bruit blanc lorsque l'émetteur "décroche"
+
+- Si le seuil est réglé trop haut, on sécurise mais on perd en portée 
+- Si le seuil est trop bas, on gagne en porté mais on risque le bruit blanc au décrochage. 
+- **Le réglage du squelch s'éffectue sur le récepteur avec l'émetteur éteint**
+
+Le squelch doit être dans l'idéal juste au dessus du bruit de fond. Sinon la coupure ne s'effectuera pas si le seuil est trop bas, ou le mute se fera trop top si le signal de la porteuse perd un peu de niveau si il est trop haut. 
+*C'est un gate.* 
+Pour régler le squelch il faut éteindre le micro car il ne reste que le bruit de fond : on part avec le seuil le plus haut possible, puis en baissant petit à petit quand on s'approche du bruit de fond le gate va s'ouvrir, il suffit de monter légèrement alors pour être juste au dessus du bruit de fond. Donc ça **se règle**, et surtout avec le **micro éteind**. 
+Sur les récepteurs basique : souvent trois réglages du seuil : *High, mid et low*
+#### Diversity 
+- système à double antenne (A et B) et double circuit de démodulation auquel s'ajoute un comparateur de la meilleure réception entre RF-A et RF-B puis commande le choix en sortie entre l'audio A ou B. Ce système améliore la porté et la stabilité de la liaison hf. 
+>[!note]
+>Certains systèmes sont vendus comme "diversity" car ils ont deux antennes mais un seul circuit de démodulation, ce qui n'est pas du vrai diversity ! Pour se démarquer les systèmes pro qui l'utilisent réellement affichent le terme "True Diversity". 
+
+Les antennes doivent être orientées à 90° l'une de l'autre. 
+Le switch entre les deux canaux est de types crossfade → il est inaudible. 
+### Accessoires
+#### Câble 
+- Coaxial 50$\Omega$ (attention, on ne peut pas utiliser les câble vidéo 75$\Omega$)
+- Connecteur BNC
+- Le signal RF peut subir une atténuation assez importante en fonction de la longueur du câble (jusqu'à plusieurs dizaines de dB). On ajoute parfois un booster d'antenne (appareil qui ajoute du gain). 
+- Il existe plusieurs catégories de câbles avec des performances différentes (A,B,C)
+- Câble faible atténuation : Rigide et cher (=installation fixe dans bâtiments)
+- Un raccord BNC entre 2 câbles provoque une atténuation de 6dB environ. (À éviter)
+#### Splitteur et Combinateur (ou coupleur)
+- Splitteur (ou répartiteur) : Lorsqu'on utilise un nombre important de récepteurs on peut utiliser 
