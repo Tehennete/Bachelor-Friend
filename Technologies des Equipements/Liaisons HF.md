@@ -11,7 +11,7 @@ tags:
   - Technologie-des-équipements
 ---
 # Liaisons HF
-Date: [[2023-10-26]] - 2023-12
+Date: [[2023-10-26]] - [[2023-11-29]] - [[2023-12-01]] - [[2023-12-06]] 
 
 >[!NOTE]
 >Étude des ondes radio permettant le transport de signaux audio sans fil et de la technologie des émetteurs / récepteurs hf.
@@ -221,7 +221,73 @@ Le switch entre les deux canaux est de types crossfade → il est inaudible.
 - Connecteur BNC
 - Le signal RF peut subir une atténuation assez importante en fonction de la longueur du câble (jusqu'à plusieurs dizaines de dB). On ajoute parfois un booster d'antenne (appareil qui ajoute du gain). 
 - Il existe plusieurs catégories de câbles avec des performances différentes (A,B,C)
-- Câble faible atténuation : Rigide et cher (=installation fixe dans bâtiments)
+- Câble faible atténuation : *Rigide* et cher (= installation fixe dans bâtiments)
 - Un raccord BNC entre 2 câbles provoque une atténuation de 6dB environ. (À éviter)
 #### Splitteur et Combinateur (ou coupleur)
-- Splitteur (ou répartiteur) : Lorsqu'on utilise un nombre important de récepteurs on peut utiliser 
+- **Splitteur (ou répartiteur)** : Lorsqu'on utilise un nombre important de récepteurs on peut utiliser uniquement 2 antennes raccordées à un répartiteur qui possède plusieurs sorties qui seront connectées aux entrées RF-in des différents récepteurs. Il existe des répartiteurs passifs ou actifs. (Ils ont un booster intégré)
+- **Combinateur** : Lorsque l'on utilise plusieurs appareils émetteurs (pour des IEM par exemple) on peut utiliser uniquement 1 seule antenne qui reçoit les signaux RF à émettre depuis le combiner auquel on a connecté toutes les sorties antennes RF-out des différents émetteurs. 
+- C'est appareils permettent d'éviter la multiplication des antennes situées les unes sur au-dessus des autres dans les racks évitant ainsi les problèmes de rayonnement qui parasitent les antennes entre-elles. 
+##### Exemples 
+- Splitter 2 antennes Sennheiser 
+Ajouter schéma 
+- Combinateur 1 antenne Sennheiser
+Ajouter schéma 
+
+>[!note]
+>On peut distribuer le signal d'une antenne directement grâce à une sortie RF (ou Cascade) 
+>Il y a en effet des émetteur ou récepteurs avec les deux RF-in et RF-out ce qui permet un branchement en cascade. (Il y a autre une petite compensation, mais il y a une limite aux nombres d'appareils en cascade)
+
+### In-ear monitor (IEM)
+C'est un système de retour sans fil avec oreillette
+- Utilisé en concert et à la tv
+- L'ingénieur du son aura la gestion de l'émetteur et la personne utilisant l'oreillette sera équipée du récepteur de poche. Attention à la **gestion des niveaux sonores par l'ingé son !!!**
+- Possibilité de transmettre un signal stéréo multiplexé sur la même porteuse (sur certains modèles). 
+- Mode Mix permettant au musicien de régler sur le récepteur le mélange mono entre CH1 et CH2 (ex : CH1 = mix et CH2 = instrument seul du musicien concerné)
+#### Exemple 
+Système shure PSM900
+
+#### Notes 
+Certains groupes mettent les amplis en backstages et utilisent de "faux ampli sur scène" pour isoler le son de ceux-si. 
+
+Penser à mettre la salle dans les ears. 
+
+Pour les bassistes parfois on met des shakers sous la scène : C'est des haut parleur que l'on visse sous la scène, pour diffuser des basses de façon localisées sur le plateau. 
+
+>[!note]
+>Pensez à mettre un limiteur sur les aux qui partent dans un ear monitor. Permet d'éviter d'exploser les oreilles des musiciens
+>Quand on fait des retour demander : **Qu'est ce qu'il te manque** plutôt que tu veux quoi → Le force à écouter le mix et pas dire bah un peu de tout. 
+
+### Intermodulation
+- Perturbations dues à la présence de plusieurs fréquences porteuse en simultané.
+- Augmente le bruit de fond électromagnétique. 
+- Précautions : Éloigner les antennes des émetteurs, coupler les antennes si plusieurs récepteurs ou émetteurs, ne pas émettre à niveau de puissance trop élevé. 
+- *Idéalement* : choisir uniquement les fréquences proposées dans la même banque (ou groupe) proposée par le constructeur, ou concevoir un plan de fréquences en utilisant un logiciel de calcul de fréquences d'intermodulation.  (Banque ou groupe c'est en fonction de la marque, qui nomme différemment la même chose)
+- Ex : Si F1 = 600MHz et F2 = 585MHz alors problème à 2F1 = F2 = 615MHz (ordre 3) et à 2F2-F1 = 570MHz (ordre 3). Donc attention au choix de fréquence si on utilise un 3ème choisie.
+
+>[!note]
+>Il faut prendre des fréquences du même groupe ou banque ! Il ne faut surtout pas prendre des banques différentes. 
+
+
+## Exploitation
+### Organismes et réglementation 
+Indispensables pour éviter l'encombrement
+- UIT : Union Internationale des Communications (attribution, planification des bandes)
+- CMR : Conférence Mondiale des Radiocommunications (coordonne les bandes HF et VHF en 3 zones : 1 : Europe | 2 : Amérique | 3 : Asie)
+- CEPT : Commission Européenne des Postes et Télécommunications 
+- *France* : 
+	- ANFR : Agence Nationale des Fréquences (répartit les fréquences sur le territoire) www.anfr.fr
+	- ARCEP : Autorité de Régulation des Communications Électroniques et des POstes (les liaisons hf pro sont soumise à cet organisme : www.arcep.fr). Les bandes autorisées sont ensuite gérées par le CSA (Conseil Supérieur de l'Audiovisuel) devenu aujourd'hui l'ARCOM 
+>[!note]
+>Les utilisateurs sont classés en 3 catégories avec des niveaux de priorité : 
+>A : Société nationales de programmes TV et radio
+>B : Autres éditeurs de to ou radio conventionnés par l'ARCOM 
+>C : Sites fixes, sociétés de location et prestation
+
+### Occupation des fréquences 
+- Afin de choisir une ou plusieurs fréquences libre pour les liaison hf dans un endroit donné, il existe des logiciels d'aide et de scanneur de l'environnement électromagnétique. Certains logiciels sont développés par les fabricants de liaisons hf comme *Shure : Workbench ou Sennheiser : WSM*. Ces logiciels permettent également de contrôler via liaison ethernet les différents appareils d'un systèmes simple ou complexe. Des applications mobiles sont également développés par certaines marques de matèriel HF : Channels de Shure ou encore WSM et Smart Assist de Sennheiser. 
+- Il existe aussi des sites internets qui permettent de connaître l'occupation des fréquences par la TNT (Télévision Numérique Terrestre) ou la téléphonie mobile : www.scanzone.fr
+- *Fenêtre Scanzone* 
+<iframe src="https://www.scanzone.fr/fr/transmitters/display/place/19180" width="'600"></iframe>
+
+
+
