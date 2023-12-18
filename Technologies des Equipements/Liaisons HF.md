@@ -11,7 +11,7 @@ tags:
   - Technologie-des-équipements
 ---
 # Liaisons HF
-Date: [[2023-10-26]] - [[2023-11-29]] - [[2023-12-01]] - [[2023-12-06]] 
+Date: [[2023-10-26]] - [[2023-11-29]] - [[2023-12-01]] - [[2023-12-06]] - [[2023-12-18]]
 
 >[!NOTE]
 >Étude des ondes radio permettant le transport de signaux audio sans fil et de la technologie des émetteurs / récepteurs hf.
@@ -289,5 +289,46 @@ Indispensables pour éviter l'encombrement
 - *Fenêtre Scanzone* 
 <iframe src="https://www.scanzone.fr/fr/transmitters/display/place/19180" width="'600"></iframe>
 
+## HF Numériques 
+### Technologie 
+- **Étage dans l'émetteur** : Préamplification / Convertisseur A/N / Codec audio (COmpression informatique sans perte) / Modulation d'une porteuse RF / Antenne 
+- **Étages dans le récepteur** : Antenne / Démodulation / codec audio (décompression) / Convertisseur N/A pour sortie Analogique et/ou sortie direct en numérique (AES/EBU en général)
+- Audio 24bits/48kHz (1 ou 2 canaux audio en général)
+- Modulation de la porteuse en **phase et amplitude** (PSK et ASK, avec SK = Shift keying) Voir annexe
+- Psk = Phase shift keys Ask = Amplitude shift keying (équivalent à l'AM) il y a aussi FSK = Frequency shift keying
+>[!NOTE]
+>Certains HF dits "hybrides" utilisent également la modulation FM
+#### Avantages 
+- Amélioration notable de la quialité audio par rapport aux liaisons analogiques (pas de traitement de type Compandeur, réducteur de bruit…)
+- Améliorations : Bandes passantes audio / Rapport Signal-Bruit / Dynamique 
+- Certains modèles utilisent 2 CAN (le deuxième numérique après une atténuation de 20 dB) pour augmenter la dynamique (ex : Zaxcom système "Never Clip" 125dB). Si ça ce met à crier dans le micro c'est la partie à -20dB qui prend le relais. Pratique de faire un routage comme ça pour du tournage avec un Y après le micro pour avoir un canal safe. 
+>[!note]
+>Super utile en reportage en utilisant un Y pour envoyer la première voix dans une tranche et la deuxième voix du Y dans une autre tranche avec -20dB de différence pour amortir si lors d'un reportage, la personne s'enflamme ou s'il y a une grosse variation de niveau. 
+- Pas de problème d'intermodulation 
+- Possibilité d'utilsier un plus grand nombres de fréquences dans ue bande restreinte (ex : Plus de 20 liaisons HF possibles dans un même canal tu de 8MHz) car la largeur utilisée par la porteuse (Swing) est plus étroite (puisque modulation AM de la porteuse)
+- Possibilité de détection et correction d'erreurs du signal audionumérique lors de la réception après démodulation dans le récepteurs 
+- Possibilité d'enregistrer le signal audio numérique directement dans l'émetteur (sur carte micro SD) et de crypter l'information audio dans la transmission pour préserver la confidentialité. 
+- De nombreux systèmes HF numériques sont au format Réseau Dante, permettant de faire transiter l'audio-numérique en réseau ainsi que les données de contrôles des systèmes HF. 
+### Inconvénients
+- **Latence** : Environ 3 ms
+- Consomme et chauffe un peu plus
+- **Utilisation** : contrairement aux HF analogiques, il faut veiller à ne pas saturer le signal RF (puissance trop élevée de l'émetteur, proximité entre émetteur et récepteur, antenne active booster, etc…) ce qui occasionne un mauvais décodage du signal audio en raison de la technologie de modulation Phase + AM
+- Perturbation de certains micro anciens (pas assez blindés + technologie diode) par l'émetteur.
+### Connecteur Super Slot
+- Développé par **Sound Devices**
+- Permet de piloter les liaisons HF depuis les menus *internes* d'une minette/enregistreur, un mixeur ou un caméra, (niveau piles, Réception RF et AF, choix de fréquences)
+- Transfert l'alimentation, l'audio et les datas de contrôle via un connecteur sub-D 25 
+- Le ou les Super SLot sont en général placés dans un châssis, ce qui facilite la mise en oeuvre dans les configuration de tournage comportant de nombreuses liaisons HF. 
+- **Compatibilité** : Récepteurs HF compatibles : Audio Limited A10, Lectrosonics, Sennheiser EK 6042, Wysicom. Mixette / Enregistreurs compatibles : Sound Devices, Cantar X3 (rolls des enregistreurs) et mini X3. Caméras compatibles : Panasonic, Sony… 
+- **Exemple en illustratio** : Sound Devices SL-2 format super slot
 
+>[!note]
+>Zaxcom "Nova" est une mixette/enregistreur avec récepteurs hf pouvant être incorporés
 
+### Exemple de hf Numériques modèles poche 
+
+## Logiciels 
+Les différents constructeurs d'équipements HF proposent des outils logiciels (ordi ou applis) permettant de contrôler plus facilement et à distance des systèmes HF du plus simple au plus complexe. Les fonctions principales que l'on peut trouver sont :
+- Monitoring et parfois modification de : niveau batterie émetteur, choix de fréquence RF, gain, mute, nom, niveau R…. 
+### Sennheiser WSR
+### Shure Workbench
