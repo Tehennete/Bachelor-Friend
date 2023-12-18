@@ -11,8 +11,13 @@
             "id": "9715efe4b68e730e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Histoire des arts/Son à l'image/Histoire de la musique d'animation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Histoire des arts/Son à l'image/Histoire de la musique d'animation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Histoire des arts/Son à l'image/Histoire de la musique d'animation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Histoire des arts/Son à l'image/Histoire de la musique d'animation.md"
+              }
             }
           },
           {
@@ -174,7 +183,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "152f4375e936999b",
+  "active": "9715efe4b68e730e",
   "lastOpenFiles": [
     "Histoire des arts/Son à l'image/1.Esthétique sonore.md",
     "Technologies des Equipements/Montage son à l'image.md",
