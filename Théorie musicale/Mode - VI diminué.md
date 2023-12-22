@@ -1,8 +1,10 @@
 ---
-Matière: Théorie de la Musique
-Semestre: B2-1
+Matière:
+  - Théorie de la Musique
+Semestre:
+  - B2-1
 Date: 2023-11-28
-Prof: Lenavelan
+Prof: "[[Stéphane Lenavelan]]"
 Type: notes de cours
 tags:
   - cours

@@ -1,8 +1,10 @@
 ---
-Matière: Théorie de la Musique
-Semestre: B2-1
+Matière:
+  - Théorie de la Musique
+Semestre:
+  - B2-1
 Date: 2023-10-17
-Prof: 
+Prof: "[[Stéphane Lenavelan]]"
 Type: notes de cours
 tags:
   - cours
@@ -54,6 +56,9 @@ Quinte diminué
 | Note           | Do  | ré  | mi  | Fa  | Sol | la  | si (dim)    |
 | Base Fa        | F   | g   | A   | Bb  | C   | D   | E           | 
 
+## Comment les utiliser : 
+Sur un accord mineur dans un morceau avec une tonalité : on peut utiliser la gamme dorienne du ton du dessus, ou phrygien deux tons au dessus, ou éolienne 4,5 ton au dessus / 1,5 ton au dessous. 
+Pour un accord majeur même chose mais avec lydien et myxolydien.
 ## Autres Gammes
 #### Mineur Mélodique
 C - D - Eb - F - G - A - B
