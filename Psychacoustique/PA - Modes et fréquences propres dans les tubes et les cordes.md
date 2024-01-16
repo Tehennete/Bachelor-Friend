@@ -14,7 +14,7 @@ C:
 # PA - Modes et fréquences propres dans les tubes et les cordes
 Date: [[2023-12-04]] - [[2023-12-05]] 
 ## Équation des ondes (de d'Alembert XVIIIème) 1D
-On appelle grandeur ondulatoires "$\mathbf{g}$" qui est propagée par une onde de célérité $\mathbf{C}$ dans $(0,x)$ une seule direction, toute fonction de "$x$ et de "$t$ telle que $$\boxed{\mathbf{g}(x,t)=g(x',t')\Leftrightarrow\frac{|x-x'|}{t'-t}=\mathbf{C}}$$ (en supposant $t'>x$ )
+On appelle grandeur ondulatoires " $\mathbf{g}$ " qui est propagée par une onde de célérité $\mathbf{C}$ dans $(0,x)$ une seule direction, toute fonction de " $x$ et de " $t$ telle que $$\boxed{\mathbf{g}(x,t)=g(x',t')\Leftrightarrow\frac{|x-x'|}{t'-t}=\mathbf{C}}$$ (en supposant $t'>x$ )
 Il y a trois cas possibles : 
 - La propagation de l'onde (à la célérité C en m/s) s'effectue dans le sens de $x$ croissant
 - La propagation de l'onde (à la célérité C en m/s) s'effectue dans le sens de $x$ décroissant
