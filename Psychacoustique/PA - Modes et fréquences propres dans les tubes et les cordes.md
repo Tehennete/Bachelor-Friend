@@ -14,7 +14,7 @@ C:
 # PA - Modes et fréquences propres dans les tubes et les cordes
 Date: [[2023-12-04]] - [[2023-12-05]] 
 ## Équation des ondes (de d'Alembert XVIIIème) 1D
-On appelle grandeur ondulatoires "$\mathbf{g}$" qui est propagée par une onde de célérité $\mathbf{C}$ dans $(0,x)$ une seule direction, toute fonction de "$x$ et de "$t$ telle que $$\boxed{\mathbf{g}(x,t)=g(x',t')\Leftrightarrow\frac{|x-x'|}{t'-t}=\mathbf{C}}$$ (en supposant $t'>x$)
+On appelle grandeur ondulatoires "$\mathbf{g}$" qui est propagée par une onde de célérité $\mathbf{C}$ dans $(0,x)$ une seule direction, toute fonction de "$x$ et de "$t$ telle que $$\boxed{\mathbf{g}(x,t)=g(x',t')\Leftrightarrow\frac{|x-x'|}{t'-t}=\mathbf{C}}$$ (en supposant $t'>x$ )
 Il y a trois cas possibles : 
 - La propagation de l'onde (à la célérité C en m/s) s'effectue dans le sens de $x$ croissant
 - La propagation de l'onde (à la célérité C en m/s) s'effectue dans le sens de $x$ décroissant
@@ -40,7 +40,7 @@ Contre exemple : $f(x,t)= x^2-3t^4$
 
 ### Ondes régressive
 Pour une onde regressive la variable spacio-temporelle est $x+Ct$ . Les grandeurs doivent être en fonction de $x+Ct$.
-Si une onde est quelconque (si une partie se déplace dans le sens positif et une partie dans le sens négative) (pour partie progressive et pour partie régréssive) , alors les grandeurs ondulatoires qu'elle transporte sont de la forme $f(x,t)=f_1(x+Ct)+f_2(x-Ct)$.D'Alembert frappé par la grâce divine parvient à l'équivalence suivante : $f(x,t)=f_1(x+Ct) +f_2(x-Ct)\Leftrightarrow \frac{\partial^2f}{\partial.x^2} - \frac{1}{C^2}.\frac{\partial^2f}{\partial.t^2}=0$
+Si une onde est quelconque (si une partie se déplace dans le sens positif et une partie dans le sens négative) (pour partie progressive et pour partie régréssive) , alors les grandeurs ondulatoires qu'elle transporte sont de la forme $f(x,t)=f_1(x+Ct)+f_2(x-Ct)$ .D'Alembert frappé par la grâce divine parvient à l'équivalence suivante : $f(x,t)=f_1(x+Ct) +f_2(x-Ct)\Leftrightarrow \frac{\partial^2f}{\partial.x^2} - \frac{1}{C^2}.\frac{\partial^2f}{\partial.t^2}=0$
 Ou $\frac{\partial^2f}{\partial.x^2}$ représente la dérivée (partielle) de $f$ par rapport à $x$ deux fois;
 Et  $\frac{\partial^2f}{\partial.t^2}$ représente la dérivé (partielle) de $f$ par rapport à $t$ deux fois
 
@@ -89,10 +89,10 @@ Donc $$\boxed{\frac{\partial.p}{\partial.x}=-\rho\frac{\partial^2s}{\partial.t^2
 >D'un point de vue **Thermodynamique**
 On dit que les volumes : Sdx et $S(x+dx+s(x+dx,t)-(x+s(x,t)))$ et $S(dx+s(x+dx,t)-s(x,t))$ Contiennent la même masse d'air mais pas à la même pression : Sdx est à $P_{atm}$; tandis que l'autre est à $P_{atm} +p(x,t)$
 
-En résumé, du point de vue mécanique, la fonction de pression et de déplacement acoustique dans le tube sont reliés par l'équation : $$\boxed{\frac{\partial.P}{\partial.x}=-\rho\frac{\partial^2s}{\partial.t^2}}$$Avec $p(x,t)$ et $s(x,t)$
+En résumé, du point de vue mécanique, la fonction de pression et de déplacement acoustique dans le tube sont reliés par l'équation : $$\boxed{\frac{\partial.P}{\partial.x}=-\rho\frac{\partial^2s}{\partial.t^2}}$$ Avec $p(x,t)$ et $s(x,t)$
 Aussi pour obtenir plus d'informations sur l'une ou l'autre de ces 2 fonctions, en particulier sur $p$ il faut au moins trouver une autre équation qui relie $s$ et $p$. C'est en utilisant une loi de thermodynamique, la loi de "compressibilité isentropique", que l'on peut déterminer cette équation. Selon cette loi, il existe pour chaque gaz un coefficient de compressibilité isentropique noté $\chi_s$  Qui tel que $\chi_s = -\frac{V_1-V_0}{V_0\Delta P}$ où $\Delta P$ représente la variation de pression subie par le gaz à entropie constante ce qui provoque le changement de volume de $V_0$ à$V_1$ en $m^3$.
 
-Donc quand on passe de $V_0$ à $V_1$, $P_0\rightarrow P_1>P_0$, Donc augmentation de pression à entropie constante induit $\Delta P = P_1 -P_0$ Ce qui donne $\chi_s = - \frac{\frac{V_1-V_0}{V_0}}{\Delta P}$ 
+Donc quand on passe de $V_0$ à $V_1$, $P_0\rightarrow P_1>P_0$ , Donc augmentation de pression à entropie constante induit $\Delta P = P_1 -P_0$ Ce qui donne $\chi_s = - \frac{\frac{V_1-V_0}{V_0}}{\Delta P}$ 
 Quand on augmente la pression, le volume diminue, ce qui explique le signe "-". 
 La compressibilité de l'air (dépendant de la température) est de : $10^{-5}$ à $10^{-6}$ (Masse volumique de l'air $1,3kg/m^3$) 
 
@@ -106,8 +106,8 @@ $V_0$ était à la pression atmosphérique $P_{atm}$,
 $V_1$ est à la pression atmosphérique$P_{atm} + p(x,t)$
 Du coup, la variation de pression $\Delta P$ qui provoque la variation de volume n'est autre que : $\boxed{P_{atm}+p(x,t)-P_{atm} = p(x,t)}$ soit Pression dans V0 - Pression dans V0 = p(x,t). Et en la supposant isentropique, on peut écrire : $$\boxed{\chi_s=-\frac{S(s(x+dx,t)-s(x,t))}{dxS}\Rightarrow\chi_s=-\frac{s(x+dx,t)-s(x,t)}{dx}.\frac{1}{p(x,t)}}$$
 Et quand $dx\rightarrow 0$ Alors $-\frac{s(x+dx,t)-s(x,t)}{dx}$ devient $\frac{\partial s}{\partial x}(x,t)$ 
-Comme c'est valable $\forall$ $x$ ou $t$, Donc cette égalité est vraie $\forall$ $x$ et $\forall$ $t$. 
-Ainsi le nombre $\chi_s.p(x,t) = -\frac{\partial s}{\partial x}(x,t)$, l'orque l'on est au voisinage de $x$ mais c'est pour $x$ et $t$ quelconque. 
+Comme c'est valable $\forall$ $x$ ou $t$, Donc cette égalité est vraie $\forall$ $x$ et $\forall$ $t$ . 
+Ainsi le nombre $\chi_s.p(x,t) = -\frac{\partial s}{\partial x}(x,t)$ , l'orque l'on est au voisinage de $x$ mais c'est pour $x$ et $t$ quelconque. 
 
 Finalement l'étude thermodynamique permet d'établir un autre lien entre les 2 fonctions $p(x,t)$ et $s(x,t)$ qui est : $$\boxed{\chi_s.p=-\frac{\partial s}{\partial x}}$$ On a donc deux relations qui doivent coexister : 
 - $\chi_s p = -\frac{\partial s}{\partial x}$ *THERMO*
@@ -123,7 +123,7 @@ $\frac{\partial f}{\partial t} = 6tx^3+\cos(t)\cos(x) \Rightarrow\frac{\partial^
 Donc les fonctions sont égale, donc l'ordre chronologique n'influence pas le résultat.
 
 >[!note]
->$\partial x \partial t$ veut dire qu'on dérive $t$ puis $x$ 
+>$\partial x \partial t$ veut dire qu'on dérive $ t $ puis $ x $ 
 
 Revenons à nos deux équations : 
 - $\chi_s p = -\frac{\partial s}{\partial x}$ $\Rightarrow\frac{\partial^3s}{\partial t\partial t\partial x}=-\chi_s\frac{\partial^2p}{\partial t^2}$
@@ -136,7 +136,7 @@ Si on peut démontrer sa, ça veut dire que g est transporté par une onde. (g i
 Grâce à la synthèse des 2 équations obtenues, en utilisant le Principe Fondamental de la Dynamique (PFD) pour l'une et la compressibilité isentropique pour l'autre, on peut affirmer que la pression acoustique dans le tube est modélisa le par une fonction de $x$ et de $t$ vérifiant : $\frac{\partial^2p}{\partial x^2}-\rho\chi_s\frac{\partial^2p}{\partial t^2}= 0$ 
 Or $\rho$ s'exprime en $kg/m^3$ et $\chi_s en $Pa^{-1}$. Donc $\rho.\chi_s$ s'exprime en $\frac{kg}{m^3.Pa}$. Mais le $Pa$ n'est autre que le $\frac{N}{m^2}$ et le $N$euton n'est autre que le $kg.m/s^2$ (d'après la thermodynamique); tant est si bien que $\frac{kg}{m^3.Pa} =\frac{kg}{m^3.\frac{N}{m^2}}=\frac{kg}{m^3.\frac{kg.m}{m^2.s^2}}$
 Donc $\rho\chi_s$ s'exprime en $\frac{kg}{\frac{m^2.kg}{s^2}}=\frac{1}{(m/s)^2} (=\frac{s^2}{m^2})$
-$\rho\chi_s$ est homogène au carré de l'inverse d'une vitesse ($m/s$), ce qui revient à dire qu'il existe une vitesse $\mathbf{C}$, telle que $\rho\chi_s = \frac{1}{\mathbf{C}^2}$*
+$\rho\chi_s$ est homogène au carré de l'inverse d'une vitesse ( $m/s$ ), ce qui revient à dire qu'il existe une vitesse $\mathbf{C}$, telle que $\rho\chi_s = \frac{1}{\mathbf{C}^2}$ 
 La célérité du son apparaît ici comme étant égale à : $\boxed{\mathbf{C}=\frac{1}{\sqrt{\rho\chi_s}}}$ 
 
 #### Vérification en partant de l'équation de déplacement :
