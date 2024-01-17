@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "ecfc1eab7294426e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e231ce450182bb5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01ad313e123ebf30",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c847d99210d9a36c",
+    "type": "split",
+    "children": [
+      {
+        "id": "40464eadbbd24518",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ed96b323b94639c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b9760bf620286fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79395f80c5095cab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f3e6effa72bc192c",
+    "type": "split",
+    "children": [
+      {
+        "id": "da7b623a8b440224",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dfeb9346c4b06f1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "51a76340d54d431f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2c78bfa5329660b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8594730352896292",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "edad47c1ef56be91",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "d1e6b5e08f86970c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 482.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "2c78bfa5329660b4",
+  "lastOpenFiles": [
+    "Technologies des Equipements/Session Live/Session Live - Présentation.md",
+    "Technologies des Equipements/Amplification de Puissance.md",
+    "Technologies des Equipements/Session Live/Session Live - Débriefing.md",
+    "Technologies des Equipements/Montage son à l'image.md",
+    "Technologies des Equipements/Session Live/Session Live - Audio-numérique.md",
+    "Technologies des Equipements/Session Live/Session Live - Aide d'organisation.md",
+    "Théorie musicale/Montage son à l'image.md",
+    "Technologies des Equipements/Session Live/Session Live - Console - 01V96.md",
+    "Technologies des Equipements/Session Live/Session live - Préparation aux studios.md",
+    "Technologies des Equipements/Session Live/Session Live - Semaine avant le REC.md",
+    "Technologies des Equipements/Session Live/Session Live - Mise en place système.md",
+    "Technologies des Equipements/Type de Compresseurs.md",
+    "Technologies des Equipements/Session Live/Session Live - Regie REC.md",
+    "Technologies des Equipements/Session Live/Session Live - Intercoms.md",
+    "Technologies des Equipements/Session Live/Session Live - Mise à Plat.md",
+    "Théorie musicale/RETOUR REPORTAGES.md",
+    "Technologies des Equipements/Session Live/Session Live - Protools.md",
+    "Technologies des Equipements/Session Live/Session Live - Retour post REC.md",
+    "Technologies des Equipements/Session Live/Session live - Retour écoute master.md",
+    "Technologies des Equipements/Session Live/Session Live - Retour écoute Ruddy.md"
+  ]
+}
