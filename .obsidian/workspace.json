@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Histoire des arts/Son à l'image/Histoire de la musique d'animation.md",
+                "file": "Psychacoustique/PA - Modes et fréquences propres dans les tubes et les cordes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,13 +26,12 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "Technologies des Equipements/Compresseurs/Comp Plugins/Analog Obsession/FetCB.md",
-                "staged": true
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Psychacoustique/PA - Modes et fréquences propres dans les tubes et les cordes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Psychacoustique/PA - Modes et fréquences propres dans les tubes et les cordes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Psychacoustique/PA - Modes et fréquences propres dans les tubes et les cordes.md"
+              }
             }
           },
           {
@@ -193,8 +196,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "484f9ed49b540a41",
+  "active": "9715efe4b68e730e",
   "lastOpenFiles": [
+    "Histoire des arts/Son à l'image/Histoire de la musique d'animation.md",
     "Théorie musicale/RETOUR REPORTAGES.md",
     "Théorie musicale/Montage son à l'image.md",
     "Technologies des Equipements/Session Live/Session Live - Semaine avant le REC.md",
@@ -214,7 +218,6 @@
     "Technologies des Equipements/Session Live/Session Live - Aide d'organisation.md",
     "Technologies des Equipements/Session Live",
     "Technologies des Equipements/Montage son à l'image.md",
-    "Histoire des arts/Son à l'image/Histoire de la musique d'animation.md",
     "Technologies des Equipements/Type de Compresseurs.md",
     "Technologies des Equipements/Time Code.md",
     "Technologies des Equipements/Liaisons HF.md",

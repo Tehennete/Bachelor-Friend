@@ -150,3 +150,57 @@ Elle a donc fait avancer la connaissance sur un des théorème les plus complexe
 C'est en fusionnant les deux points de vue que l'on peut comprendre la science des vibrations (acoustiques). Elle occupe une place à part entière car elle réalise la synthèse de deux phénomènes.
 
 La fois prochaine on verra ce qui se passe quand on définit une longueur de tube fixe. 
+#### Rappel 
+La pression acoustique dans un tube de longueur indéfinie est modélisable par une fonction $p(x,t)$ qui vérifie l'EDP de d'Alembert $$\frac{\partial ^2 p}{\partial x^2}-\frac{1}{C^2}.\frac{\partial^2 p}{\partial t^2}=0$$
+
+On doit à [[Laplace]] la résolution de cette équation dans le cas où le tube est de longueur finie L (en m) pour chaque "sous-cas" de CLCI (Conditions aux Limites & Condition Initiale)
+
+##### Trois conditions aux limites possibles : 
+
+1. Tube fermé des deux côtés
+2. Tube ouvert des deux côtés 
+3. Tube ouvert d'un côté et fermé de l'autre
+
+##### Une seule condition initiale : 
+À $t = 0$, $\forall\:x \in [0;L]\: p(x,0) = 0$ 
+
+#### Résolutions
+Ces trois résolution s'appuient sur la méthode dite "de séparation des variables", sur une modélisation des conditions aux limites[^1] et permet de mettre en évidence les notions de modes propres, de fréquences propres et d'onde stationnaires. 
+
+[^1]: Condition de fermeture en $x\:=\:0$ ou en $x = L$ : $\frac{\partial\:p}{\partial\:x}(0,t)=0$ ou $\frac{\partial\:p}{\partial\:x}(L,t)=0$ 
+[^1]: Condition d'ouverture en $x\:=\:0$ ou en $x = L$  : $p(0,t) = 0$ ou $p(L,t)=0$
+
+Les développement mathématique de ces 3 résolutions sont évités ici. On en donne que les 3 résultats : 
+1. Le tube fermé des deux côtés : $p(x,t) = \sum_{n=1}^{\infty} K_n \cos(\frac{n\pi}{L}\:x)\sin(\frac{n\pi}{L}\:Ct)$ Où les nombre $K_n$ restent à déterminer par l'ajout d'une condition temporelle à t=0
+2. Le tube ouverts des 2 côtés : $p(x,t) = \sum_{n=1}^{\infty} K_n \sin(\frac{n\pi}{L}\:x)\sin(\frac{n\pi}{L}\:Ct)$ Où les nombre $K_n$ restent à déterminer par l'ajout d'une condition temporelle à t=0
+3. Le tube est fermé en x=0 et ouvert en x=L : $p(x,t) = \sum_{n=1}^{\infty} K_n \cos(\frac{(2n+1)\pi}{2L}\:x)\sin(\frac{(2n+1)\pi}{2L}\:Ct)$ Où les nombre $K_n$ restent à déterminer par l'ajout d'une condition temporelle à t=0
+
+>[!note]
+>Dans chaque cas, il est clair que la physique impose à la somme obtenue de ne pas comporter une infinité de termes
+
+On montre que les coefficient $K_n$ tendent vers zéros quand $n\rightarrow\infty$. Et donc chaque solution ce réduit à une somme finie pour n variant de 1 à une valeur $\mathbf{N}$ telle que $K_{\mathbf{N}};K_{\mathbf{N}+1};K_{\mathbf{N}+2}…$ etc sont, en valeur absolue, négligeables
+Car le facteur multiplie l'ensemble de l'équation… On enlève les termes à partir duquel ils sont tous trop petits pour être interprétables physiquement. 
+### Modes et fréquence propre du tube fermé des deux côtés 
+Dans ce tube, la pression acoustique est donnée par $p(x,t)= K_1 \cos{\frac{\pi}{L}x}\sin{\frac{\pi}{L}Ct}+K_2 \cos{\frac{2\pi}{L}x}\sin{\frac{2\pi}{L}Ct}+K_3 \cos{\frac{3\pi}{L}x}\sin{\frac{3\pi}{L}Ct}+…K_{10n}$
+Supposons que l'on crée une pression acoustique dans un tel tube en faisant vibrer un point du tube à une fréquence $\mathbf{F}_n$ du type $\frac{nC}{2L}$ Hz. Cette solicitation mécanique est du type $A\sin({2\pi\mathbf{F}_nt})$; c'est à dire $A\sin(\frac{n\pi}{L}Ct)$; par exemple pour n = 3 : $A\sin(\frac{3\pi}{L}Ct)$ 
+
+De part le choix $\mathbf{F}_n=\frac{nC}{2L}$ Hz on est sûr que pour $n ≤ N$ la dépendance temporelle de la solicitation mécanique se trouve dans la somme de fonction qui constitue $p(x,t)$ 
+
+Et les expériences montrent que lorsq'un tube fermé des deux côtés est ainsi solicité, la fonction de pression acoustique se restreint à **1 terme** de la somme : $K_n\cos(\frac{n\pi}{L}x).\sin(\frac{nπ}{L}Ct)$ : la variation temporelle de la sollicitation sinusoïdale à la fréquence $\frac{nC}{2L}$ Hz 
+C'est un peu comme si tous les nombres $K_1,K_2,K_3,…,K_{n+1},K_{n+2},…,K_N$ prenaient la valeur 0. Ce phénomène physique particulier a conduit les acousticiens à qualifier le couple {$\mathbf{F}_n, cos(\frac{nπ}{L}x)sin(\frac{nπ}{L}Ct)$} d'énième {Fréquance propre et Mode propre} du tube. 
+
+#### Illustration du mode 3 $\longrightarrow$ que l'on va généraliser au mode n
+Soit $t_p$ un instant où $sin(\frac{3π}{L}Ct_p)>0$ [^2]. À cet instant la pression acoustique est répartie dans le tube selon la fonction de x : $K_3 . sin(\frac{3π}{L}Ct_p).\cos (\frac{3π}{L}x)$  = $A_{3,t_p} \cos (\frac{3π}{L}x)$
+Représentons la courbe de cette fonction pour x variant de 0 à L 
+![[PA - Modes et fréquences propres dans les tubes et les cordes 2024-01-12 11.50.47.excalidraw|700]]
+Soit $x_1$ tel que $\cos (\frac{3π}{L}x_1)=0$
+Pour la première fois : Donc $\frac{3π}{L}x_1 = \frac{π}{2}$ ce qui nous donne $x_1 = \frac{L}{6}$
+
+SI $t_1$ est tel que $\frac{3π}{L}Ct_1 = \frac{π}{2} \Leftrightarrow t_1 = \frac{L}{6C}$ alors le sinus [^2]: vaux 1 . Alors on obtient la courbe bleue. 
+Courbe verte : Pour $t_2$ tel que $\frac{3π}{L}Ct_2 = \frac{3π}{2} \Leftrightarrow t_2 = \frac{L}{6C}$. Le sinus [^2]: vaut -1 et la répartition de pression dans le tube est "à l'opposé" de celle observée à l'instant $t_1$ 
+On remarque qu'au cours du temps la pression acoustique dans le tube se répartit selon une courbe toujours comprise dans un fuseau. (Cf schéma entre la courbe bleue et verte). De plus on observe qu'il existe des sections de tube ou la pression acoustique demeure nulle (noeuds). ainsi que d'autres où la pression acoustique reste en valeur absolue maximale pour un instant donnée. (Ventres)
+
+
+>[!note]
+>Donc si on frotte un tube a une fréquence spécifique il va réagir d'une façon singulière. On dit que ce sont les fréquences propre du tube et la variation spécifique est appelée le mode propre du tube. (Si on tape le tube, il va en sortir tout les K de la somme). 
+
