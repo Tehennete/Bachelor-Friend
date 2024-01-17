@@ -19,8 +19,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "484f9ed49b540a41",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Technologies des Equipements/Compresseurs/Comp Plugins/Analog Obsession/FetCB.md",
+                "staged": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Histoire des arts/Son à l'image/Histoire de la musique d'animation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Histoire des arts/Son à l'image/Histoire de la musique d'animation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Histoire des arts/Son à l'image/Histoire de la musique d'animation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -144,7 +152,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -173,46 +183,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "templates:Insérer le modèle": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
       "command-palette:Ouvrir la palette de commandes": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "152f4375e936999b",
+  "active": "484f9ed49b540a41",
   "lastOpenFiles": [
-    "Théorie musicale/Mode - VI diminué.md",
-    "Théorie musicale/Accords diminués.md",
+    "Théorie musicale/RETOUR REPORTAGES.md",
     "Théorie musicale/Montage son à l'image.md",
-    "Droit/Droit - Responsabilité contractuelle et delictuelle.md",
-    "Théorie musicale/Passage par le cinquième degré.md",
-    "Théorie musicale/Théorie musicale - Reprise.md",
-    "Technologies des Equipements/Session Live/Session live - Retour écoute master.md",
-    "Technologies des Equipements/Session Live/Session live - Préparation aux studios.md",
+    "Technologies des Equipements/Session Live/Session Live - Semaine avant le REC.md",
     "Technologies des Equipements/Session Live/Session Live - Retour écoute Ruddy.md",
+    "Technologies des Equipements/Session Live/Session live - Retour écoute master.md",
+    "Technologies des Equipements/Session Live/Session Live - Retour post REC.md",
+    "Technologies des Equipements/Session Live/Session Live - Regie REC.md",
+    "Technologies des Equipements/Session Live/Session Live - Présentation.md",
+    "Technologies des Equipements/Session Live/Session live - Préparation aux studios.md",
+    "Technologies des Equipements/Session Live/Session Live - Protools.md",
+    "Technologies des Equipements/Session Live/Session Live - Mise à Plat.md",
+    "Technologies des Equipements/Session Live/Session Live - Mise en place système.md",
+    "Technologies des Equipements/Session Live/Session Live - Intercoms.md",
+    "Technologies des Equipements/Session Live/Session Live - Débriefing.md",
+    "Technologies des Equipements/Session Live/Session Live - Console - 01V96.md",
+    "Technologies des Equipements/Session Live/Session Live - Audio-numérique.md",
+    "Technologies des Equipements/Session Live/Session Live - Aide d'organisation.md",
+    "Technologies des Equipements/Session Live",
     "Technologies des Equipements/Montage son à l'image.md",
-    "Physique/Révisions-physique-2023.md",
-    "Informatique/Synthèse Sonore.md",
-    "Histoire des arts/Technique d'écoute.md",
-    "Histoire des arts/Histoire/Commentaire d'écoute.md",
-    "Droit/Droit des sociétés.md",
-    "900 Excalidraw/Session live - Audio-numérique 2023-10-30 14.57.58.excalidraw.md",
-    "900 Excalidraw/PA - Modes et fréquences propres dans les tubes et les cordes 2023-12-04 14.40.00.excalidraw.md",
-    "900 Excalidraw/PA - Modes et fréquences propres dans les tubes et les cordes 2023-12-04 13.36.31.excalidraw.md",
-    "Théorie musicale/Théorie musicale - Références.md",
-    "Psychacoustique/PA - Modes et fréquences propres dans les tubes et les cordes.md",
-    "Droit/Droit - Intermittence.md",
-    "Anglais/Anglais - Assistant engineer.md",
+    "Histoire des arts/Son à l'image/Histoire de la musique d'animation.md",
+    "Technologies des Equipements/Type de Compresseurs.md",
+    "Technologies des Equipements/Time Code.md",
+    "Technologies des Equipements/Liaisons HF.md",
+    "Technologies des Equipements/Les Normes PAD.md",
+    "Technologies des Equipements/DI.md",
+    "Technologies des Equipements/Codages des signaux.md",
     "Technologies des Equipements/Amplification de Puissance.md",
-    "Théorie musicale/Renversements d'accords.md",
-    "Théorie musicale/Pentatonique.md",
-    "Théorie musicale/Amplification de Puissance.md",
-    "900 Excalidraw",
-    "910 Images/Recording 20231024131615.m4a",
+    "Technologies des Equipements/Pré-amp/Pré-amp Plugins/Analog Obsession",
+    "Technologies des Equipements/Pré-amp/Pré-amp Plugins",
+    "Technologies des Equipements/Pré-amp",
+    "Technologies des Equipements/Pratique/Session Live",
+    "Technologies des Equipements/Pratique",
+    "Technologies des Equipements/Equalizer/Equalizer Plugins/Analog Obsession",
+    "Technologies des Equipements/Equalizer/Equalizer Plugins",
+    "Technologies des Equipements/Equalizer",
+    "Technologies des Equipements/Compresseurs/Comp Plugins/Analog Obsession",
     "910 Images/Pasted image 20231109142159.png",
     "910 Images/Pasted image 20231109133340.png",
     "910 Images/Pasted image 20231031160426.png",
@@ -222,14 +240,6 @@
     "910 Images/IMG_0044.png",
     "910 Images/IMG_0043.png",
     "910 Images/IMG_0042.png",
-    "910 Images/IMG_0041.png",
-    "910 Images/Etude microphone session live.csv",
-    "910 Images",
-    "Histoire des arts/Histoire/Commentaire d'écoute - Focus",
-    "Technologies des Equipements/Session Live/Session Live - Préparation.md aux studios",
-    "Technologies des Equipements/Session Live/Session Live - Préparation aux studios",
-    "Technologies des Equipements/Session Live",
-    "000 Bachelor Ingénierie Sonore/Ma-sauvegarde",
-    "410 Notes Rapides"
+    "910 Images/IMG_0041.png"
   ]
 }
