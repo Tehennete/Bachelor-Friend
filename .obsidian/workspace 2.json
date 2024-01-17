@@ -140,9 +140,17 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "e4f975e9e0738a60",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
