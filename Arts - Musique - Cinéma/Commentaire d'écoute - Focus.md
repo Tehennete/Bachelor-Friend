@@ -1,3 +1,13 @@
+---
+Matière: Histoire de la Musique
+Semestre: B2-1
+Date: 2023-10-24
+Prof: "[[Tom Mebarki]]"
+Type: Devoir
+tags:
+  - cours
+  - Devoir
+---
 # Commentaire d'écoute
 Date: [[2023-10-24]] 
 

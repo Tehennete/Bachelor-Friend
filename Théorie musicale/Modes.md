@@ -11,7 +11,7 @@ tags:
   - theorie-musicale
 ---
 # Les modes
-Date: [[2023-10-17]] 
+Date: [[500 Journal/2023/2023-11-Novembre/2023-10-17]] 
 
 ## Modes Naturels
 ### Sur la gamme de do
@@ -41,7 +41,7 @@ Mode du blues
 C - D - Eb - F - G - Ab - Bb 
 **Différence avec le Ionien :**
 Comme le dorien avec :
-Septième mineure 
+Sixte mineure 
 #### Locrien - Si (mineur)
 C - Db - Eb - F - Gb - Ab - Bb 
 **Différence avec le Ionien :**

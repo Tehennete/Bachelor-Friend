@@ -1,8 +1,8 @@
 ---
-Matière: 
-Semestre: 
+Matière:
+Semestre:
 Date: 2023-12-05
-Prof: 
+Prof:
 Type: notes de cours
 tags:
   - cours

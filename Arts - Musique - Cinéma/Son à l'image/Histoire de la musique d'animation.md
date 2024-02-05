@@ -1,8 +1,8 @@
 ---
 Matière: Histoire de la Musique
 Semestre: B2-1
-Date: 2023-10-12
-Prof: Tom Mebarki
+Date: 2023-10-25
+Prof: "[[Tom Mebarki]]"
 Type: notes de cours
 tags:
   - cours

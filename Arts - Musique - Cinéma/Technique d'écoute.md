@@ -2,11 +2,11 @@
 Matière: Histoire de la Musique
 Semestre: B2-1
 Date: 2023-10-11
-Prof: Tom Mebarki
+Prof: "[[Tom Mebarki]]"
 Type: notes de cours
 ---
 # Technique d'écoute
-Date: [[500 journal/2023-10-11]] | Tags : #cours #histoire-de-la-musique
+Date: [[500 Journal/2023/2023-11-Novembre/2023-10-11]] | Tags : #cours #histoire-de-la-musique
 
 ### Éléments de Vocabulaire
 > [!INFO] Sous-titre

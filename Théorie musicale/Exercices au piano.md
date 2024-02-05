@@ -1,14 +1,17 @@
 ---
-Matière: 
-Semestre: 
+Matière:
+Semestre:
 Date: 2023-12-05
-Prof: 
+Prof:
 Type: notes de cours
 tags:
   - cours
 ---
 # Exercices au piano
 Date: [[2023-12-05]] 
+
+Ce qui détermine tout c'est le Chant et la Basse, ce qu'il y a au milieu c'est pour mettre en avant ou en tension
+
 ## Découpage des systèmes étudiés 
 ### Travail en degré
 
@@ -32,3 +35,8 @@ C7 (C→G→B→E) monter en utilisant [[Mode - VI diminué]] (gamme ionienne av
 Commencé par Cmadd6 puis faire un accord diminué du degré du dessus pour aller sur le degré suivant. 
 Marche aussi en Cadd6 
 Cadd6→D°→E→F°→G→G#°→A→B°
+
+## Grille fun de ben
+
+E- | D C | B7
+

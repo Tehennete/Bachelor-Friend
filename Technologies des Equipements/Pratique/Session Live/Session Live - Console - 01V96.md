@@ -1,7 +1,7 @@
 ---
-Matière: 
-- Technologie des Equipements 
-- Pratique
+Matière:
+  - Technologie des Equipements
+  - Pratique
 Semestre: B2-1
 Date: 2023-11-08
 Prof: "[[Ruddy Palmier]]"

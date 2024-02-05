@@ -38,3 +38,18 @@ Pour aller sur un degré on peut utiliser le Cinquième dégrée de l'accord ver
 | I                  | ii      | iii    | IV      | V       | vi       | vii$^{dim}$ | I   |
 | → A7               | →B7     | → C7   | → D7    | → E7    | → F#7    | → G7        |     |
 | C#dim/A(base de A) | D#dim/B | Edim/C | F#dim/D | G#dim/E | A#dim/F# | Bdim/G      |     |
+
+## Gospel 
+
+Pour aller sur un accord : 
+→ 5e → 6ème diminué → 7ème dégré majeur diminué
+
+→ C majeur → Ré diminué → mi diminué → pour tomber sur le F
+
+[[Amazing Grace]]
+
+## Tips impro 
+
+Accord mineur 7 5b → on peut improviser sur le ton demi ton du dessus en ionien (car c'est le 7ème degré de la gamme)
+
+Voir [[Cadence basique - II V I]]

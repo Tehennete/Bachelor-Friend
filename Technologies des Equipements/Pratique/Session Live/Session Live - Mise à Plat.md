@@ -1,7 +1,7 @@
 ---
 Matière:
-- Pratique
-- Protools
+  - Pratique
+  - Protools
 Semestre: B2-1
 Date: 2023-11-15
 Prof: "[[Ruddy Palmier]]"

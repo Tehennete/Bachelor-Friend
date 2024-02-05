@@ -2,9 +2,9 @@
 Matière: Histoire de la Musique
 Semestre: B2-1
 Date: 2023-10-12
-Prof: Tom Mebarki
+Prof: "[[Tom Mebarki]]"
 Type: notes de cours
-tags: 
+tags:
   - theorie-musicale
   - cours
 ---
@@ -45,7 +45,7 @@ Le thème est ascendant en palier avec une descente avec une grande descente à 
 Elle est constituée de trois motif mélodique ascendant qui montent en escalier. Le motif change de tonalité 3 fois avant une grande descente
 
 #### Culture G
-France, Sarabande Lully, Baroque
+France, les Indes Gallantes, Rameau, Baroque
 
 
 #### Structure recommandée :
@@ -62,7 +62,7 @@ Partie instrumentale
 A(sol m)B(rel. Majeur (marche harmonique))AC(modulante, contrapuntique)A 
 Partie Vocale → La partie instrumentale devient un accompagnement.
 A(Contrechamps entre solistes soprano fait la mélodie)A'(CHoeurs)BA'CA'
-Donc c'est un Rondo [[4-Le Classique#Les mouvements d'une sonate|Mvt d'une sonate]]
+Donc c'est un Rondo [[Le Classique#Les mouvements d'une sonate|Mvt d'une sonate]]
 En Sol mineur 
 
 ##### Conclusion
@@ -70,4 +70,25 @@ Baroque Tardif (Rameau)
 Tragédie lyrique → Scène de Ballet
 Les Indes Galantes → Rameau 
 
-Commentaire d'écoute à faire : 
+## Résumé : 
+
+### Intro /2,5
+Caractère
+- Tempo 
+- Découpage 
+- Langue 
+- Fonction 
+- Problèmatique : quel est notre angle d'attaque pour analyser cet extrait
+
+#### Effectif /2,5 
+### Développement /10
+Forme Musicale → Schéma commenté 
+### Conclusion  /5
+- Epoque
+- Style 
+- Pays
+- Genre 
+- Forme 
+- Compositeur 
+- Titre 
+

@@ -17,17 +17,24 @@ Le classique c'est une courte période de 50 ans.
 ### École de Vienne
 #### Genre Sonate 
 Une musique qui va avoir pour seul but de Sonner. On compose de la musique uniquement pour faire de la musique, sans but narratif, émotionnel, significatif. C'est juste là pour se faire écouter. 
-"Sonner" : Pièce pour *petit ensemble* (1 à 3 instruments)
+"Sonner" : Pièce pour *petit ensemble* (1 à 3 instruments)d
 	Musique de chambre (≠ musique symphonique)
 
 **👤 [[Wolfgang Mozart ]](1756-1791)**
 
 🎵 *W. Mozart, Sonate pour piano qu'âtres mains K. 381 en Ré majeur*
 
-La musique classique est facile à jouée, et est accessible à tout le monde. Car la bourgeoisie va s'intéresser à la musique. C'est le Nouveau public, qui va s'intéresser à la musique. Chaque partie sera distincte. Le plus important sera la mélodie qui sera mis en avant avec une partie accompagnée. L'accompagnement prendra souvent la forme de pattern avec des arpèges brisés, **basse d'Alberti** qui sera reprise par de nombreux compositeurs.
+La musique classique est facile à jouée, et est accessible à tout le monde. Car la bourgeoisie va s'intéresser à la musique. C'est le Nouveau public, qui va s'intéresser à la musique. Chaque partie sera distincte. Le plus important sera la mélodie qui sera mise en avant avec une partie accompagnée. 
+L'accompagnement prendra souvent la forme de pattern avec des arpèges brisés, **basse d'Alberti** qui sera reprise par de nombreux compositeurs.
+
+>[!note]
+>La basse d'alberti c'est quand la basse est arpégé, Comme sur la Sonate facile pour piano de [[Wolfgang Mozart]]. Elle sera souvent en croches et fait I - V - III - V ou I - IV - III -IV comme pattern harmonique.
+
+
+
 La musique classique est très prévisible, tout est fait pour qu'elle soit comprise. 
 
-Œuvres faciles pour que les bourgeois puissent s'expérimentés.
+Œuvres faciles pour que les bourgeois puissent l'expérimenter et la jouer.
 Pour le Public de réac (la Noblesse), les nouvelles musiques sans but narratifs n'ont pas de sens, et ils se demandent à quoi ça sert. Tous les musiciens Baroques vont être gênés par cette musique impure. (Ils vont préparer le romantisme, un retour à la musique avec une narration).
 
 La forme est clair, un accompagnement, une mélodie → Facile à apprendre. 
@@ -55,7 +62,7 @@ Piano Forte : nom car il peut faire des nuances.
 **Piano moderne** : le piano qu'on connaît quoi. 
 #### Forme Sonate → "Style sonate"
 Il va symboliser l'école de Vienne (Classicisme)
-Ce n'est plus l'Italie qui va dominer la musique mais se déplacer à Vienne. C'est à Vienne que la forme Sonate va se théoriser. 
+Ce n'est plus l'Italie qui va dominer la musique mais l'Autrichese déplacer à Vienne. C'est à Vienne que la forme Sonate va se théoriser. 
 Toutes les formes Sonate vont avoir la même structure. 
 *🎵[[Wolfgang Mozart]], Sonate pour piano "Facile" K 283*
 Elle est en trois partie :

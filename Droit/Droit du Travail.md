@@ -10,7 +10,7 @@ tags:
   - cours
   - droit
 ---
-# Droit du travail
+w# Droit du travail
 Date: [[2023-10-09]] - [[2023-10-16|2023-10-16]] - [[2023-10-23]] - [[2023-10-30]]
 ## Les règles générales applicables aux contrats de travail 
 C'est un contrat qui va lier un personne à une personne physique, contrat qui peut avoir différentes formes (CTT, CDI, CDD, CDDU).
@@ -20,20 +20,26 @@ Il a trois phrase dans le contrat de travail :
 Dans le privé, la durée minimum est de 1 mois, renouvelable une fois. Souvent la durée est lié au statut de l'emploi dans la société. 
 - Post-contractuelle : Débute quand le contrat se ==termine==
 
-### Phase Pré-contractuelle 
+#### Phase Pré-contractuelle 
 Dérapage sur les serveurs dans les restaurants de spécialité (pays, et autres)
 #### La négociation
 Aucune contrainte juridiques particulière, le principe de liberté régit cette phase. Mais l'employeur doit assurer un égal traitement et ne pas discriminer selon des critères déterminés par la loi. 
 #### La promesse d'embauche
-## Le contenu du contrat de travail 
+
+Il faut distinguer l’offre de contrat de travail de la promesse unilatérale de contrat de travail. ✓ L’offre de contrat peut-être rétractée à l’issue de la période de réflexion laissée au salarié. ✓ La promesse unilatérale de contrat de travail vaut contrat de travail.
+
+#### Phase contractuelle  
+*La période d’essai* : Cette phase fait partie intégrante du contrat de travail. En effet, la période d’essai est une période transitoire qui suit la signature et le commencement effectif du contrat de travail. Pendant toute la durée de la période d’essai, qui peut varier, l’employeur comme le salarié peuvent mettre fin définitivement au contrat. Cette rupture anticipée n’est ni un licenciement, ni une démission. Ce n’est qu’à l’issue de la période d’essai que le contrat devient définitivement formé. 
+*L’exécution du contrat de travail* : C’est la période de vie « normale » du contrat de travail. Les parties sont réciproquement engagées à respecter les termes du contrat.
+### Le contenu du contrat de travail 
 Deux notions fondamentales et distinctes dans le contrat de travail 
 → **Les éléments essentiel du contrat de travail** : La rémunération, la qualification/focntion, et la durée du travail. Il ne peuvent être modifiés qu'avec l'accord du **salarié**. Il ne peut pas te changer radicalement de ton domaine, (ingé son à secrétaire), mais peut changer en dégradant → Ingé son à tech son. 
 → **Les conditions de travail** : Lieu de travail, horaires de travail (cadence répétition), les attributions. Peuvent être modifiées unilatéralement par l'employeur. (On ne peut pas changer les horaires sur le dimanche car c'est un jour majoré tout comme les jours fériés).
 
-### Éléments essentiels du contrat de travail et les conditions de travail
-La durée du travail (Éléments essentiel)
-La rémunération (Élément essentiel)
-Les conditions de travail 
+#### Éléments essentiels du contrat de travail et les conditions de travail
+- La durée du travail (Éléments essentiel)
+- La rémunération (Élément essentiel)
+- Les conditions de travail 
 
 Ces deux éléments peuvent-être réglementés par différentes sources(Lois (Code du Travail), Accord de branche, Convention Collectives, Accord d'entreprise, Contrat de travail).
 

@@ -54,3 +54,7 @@ Cous êtes présumé travailleur indépendant si vous remplissez l'une des condi
 → Quelques exemples de litiges traités par la justice. 
 "Prendre le texte dans le cours pdf"
 
+>[!note]
+>Pour s'équiper, liste des sociétés en faillite : et regarder les studios en faillites
+
+

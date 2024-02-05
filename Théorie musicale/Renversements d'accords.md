@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 Matière:
   - Théorie de la Musique
 Semestre:

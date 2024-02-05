@@ -2,7 +2,7 @@
 Matière: Protools
 Semestre: B2-1
 Date: 2023-11-09
-Prof: Stalla
+Prof: "[[Olivier Stalla]]"
 Type: notes de cours
 tags:
   - cours
@@ -18,7 +18,8 @@ Effacer les fichiers "inutiles" du chutier (attendre la fin, officielle du proje
 Les playlists sont parfois cachées : Penser à gérer les playlist et les pistes cachées.
 1. Dans la clip list : - Sélect Unused → **CMD + Shift + u**
 2. Delete / effacer : **CMD + Shift + b** (b pour blade)
-3. 
+CMD + Shift = clip list
+ 
 Ça permet de gagner de la place sur le disque. 
 
 ### Compacter les pistes 
@@ -33,6 +34,7 @@ Va enlever tout ce qui n'est pas utilisé de la piste : si j'utilise que deux pe
 Si on a pas sauver une version depuis longtemps et qu'on est pas content de notre travail : Revenir à la dernière session sauvegardé. 
 
 ### Recherche de fichiers 
+
 On peut afficher le chemin du fichier.  Menu clip list → Afficher → Chemin d'accès complet (full path)
 
 ## Fichiers manquants

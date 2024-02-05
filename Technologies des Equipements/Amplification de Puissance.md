@@ -1,15 +1,17 @@
 ---
-aliases: 
+aliases:
 Matière:
   - Technologie des Equipements
 Semestre:
   - B2-1
+  - B2-2
 Date: 2023-12-20
 Prof: "[[David Laurent]]"
 Type: notes de cours
 tags:
   - cours
   - Technologie-des-équipements
+  - Ampli
 ---
 # Amplification de Puissance
 Date: [[2023-12-20]] 
@@ -32,7 +34,7 @@ Les transistors on des plages de fonctionnement idéales.
 
 ### Modèles 
 **Ils diffèrent suivant :**
-- La puissance de sortie en Watt RMS (Moyenne ou efficace) ou Watt crête (instantanée, environ 2x $W_{RMS}$) 
+- La puissance de sortie en Watt RMS (Moyenne ou efficace) ou Watt crête (instantanée, environ 2x$W_{RMS}$) 
 - Le type d'alimentation (Transfo ou "à découpage")
 - La Classe (A, B , AB, D…) (Type de circuit de transistors)
 - Le nombres de canaux audio (2 ou plus)
@@ -41,7 +43,7 @@ Les transistors on des plages de fonctionnement idéales.
 La sensibilité indique le niveau électrique du signal audio à l'entrée de l'ampli permettant d'obtenir la puissance max en sortie. En général entre 0 et +6dBu (0,775V et 1,5V). On peut la sélectionner sur certains amplis.
 ### Puissance de sortie 
 - $W_{RMS}$ = Puissance efficace (moyenne), rms = Root Mean Square (racine carrée)
-- $W_{crête}$ =Puissance Instantanée (= 2 x $W_{RMS}$ )
+- $W_{crête}$ =Puissance Instantanée (= 2 x $W_{RMS}$)
 - Rappel formules : $\boxed{P=U.I}$ et $\boxed{U=Z.I}$
 ### Réponse en fréquence
 - Insique la zone de fréquence dans laquelle l'ampli présente un fonctionnement constant (mesure faite à bas niveau, en général 1W sous 8$\Omega$ Standard : 20Hz - 20kHz)
@@ -72,16 +74,15 @@ C'est le rapport entre la tension max en sortie et le bruit de fond résiduel de
 >Plus l'ampli est puissant, plus le S/N doit être grand afin que le bruit résiduel soit inaudible même à fort volume. 
 
 ### Impédance d'entrée et sortie 
-- **Entrée** : 10k $\Omega$ au minimum (pour recevoir des niveaux "lignes" de 1k$\Omega$)
-- **Sortie** : < 0,1 $\Omega$ car impédance HP environ 8$\Omega$ (avec des *variations en fonction de la fréquence*)
+- **Entrée** : 10k$\Omega$ au minimum (pour recevoir des niveaux "lignes" de 1k$\Omega$)
+- **Sortie** : < 0,1$\Omega$ car impédance HP environ 8$\Omega$ (avec des *variations en fonction de la fréquence*)
 
 L'impédance est présente dans les caractéristiques (souvent dans le tableau de puissance, si les valeurs ne sont pas présente alors l'ampli ne peut pas supporter ce nombre d'enceinte.) 
 #### Important : Montage Série et Parallèle
 **SERIE** : Légère perte en puissance, pas de problème d'impédance pour l'ampli. 
-$$\boxed{Z=Z_1+Z_2+Z_3}$$ Pour trois enceintes montées en série. Exemple $Z_{1,2,3}$ = 8 $\Omega$ on a $Z_{total}$ = 24 $\Omega$
+$$\boxed{Z=Z_1+Z_2+Z_3}$$ Pour trois enceintes montées en série. Exemple $Z_{1,2,3}$ = 8$\Omega$ on a $Z_{total}$ = 24$\Omega$
 
 **PARALÈLLE** : Augmentation de la puissance mais baisse de l'impédance vue par l'ampli = danger surchauffe. Un ampli peut supporter 8, 4 ou 2$\Omega$ de charge en général, cette valeur dérermine le nombre d'enceintes que l'on peut brancher en paralèlle sur une sortie d'ampli. $$\boxed{\frac{1}{Z}=\frac{1}{Z_1}+\frac{1}{Z_2}+\frac{1}{Z_3}}$$ Pour trois enceintes montées en parallèle. Exemple $Z_{1,2,3}= 8\Omega$ on a $\frac{1}{Z_{total}}=\frac{3}{8}\Rightarrow Z_{total}=2,66\Omega$ 
-
 ### Facteur d'amortissement (Dumping Factor)
 C'est une indication de la manière dont l'ampli "commande" les mouvements du HP. En effet les membranes de HP ont tendance à continuer à osciller après que le signal ait cessé. Une impédance de sortie d'ampli très faible court-circuite alors virtuellement le HP ce qui permet d'amortir ces oscillations résiduelles de membrane.
 Le facteur d'amortissement est le rapport entre l'impédance de charge du HP et l'impédance de sortie de l'ampli. 
@@ -116,7 +117,7 @@ Assez courant, fonctionne par modulation à largeur d'impulsion. Un signal impul
 
 On fabrique des impulsion électriques en fonction du signal audio plus plus le signal est fort plus l'impulsion est large. Et c'est le signale converti qui sera amplifié. En suite on  fait passer le signal à largeur d'impulsion dans un circuit pour restituer le signal audio d'origine mais amplifié. 
 
-![[IMG_0077.jpeg|400]]
+![[IMG_0077.jpeg|400|left]]
 
 À creuser. 
 #### Classe i
@@ -176,3 +177,25 @@ On trouve couramment aujourd'hui des amplificateurs auxquels on a ajoutés certa
 - Limiteur 
 - Mémoire (Preset) Contenant tous les réglages constructeurs spécifiques pour chaque modèle d'enceinte de la marque qu'on peut utiliser. 
 *Exemple* : Ampli 4 Canaux LA8 de [[L-Acoustics]]
+
+# Flashcards
+
+Quel est le rôle de l'amplificateur de puissance dans un système audio?::Il sert à amplifier des signaux de niveau ligne (+4dBu) pour les amener à quelques dizaines de Volts et plusieurs Ampères ainsi qu'une faible impédance de sortie afin de fournir la puissance nécessaire et d'assurer le bon fonctionnement des haut-parleurs.
+Sur quoi est basé le principe de l'amplificateur de puissance?::Le principe de l'amplificateur de puissance est basé sur l'utilisation des transistors de puissance de type FET (Field Effect Transistor) ou de MOSFET (Métal Oxyde Silicium FET), qui assurent l'élévation de la tension électrique en sortie. Ces composants nécessitent une alimentation électrique importante réalisée par des transfos (bobines + pont de diodes) ou des circuits appelés "à découpage".
+Qu'est-ce que la classe d'un ampli et à quoi correspond-elle?::La classe d'un ampli correspond à l'ajustement du circuit de transistors. Elle définit le type de montage d'amplification choisi par le constructeur, tel que Classe A, Classe B, Classe AB, Classe D, etc.
+Quelle est l'importance du gain d'un amplificateur, et comment est-il généralement réglé?::Le gain d'un amplificateur est fixe, généralement +26dB ou +32dB. Le potentiomètre de réglage "volume" agit comme un atténuateur du signal audio, ajustable de $-\infty$ à OdB.
+Comment l'atténuateur agit-il dans le circuit de l'ampli, et pourquoi est-il généralement préférable de baisser l'atténuateur de l'ampli plutôt que sur la console?::L'atténuateur agit comme un dispositif de réduction du signal. Il est généralement préférable de baisser l'atténuateur de l'ampli plutôt que sur la console car l'atténuateur de l'ampli est situé plus loin dans la chaîne du son, minimisant ainsi les défauts de rapport signal/bruit.
+Quelles sont les caractéristiques principales des modèles d'amplificateurs et comment diffèrent-ils?::Les modèles d'amplificateurs diffèrent selon la puissance de sortie en Watt RMS, le type d'alimentation (transfo ou "à découpage"), la classe (A, B, AB, D...), et le nombre de canaux audio (2 ou plus).
+Qu'est-ce que la sensibilité d'un ampli, et quelle plage est généralement spécifiée?::La sensibilité d'un ampli indique le niveau électrique du signal audio à l'entrée permettant d'obtenir la puissance max en sortie. En général, elle est spécifiée entre 0 et +6dBu (0,775V et 1,5V).
+Quelles sont les différentes mesures de puissance d'un ampli, et comment sont-elles calculées?::Les mesures de puissance d'un ampli incluent la puissance efficace ($W_{RMS}$), la puissance instantanée ($W_{crête}$), calculées à l'aide des formules $\boxed{P=U.I}$ et $\boxed{U=Z.I}$.
+Qu'est-ce que la distortion THD, et quel est le niveau généralement accepté?::La distortion THD (Total Harmonic Distortion) est la comparaison d'un signal d'entrée sinusoïdal pur avec le résultat en sortie à la puissance max de l'ampli. En général, elle est < 0,05%.
+Qu'est-ce que la diaphonie, et comment peut-on la limiter?::La diaphonie (cross-talk) est la présence plus ou moins importante du canal 1 dans le canal 2 par rayonnement électromagnétique. On peut la limiter en utilisant 2 transfos différents dans l'ampli et des condensateurs de filtrage.
+Qu'est-ce que le rapport signal/bruit, et pourquoi est-il important?::Le rapport signal/bruit est le rapport entre la tension max en sortie et le bruit de fond résiduel de l'ampli. Plus l'ampli est puissant, plus le S/N doit être grand pour que le bruit résiduel soit inaudible même à fort volume.
+Quelles sont les impédances d'entrée et de sortie recommandées pour un ampli, et pourquoi sont-elles importantes?::L'impédance d'entrée recommandée est 10k$\Omega$ au minimum, et l'impédance de sortie doit être < 0,1$\Omega$. C'est important car l'impédance HP est environ 8$\Omega$ avec des variations en fonction de la fréquence.
+Expliquez les montages en série et en parallèle d'enceintes sur un ampli.::En série, on a une légère perte en puissance, et l'impédance totale est la somme des impédances individuelles. En parallèle, on a une augmentation de la puissance mais une baisse de l'impédance vue par l'ampli, ce qui peut causer une surchauffe.
+Qu'est-ce que le facteur d'amortissement, et comment est-il calculé?::Le facteur d'amortissement est le rapport entre l'impédance de charge du HP et l'impédance de sortie de l'ampli. Il est calculé en divisant l'impédance de sortie de l'ampli par l'impédance du HP.
+Quelles sont les classes d'ampli couramment rencontrées, et quelles sont leurs caractéristiques?::Les classes d'ampli couramment rencontrées incluent la Classe A, Classe B, Classe AB, Classe D, et d'autres comme Classe C, Classe i, Classe E, F, G, H. Chaque classe a des caractéristiques spécifiques en termes de rendement, qualité audio, etc.
+Qu'est-ce que la Classe H en amplification et quels sont ses avantages?::La Classe H est un mode d'alimentation des circuits d'amplification qui remplace le transformateur par des circuits appelés "à découpage". Ses avantages incluent une faible production de chaleur et un poids léger.
+Quels sont les différents modes d'utilisation d'un ampli, tels que Stéréo, Parallel - Mono, et Bridged (Mono)?::Les différents modes d'utilisation d'un ampli incluent Stéréo (ou dual Mono), Parallel - Mono (utile pour envoyer un même signal sur plusieurs enceintes), et Bridged (Mono) où la puissance des deux canaux est combinée pour une sortie mono avec une puissance accrue.
+Quelles sont les protections courantes intégrées aux amplificateurs?::Les protections courantes intégrées aux amplificateurs comprennent des fusibles pour les courts-circuits et variations de tension, des limiteurs pour protéger les HP, des mesures de température avec coupure audio si nécessaire, etc.
+Quelles sont les fonctionnalités des amplificateurs avec processing, et comment sont-elles réalisées?::Les amplificateurs avec processing intègrent des fonctionnalités telles que le gain, l'inversion de phase, l'EQ, le retard, le filtre coupe-bas, le limiteur, etc. Ces traitements sont réalisés en numérique, avec un CAN à l'entrée analogique, un bloc de processeur (DSP), et un CNA avant les circuits de puissance.

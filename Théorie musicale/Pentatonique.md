@@ -1,9 +1,9 @@
 ---
-aliases: 
-Matière: 
-Semestre: 
+aliases:
+Matière:
+Semestre:
 Date: 2023-12-20
-Prof: 
+Prof:
 Type: notes de cours
 tags:
   - cours

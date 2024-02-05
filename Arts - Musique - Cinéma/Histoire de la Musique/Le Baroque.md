@@ -1,0 +1,403 @@
+---
+Matière: Histoire de la Musique
+Semestre: B1-2
+Date: 2023-10-12
+Prof: "[[Tom Mebarki]]"
+Type: notes de cours
+tags:
+  - cours
+  - histoire-de-la-musique
+---
+
+_En quoi la musique Baroque illustre une crise épistémologique dans l'histoire de la musique?_
+
+## Introduction (coté peintres)
+
+### Le Caravagisme
+
+C'est le mouvement qui fait basculer la peinture dans le mouvement Baroque. 🖌️Michelangelo Da Caravagio ⇒ On essait de représenter le réel, le concrêt "Judith décapitant Halopherne" → représentation subjective et dramatique du réel. "La vocation de Saint Matthieu" → **Ténébrisme** : La lumière est directe, il y a des contrastes, la notion de clair obscur (beaucoup de tableaux seront sur fond noir) C'est la fixation d'un mouvement, cela humanise les personnages. Le mouvement va se diffuser dans toute l'Europe avec l'Italie comme point de départ (Caravage) On ne peint plus des scènes mythologiques ou historiques mais plutôt des actions moins nobles. On commence à représenter des Dieux mineurs seuls. "Bacchus" Quand le Baroque arrive, il va cohabiter avec le classicisme qui lui va continuer à vivre notamment avec les commandes des nobles qui veulent des portraits façon classicisme. Les peintres Baroques vont se plier aux règles des commandes et réaliser des oeuvres dans un style classicisme.
+
+### L'Académisme
+
+La France va représenter le classicisme, avec l'apparition de l'académie Française L'académie va instaurer une hiérarchie dans la valeur des styles de peintures : Antiquité > Renaissance > Classicisme L'académie Royale de peinture et de sculpture sera fondée en 1648 Un peintre sera alors considéré comme classique s'il est approuvé par l'académie. Elle met en place une hiérarchie des peintres également : 1 - Les anciens > 2 - Raphaël > 3 - Poussin > 4 - Les Baroques. Nicolas poussin sera présenté comme le nouveau Raphaël Français. L'académie va également mettre en place une hiérarchie des scènes des peintures : 1 - Les scènes historiques/Mythologiques > 2 - Les Portraits > 3 - Les Paysages > 4 - Les scènes de genre (Natures mortes, Vanités - Représentation de la vie de la mort et du temps qui passe) **Les caractéristiques d'une oeuvre dite classique :** Elle est grande (Les oeuvre Baroques sont quand à elles petites) La lumière est omnisciente Les espaces représentés sont grands, et les personnages sont dominés par le décor. Ici la Forme idéalise le Fond **Pour résumer :** Classique = Modèle - Rigueur - Symétrie - Perfection = Tracé Baroque = Perle irrégulière - Courbe - Bizarre - Sinueux C'est le dessin vs la couleur => Le tracé (aux couleurs pastelles) vs Les contrastes et la couleur est mise en avant Le Baroque c'était d'abord une insulte avant d'être un genre : Cela signifiait qui s'écarte de la norme de l'époque. (en peinture comme ne architecture)
+
+**En Musique :** Renaissance (XVI) -> Baroque (XVII-XVIII) [**Baroque Primitif (1600-1650)** - >**Baroque Fleurissant (1650-1700)** ->**Baroque Tardif ( 1700-1750)**] -> Classique (XVIII)
+
+## La Musique Dramatique
+
+- Invention de l'Opéra en Italie: Le premier Opéra : _"Orphéo, Favola in Musica"_ (fable en musique) 1607, de _Claudio MONTEVERDI_ (1567-1643) Ouverture : C'est quand l'orchestre ouvre la pièce/l'opéra -> l'objectif est de capter l'attention de l'assemblée.
+
+### Favola in Musica
+
+C'est le nom des opéra pendant le Baroque Primitif. Elle sera plus proche d'un théâtre chanté => RECITAR CANTADO. Elle se divise en deux styles : **Stile Parlando** : Monodie accompagnée, déclamation chantée et syllabique -> Une note = 1 syllabe **Stile Fiorito** : Ornementation vocales des notes = Mélismatique et Diminution des valeurs des notes (propre à chaque chanteur)
+
+- Le chœur va résumer la scène grâce à la tonalité d'une façon figurative. Favola in Musica : Solistes + Chœurs + Orchestres (madrigal)
+- L'Orchestre va servir pour les entractes/préludes/les scènes sans chanteurs/balais ⇒ Soliste + chœurs (=madrigal) + orchestre (=intermèdes)
+- Les sujets sont mythologiques et sérieux _"Il ritorno di Ulisse in Patria"_ (1640) _"L'incornazione di Poppea"_ (1643)
+
+### Seconda Pratica Vs Prima Pratica
+
+- **La camerata Fiorentina (de Bardie)** (libret = paroles d'un opéra) Pendant une trentaines d'années, c'est la prima practica, un cherchait la forme de l'opéra, et les favola étaient jouées dans des cercles privés (Nobles) _Monteverdi_ va être le premier à utiliser des dissonances non-préparées. L'intégration de la dissonance va faire la bascule entre la musique de la Renaissance et la musique Baroque. Prima Practica = Musique de la Renaissance, il va donc se tourner vers la Secunda Practica => le Baroque.
+
+### Réforme de l'Arcadie
+
+**Evolution de l’opéra italien**
+
+C'est l'évolution de l'opéra Italien, la favola in musica va devenir :
+
+**Dramma per Musica** (Baroque fleurissant) → Pendant l'évolution de ce genre on assistera à une **séparation** progressive de ce qui est **récité** et de ce qui est **chanté**. → Le **mélisme** des chanteurs sera de plus en plus présent : **BEL CANTO** ⇒ On bascule de la petite histoire (favola in musica) à un moment spectaculaire **Opéra Seria** (baroque tardif) → virtuosité (vocalises) des chanteurs → mise en place d'une "industrialisation" du genre, _Pietro Métastasio_ va crée une charte ⇒ C'est la **réforme de l'Arcadie** Il va ajouter et instaurer une forme à l'opéra :
+
+- **Recitavo Secco** : l'histoire avance avec beaucoup de texte, c'est une partie théâtrale peu chantée qui dure environ 3 minutes. La récitation vocale est accompagnée par une **Basse Continue**
+- **Aria** : c'est l'air de l'Opéra, le lieux des vocalises où l'action est figée. Cette partie dure environ 6 minutes.
+- **Di Paragone** : ce sont des aires avec métaphores (ressemble au madrigaux) Da Capo (structure en ABA'), Les airs sont parfois des airs **Valises** → Des aires utilisés dans différents opéra (1 air pour 20 opéras) = Suspension théatrale chantée sur un affect sous forme ABA' transposable à tous les drames
+- **Récitativo Accompagnato** : Tout l'orchestre fait la basse continue. C'est une déclamation vocale avec un mélodrame Orchestrale (climax dramatique) Cette charte va rendre l'opéra de plus en plus accessible et populaire. Mais avec pour conséquence de le rendre de plus en plus similaire.
+
+**Opéra Buffa** (Baroque tardif) : Un opéra qui traite de sujet légers et du quotidien **Intermezzo** (scène légère entre les actes des opéra Seria, qui ont grandit et sont devenues les Opéra Buffa) Les Opéra Buffa se sont démocratisés car Les opéra Siera étaient de plus en plus longs.
+
+## Diffusion de l’opéra en Europe
+
+_Petit rappel, la France “déteste” la musique et l’art italien de la même époque_
+
+### La musique dramatique Française
+
+Premier opéra apparaît donc en Italie : _”Orphéo”_ de Claudio Monteverdi (1647)
+
+L’opéra va devenir le symbole du pouvoir français. Louis XIV va demander à J.B. Lully de fonder et créer un Opéra Français en contraste de l’opéra Italien. Il fondera alors : **L’Académie Royale de Musique** (1669)
+
+Malgré ses origines Italiennes, Lully va supplanter tous ses contemporains, renier ses origines et créer l’opéra dit Français.
+
+### **La Tragédie en Musique** (Baroque Fleurissant)
+
+Pour s’opposer au modèle d’opéra italiens de l’époque (standardisés), il va reprendre le modèle des premiers opéras italiens.
+
+→ La première tragédie en musique _”Cadmus & Hermione”_ (1673)
+
+⇒ La tragédie en musique est définit comme un spectacle TOTAL : Théâtre, musique, danse, décors, costumes…
+
+Dont l’ensemble est codifié avec de nombreux traités : pour les paroles, les mouvements, les décors, les éclairages, les déplacements….
+
+⇒ Elle se déroulera en 5 Actes et un prologue (contre 3 actes dans les opéras italiens de l’époque)
+
+(Le prologue est une louange au Roy s’il est présent = propagation artistique qui n’a rien à voir avec l’histoire de l’opéra)
+
+⇒ Hybridation comique et tragique
+
+⇒ On utilisera plus de castrats comme les italiens pour les rôles ambigües mais plutôt des travesti ( la voix de haute-contre)
+
+### Avant la tragédie en musique
+
+Les ballets vont se développer durant le Baroque :
+
+- Le Ballet de Cour
+- La Comédie Ballet
+
+⇒ Orchésographie des entrées de Ballet (Paris 1704). C’est La notation des chorégraphies précises liées aux musiques.
+
+### Après : la tragédie lyrique (baroque tardif)
+
+La tragédie en musique va s’italianisée
+
+Ce qui va faire naître un conflit entre les modernes et les anciens
+
+→ C’est la **Querelle des Lullistes et des Ramistes (conflit historique)**
+
+Rameau va rompre les codes, Il va régler ses comptes avec les compositeurs de l’époque. La musique prendra plus d’importance que les texte qu’elle porte. (Il fera par exemple une musique joyeuse sut un texte sombre.)
+
+La tragédie en lyrique va également s’éclater en différents sous genres :
+
+- La Comédie Lyrique
+- La Pastorale Héroïque
+- Le Ballet Bouffon
+- L’Opéra Ballet
+
+Une autre Querelle apparaitra : **La querelle des bouffons (Conflit géographique : France vs Italie)**
+
+Rameau représentera le Côté Français et Rousseau Le côté Italien.
+
+À la fin du Baroque, l’Italie va simplifier sa musique (donnera naissance au classicisme italien) donc la musique “complexe” de Rameau va devenir la musique dite Française qui tendra à son tour vers le classicisme Français.
+
+C’est donc un Français qui va ré-italianiser l’Opéra Français.
+
+## Les Arts Baroques & Classique au XVIIIe Siècle
+
+### Le Rococo
+
+Décoration “Rocaille” en Architecture d’intérieure : rafinement un peu excessif.
+
+→ Émancipation de l’Académisme
+
+Apparition d’un nouveau genre pictural ; La Fête Galante
+
+Style Rococo en peinture (début XVIIIe)
+
+Léger, badin, couleurs pastel, formes douces ( moins solennel que le classicisme mais mois sombre que le Baroque
+
+Liberté individuelles vont émerger (Lumières) : La peinture devient un art autonome (Il ne sera plus lié à la monarchie ou l’église)
+
+## La musique théâtrale Anglaise
+
+→ **Opéra / Oratoria** : un opéra sacré (avec une mise en scène)
+
+Sa structure est Da Capo avec une ritournelle → ABA’
+
+La ritournelle : c’est une mélodie durant l’introduction qui revient dans le refran et définit l’opéra. Exécuté par un orchestre symphonique ou un instrument d'accompagnement, ce refrain de petite suite de mesures sert d’introduction instrumentale pour une scène lyrique ou un acte dans un opéra. La ritournelle est synonyme de prélude, surtout dans les opéras français du XVIIe et du XVIIIe siècle, quand elle engage une mélodie. En outre, elle s’apparente à un interlude si elle sépare 2 passages vocaux et à un postlude lorsqu'elle conclut une phrase musicale cf [https://justeunpiano.fr/lexique/ritournelle/](https://justeunpiano.fr/lexique/ritournelle/))
+
+Sur la A’ le chanteur improvisera des vocalises écrites.
+
+→ **Mask** (avant Haëndel) : Une sorte de petit Opéra (on parle de semi-opéra)
+
+Il y aura plus de Choeurs que dans les autres opéras
+
+Pour résumer en un mot : **Italiens : Thèse | Français : Antithèse | Anglais : Synthèse**
+
+→ **Incindentale Musique** : (Ancêtre de la comédie musicale) : Une pièce de théâtre avec des scènes musicales.
+
+## Institutions Royales
+
+### **Le Parnasse Français**
+
+→ un projet de sculpture rassemblant les plus grands artistes de l’époque ( 🎨 _Evrad Titon du Tillet_)
+
+**Tragédie** : _Jean Racine_ “Andromarque” (1668) théâtre en Alexendrins → Utilisation des mots pour leur sonorités.
+
+**Comédie** : _Jean Baptiste Poquelin_ dit _Molière_ “Malade imaginaire” (1673) théâtre avec la musique de _Charpentier_
+
+Composition musicale au service du théâtre → comédie Balais
+
+**Poésie** : _Jean Baptiste de la Fontaine_ “Les femmes et le secret” (1678) Fable
+
+**Musique** : _Jean Baptiste Lully_ “Ballet Royal de la Nuit” (1653) Ballet de cour
+
+→ Surintendant de la musique du Roi
+
+→ Maitre de la musique de la famille royale
+
+→ Secrétaire du Roi (son plus proche conseillé)
+
+### La chambre du Roy
+
+**Musique de chambre et musique symphonique**
+
+- Sonata (formation de chambre)
+    
+- Symphonie “sonner ensemble”
+    
+    → avec le renfort de 12 grands hautbois de l’Écurie
+    
+
+Versailles va faire évoluer la musique instrumentale de l’époque à travers deux genres, les sonates et les symphonies.
+
+**École française de clavier**
+
+- Importance de l’ornementation
+
+Chaque auteur avait des tables d’ornementations en fonction de signes marqués sur les partitions → un instrument qui imite la voix sans le texte
+
+⇒ Musica Ficta C’est ce qui représente l’interprétation du musicien
+
+- Suite de caractère (nom du style) : Le titre donne l’ambiance du morceau, le son raconte une histoire “réveil-matin”
+    
+    ⇒ Courte musicalisation d’une idée verbale éponyme, le titre nous donne le ton.
+    
+
+🎵 _Michel de Lalande_ (1657-1726) “symphonie pour les souper du Roy”
+
+🎵 _Marin Marais_ (1656-1728) Sonate “La Gamme”
+
+🎵 Jacques Champion de Chambonnière (1601-1672) “l’entretien des Dieux”
+
+🎵 François Couperin (1668-1733) “L’art de toucher le Clavecin”, “ Les Folies Françoises”
+
+🎵 Louis Couperin (père) “prélude non mesuré”
+
+[https://flat.io/embed/6448de44420e1614f3dc26fe?_l=true&sharingKey=a069a287a551bd418feb53f0ef03a4dfcbe6e65d1a1e4c15cab5b574224ccba21797d3127e26ec5ec601fe60c51f4598b54eaa9d62e2f919f2db60ad05902a1a](https://flat.io/embed/6448de44420e1614f3dc26fe?_l=true&sharingKey=a069a287a551bd418feb53f0ef03a4dfcbe6e65d1a1e4c15cab5b574224ccba21797d3127e26ec5ec601fe60c51f4598b54eaa9d62e2f919f2db60ad05902a1a)
+
+### **Les récréations de sa majesté**
+
+- apparition du concert
+    
+    - La musique devient un divertissement : les gens viennent exclusivement pour écouter de la musique → mini opéra (ouverture récit air et chœurs)
+    - Comédie Ballet (Lully / Molière)
+    - Cantate : équivalent d’une sonate mais pour la voix (10-15 minutes). Elle peut être :
+        - Sérieuse : “Orphée” avec une instrumentation plus légère qu’à l’opéra (vient de l’air de cours)
+        - Comique “Rien du tout”, parodie des gens de l’époque, le pitch est comique prétérition
+        - Sacrée “Le passage de la Mer Rouge”, c’est un récitatif
+    
+    Au début des cantates, il y a souvent une ouverture, comme si c’était un mini opéra.
+    
+
+### La Chapelle du Roy
+
+- De la liturgie à la monarchie → Grand Motet _"Exaudiat te Dominus"_ André Camprat (1660-1744) Tout l'orchestre qui joue avec le renfort des écuries → Petit Motet "Leçon de ténèbres du Jeudi Saint" Lalande, c’est plutôt de la musique de chambre Apparition d'instrument différents de l'orgue → C'est les premières "symphonies" On va utiliser le prétexte de Dieu pour glorifier le Roy. La musique sacrée va devenir plus cérémonial et expressive. ⇒ Deux manières de pratiquer les offices : une pour le Roy et l'autre pour la religion
+    - certains morceaux vont changer de timbre en fonction de la partie Les différentes voix :
+- Apparition de l'école d'Orgue : Importance de la registration et de l'improvisation (registration c'est les changements de timbre de l'orgue)
+- Soprano → dessus
+- Alto(femme) → haute-contre ou bas-dessous (homme) -> c'est un ténor avec une voix très aigue typiquement Française
+- Ténor → Taille
+- Basse → Basse-taille ou Basse
+
+## L'écurie du Roy
+
+⇒ Musique de cérémonie
+
+- Fanfares ensemble instrumental composé essentiellement de vents
+- Marches "Bruits de Guerres"
+    - Ethos : Musique qui influe les gens
+- Carroussel : défilé militaire -> pour montrer la puissance militaire Cela sonne faux car les cuivres sont récents et peu aboutis, les instruments sont des prototypes.
+
+## Hors les murs (musique hors de Versailles)
+
+- **La Menestrandine** confrérie de musicien en charge des cabarets "Suite du ballet de Stockholms" Composition pour les mendiants -> On faisait jouer les mendiants pour divertir le peuple (et récolter de l'argent) -> Musique populaire et de danse
+- Airs à danser (pièces satiriques) : "Les Fastes de la grande et ancienne Ménestrandise" Couperin
+- Baroque "champêtre" : Expression des Nobles qui rêvent de devenir des Bergers : Vision arcadienne des Bergers. -> Ils vont faire de la "rurale" musique : "Les Plaisirs Champêtre"
+- **Publications Ballards** : Livre d'airs sérieux et d'airs à boire Ces publications paraissaient dans le Journal Parfois écrites sur divers supports : notamment des manches de couverts -> couteau de notation "complainte de La Brinvilliers - Lamentation Apocryphes"
+
+## Musiques de Danse
+
+⇒ C'est de la musique savante qui reprend des airs de danse mais qui ont pour seule volonté d'être écoutée (donc pas dansé)
+
+- **Basse continue** : Souvent la basse est la même durant tout le morceau.
+
+### **Suites de Danses**
+
+1- Allemande : Danse modérée, binaire, originaire d’Allemagne 2- Courante : Danse rapide, à trois temps, originaire d’Italie 3- Sarabande : Danse lente, à trois temps, originaire d’Espagne 4- Gigue : Danse rapide, ternaire, originaire de France Autres danses : Bourrée, Rondeau, Menuet, Polonaise
+
+### Basses Continues
+
+La basse dans le Baroque va être moteur. Elle est toujours présente (c'est un peu une walking basse avant l'heure) Les accompagnements sont improvisés -> Il y a des chiffres au-dessus des notes de basse pour donner des indications. Ces accompagnements seront gérer par des instruments Harmoniques → lettres au clavecin qui vont jouer le Continuo C'est l'ancètre du chiffrage américain, c'est la Basse chiffrée (Souvent pas écrite car elle est évidente à cete époque) La basse n'est pas improvisé mais elle est moins figée dans le temps
+
+### Basses Obstinées
+
+- Ostinato : Succession rythmico-harmonique jouée en boucle (le sample de l'époque) **Danses avec une basse obstinée :**
+- Chaconne
+- Bergamaca(Bamba)
+- Canario 
+- Promanesca (Hit the Road Jack)
+- Passacaille (Barbie Girl)
+- Ground
+- Folia (di Spagna) basse obstinée : c'est une basse qui se répète tout le long du morceau.
+
+### Nouveau Monde
+
+Il va y avoir un "retard" de genre avec l'Europe à cause de la distance. → Codex Saldivar : Mexique → Codex Martinez Companion : Pérou
+
+## La musique Concertante
+
+### Concerto pour soliste
+
+Conversation entre soliste et ensemble orchestral en 3 mouvements
+
+- Mouvement 1 : Allegro (rapide)
+
+Présence d’une ritournelle (pattern) traité en marche harmonique : Elle va monté ou descendre progressivement harmoniquement
+
+- Mouvement 2 : Largo (lent) - parfois Adagio. La tonalité de ce mouvement est la relative du premier (couvent)
+- Mouvement 3 : Presto (très rapide)*
+
+## Ecole de Venise (baroque tardif)
+
+C’est dans cette école qu’a été crée le concerto pour soliste.
+
+⇒ C’est une forme fixe mais avec une formation libre
+
+La musique est “commercial” car répétitif avec la ritournelle comme “hook”
+
+Développement du timbre, on compose pour la texture : création de sons inouïs
+
+⇒ Il “pretro rosso”
+
+## Orphelinat de l’Eglise de la pietra (lieu ou Vivaldi était moine)
+
+→ Comme c’est un orphelinat ou l’on apprend de nombreux instruments, A. Vivaldi va composer pour des instruments peu mis en avant (comme la mandoline)
+
+→ Et donc de travailler sur le timbre
+
+→ Mise en place de formations inédites
+
+Il va donner aux soliste des parties très lyrique et “vocales”
+
+## Concertato
+
+### L’école de Bologne (Baroque fleurissant)
+
+- Concerto grosso : Concerto sans soliste, seulement l’orchestre qui dialogue avec lui-même
+
+Arcengelo Correli : “inventeur” du concerto
+
+pour résumer le concerto grosso c’est :
+
+Petit Groupe Instrumental qui dialogue (ritournelle, mouvement indéterminé) avec un grand groupe instrumental (Ripieno)
+
+Le concerto c’est exporté hors de l’Italie :
+
+**Concerto comique** : Concerto sur un air populaire
+
+### Autres genres concertants
+
+- **Sinfonia** : Un genre beaucoup moins codé que le concerto
+
+Ancêtre de la symphonie : **Bavardage** entre les **pupitres**
+
+- **Battalia** : Description instrumentale libre d’une bataille → Pas de règles
+
+# Harmonie et Contrepoint
+
+Harmonie = logique harmonique → verticale; Contrepoint = logique mélodique → horizontale
+
+## Musiques Harmoniques
+
+## Choral (musique verticale)
+
+C’est un genre ou les choristes chantent tous en même temps chacunes des notes → En harmonie
+
+→ C’est la base des musiques religieuses protestante (droite et sobre)
+
+⇒ C’est une forme musicale en Polyphonie homorythmique propre à la sobriété Luthérienne (protestantine)
+
+### Motete (motet)
+
+→ Technique responsorial : dialogue entre le soliste et les choeurs (exemple “happy day”)
+
+→ Bitinium : Le choeur se brise en deux patterns indépendants (Aigus/graves)
+
+### Kantate (Cantate)
+
+→ Improvisation instrumentale sur le matériel polyphonique vocal
+
+Le Choral est très important, c’est la base de la musique vocale et instrumentale
+
+### Passion (oratorio)
+
+## Musique Contrapunctiques
+
+## Canon (musique horizontales)
+
+### Canon
+
+Imitation la plus stricte de la mélodie :
+
+→ Canon Simple : la mélodie se répète de facon similaire (Comme dans le canon de Pachelbel)
+
+→ Canon modulant : Changement de tonalité de la mélodie qui est répétée
+
+→ Canon intervallique : La voix qui reprend la mélodie va la reprendre avec un interval fixe (elle va entrer à la tierce)
+
+L’intérêt du canon arrive quand toutes les voies jouen, c’est à ce moment qu’on comprend le morceau
+
+## Fugue (entre horizontalité et verticalité)
+
+### Fugue
+
+Pièce mathématique ou le sujet (thème) fuit dans toutes les voix en imitation
+
+Bach n’écrit jamais ces morceaux pour des instruments précis. Ce qui l’intéresse c’est les rapports mathématique.
+
+Ce qui compte c’est comment le thème est ageancé, ce n’est pas le thème en soi qui à de l’importance.
+
+→ La fugue est une musique Mathématique
+
+_Le Clavier bien tempéré (livre 1), fugue en Sib mineur_
+
+_L’Art de la Fugue_
+
+_L’Offrande Musicale_

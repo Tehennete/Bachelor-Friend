@@ -10,7 +10,7 @@ tags:
   - "#pratique"
 ---
 # Projet - Session Live
-Date: [[2023-10-17]] - [[2023-10-18]]
+Date: [[500 Journal/2023/2023-11-Novembre/2023-10-17]] - [[2023-10-18]]
 
 Rencontre avec le côté artistique → musiciens et toute la partie technique car image et son. 
 Donc préparation à la captation, captation, montage, mixage et mastering
@@ -81,7 +81,7 @@ On demande les contacts, le responsable du groupe. Qui est le plus réactif. Pen
 Éléments constituant (le band)
 Éléments de backline(instruments)
 Éléments scénographique (position dans l'espace) → meta prod
-Le quatrième point on pourra en discuter dès le [[2023-10-17|2023-10-17]].
+Le quatrième point on pourra en discuter dès le [[500 Journal/2023/2023-11-Novembre/2023-10-17|2023-10-17]].
 ##### Demandes
 1. Fiche technique provisoire
 Avec un patch + Plan de scène. 
