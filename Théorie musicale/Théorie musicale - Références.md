@@ -20,3 +20,6 @@ Ce qui détermine tout c'est le Chant et la Basse, ce qu'il y a au milieu c'est 
 [[Ahmad Jamad]]  → Pianiste : Album : Marseille
 Stella by starlight 
 Dauphin Dance → [[Herbie Hancock]] 
+[[Marvin Gaye]] → Last Midnight
+
+Motown 

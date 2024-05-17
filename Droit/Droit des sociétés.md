@@ -57,4 +57,19 @@ Cous êtes présumé travailleur indépendant si vous remplissez l'une des condi
 >[!note]
 >Pour s'équiper, liste des sociétés en faillite : et regarder les studios en faillites
 
+### Associations
+
+L'objectif d'une association n'est pas de rapporter de l'argent. 
+
+Abus de bien sociaux → Pour les sociétés 
+Abus de confiance → Pour les associations
+
+L'argent excédant à la fin de l'année peut permettre, d'investir au nom de l'association. 
+
+Si on fait une activité non lucrative ou une gestion désintéressée : Pas d'objectif pécuniaire, et la personne qui dirige l'activité n'est pas rémunérée.  
+
+Crée sa société pour mettre les dépenses en frais de société. 
+On peut être ASM 
+
+Www.service-autoentrepreneur.fR/a/devenir-intermittent-du-spectacle-auto-entrepreneur
 

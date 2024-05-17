@@ -91,7 +91,7 @@ On a donc la surface : $A_{old} = \alpha_{old} x S_{old}$
 On ajoute une nouvelle surface ce qui va nous donner un $S_{new}$ et un $\alpha_{new}$ 
 Donc durant la phase de traitement on élimine la surface qui va être remplacer ce qui nous donne un $S_{traitée}$ 
 Et on rajoute la nouvelle surface : **$\boxed{A_{new}=A_{old}-\alpha_{old}.S_{traitée}+\alpha_{new}.S_{traitée}}$**  
-Ou $\boxed{A_{new}=A_{old}-S_{traitée}.[\alpha_{old}.\alpha_{new}]}$  
+Ou $\boxed{A_{new}=A_{old}-S_{traitée}.[\alpha_{old}-\alpha_{new}]}$  
 
 ## Temps de réverbération : TR(60)
 Il est exprimé en seconde. 
@@ -135,10 +135,10 @@ Si $\alpha_{moy} \longrightarrow$  1 (salle très absorbante), alors le $TR_{60}
 **Vérification** : Soit $TR_{60} = 0,161 . \frac{V}{\alpha_{moy}.S_{moy}}$ si $\alpha_{moy} \longrightarrow 1$ alors $TR_{60} = 0,161 . \frac{V}{S_{moy}}$ ≠ 0 
 C'est donc le défaut de la formule de Sabine, elle ne marche pas pour les matériaux très absorbants. 
 #### Conclusion
-La formule de Sabine n'est valable que pour des salles peu absorbantes ($\alpha_{moy}<0$) présentant un grand nombre de réflexion. 
+La formule de Sabine n'est valable que pour des salles peu absorbantes ($\alpha_{moy}<0,3$) présentant un grand nombre de réflexion. 
 Pour les salles plus absorbantes ($0,3<\alpha_{moy}<1$), il est préférable d'utiliser la formule de d'EYRING ou de la formule de MILLINGTON pour calculer le $TR_{60}$. Pour savoir quelle formule utiliser, on commence par sabine et on voit en fonction des résultats si on doit utiliser une autre formule. 
 #### EYRING
 $$\boxed{TR_{60}=\frac{-0,161.V}{S.ln(1-\alpha)}}$$
 #### MILLINGTON 
-$$\boxed{TR_{60}=\frac{-4.V}{\sum_{i=1}^{n}[S_i.ln(1-\alpha_l)]}}$$
+$$\boxed{TR_{60}=\frac{-4.V}{\sum_{i=1}^{n}[S_i.ln(1-\alpha_i)]}}$$
 

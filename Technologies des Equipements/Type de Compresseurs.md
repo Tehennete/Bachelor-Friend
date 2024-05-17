@@ -34,6 +34,11 @@ Utile sur des instruments de avec beaucoup de transitoires comme une batterie
 ### Exemples 
 [[Universal Audio 1176]]
 [[Drawmer 1970]]
+### Plugins
+[[FetCB]]
+[[FETdrive]] 
+[[FETish]] 
+
 ## Compresseur Opto
 ### Description 
 Compresseur avec un principe Optique basé sur l'utilisation d'une ampoule (dont l'éclairement varie avec le niveau sonore du signal) et d'une cellule photosensible. L'éclairement plus ou moins important capté par la céllule déclenche une réduction de niveau du signal audio en sortie. L'attaque est assez lente et souple, souvent utilisé pour des voix, la basse, les cordes…
@@ -57,6 +62,9 @@ On l'utilise couramment sur la voix
 [[Avalon]] 
 [[Drawmer 1960]]
 [[Manley]]
+### Plugins 
+[[KolinMB]]
+[[Kolin]] 
 ## Compresseur pont de diodes
 ### Description 
 Type de compresseur beaucoup plus rare. Les diodes sont souvent utilisées en audio pour limiter le signal mais avec une distortion assez marquée. Ici les diodes sont polarisées pour éviter la distortion et produire un son assez chaleureux. 

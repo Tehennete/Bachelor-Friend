@@ -2,7 +2,7 @@
 Matière: Physique
 Semestre: B2-1
 Date: 2023-10-10
-Prof: Jean Claude Rakotoniaina 
+Prof: Jean Claude Rakotoniaina
 Type: notes de cours
 ---
 # Validation

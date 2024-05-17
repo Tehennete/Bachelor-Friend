@@ -9,6 +9,7 @@ Type: notes de cours
 tags:
   - cours
   - Technologie-des-équipements
+  - flashcards-te
 ---
 # Liaisons HF
 Date: [[2023-10-26]] - [[2023-11-29]] - [[2023-12-01]] - [[2023-12-06]] - [[2023-12-18]]
@@ -72,7 +73,7 @@ Sous Bandes IV et V situées dans la bandes UHF
 
 - 1 canal représente 8MHz de largeur
 #### Remarque 2
-Les utilisateurs de ces liaisons sont appelés PMSE (Program Making and Special Events) = Tv , théâtre, opéra, concert, évènements médiatiques / culturels / sportifs…
+Les utilisateurs de ces liaisons sont appelés **PMSE** (Program Making and Special Events) = Tv , théâtre, opéra, concert, évènements médiatiques / culturels / sportifs…
 
 ### Modulation FM
 On utilise une onde électromagnétique (=PORTEUSE) qui sera modulée en fréquence par le signal audio à transmettre. Plus le signal audio est fort, plus la porteuse s'éloigne de son signal d'origine. La porteuse oscille entre différentes fréquences, elle se balance, elle swing quoi. 
@@ -86,7 +87,7 @@ Plus c'est rapide plus c'est la fréquence de variation qui varie en fonction de
 - Longueur d'antenne raisonnable (au bout du micro)
 - Bande passante audio : 20Hz - 20kHz 
 - Dynamique : 120dB environ
-- Swing = excursion en fréquence de la porteuse (plus le niveau du signal audio est élevé, plus la porteuse s'écarte de sa valeur d'origine). Le swing est règlementé à 150kHz autour de la porteuse en radio FM et à 56kHz pour les liaisons HF. Ainsi pour respecter la règlementation, les constructeurs placent un limiter audio dans les émetteurs pour que la porteuse respecte son swing
+- Swing = excursion en fréquence de la porteuse (plus le niveau du signal audio est élevé, plus la porteuse s'écarte de sa valeur d'origine). Le swing est règlementé à **150kHz** autour de la porteuse en radio FM et à **56kHz** pour les liaisons HF. Ainsi pour respecter la règlementation, les constructeurs placent un limiter audio dans les émetteurs pour que la porteuse respecte son swing
 	- Par exemple, si ma porteuse est à 9OMHz elle pourra osciller entre 89,925MHZ ← 90MHz → 90,075MHz
 - **Important** : Le signal de la porteuse est noté RF, le signal audio est noté AF. 
 
@@ -101,8 +102,8 @@ Problème sur les anciens micros HF Shure ou le gain était pas gérable le (gai
 #### Généralités
 - Une antenne assure la transformation d'un signal électrique qui la parcourt en ondes électromagnétique et inversement (une même antenne peut donc être utilisée dans certains cas pour émettre et dans d'autres pour recevoir)
 - La directivité s'exprime par : le gain de l'antenne en dBi (calculé par rapport à une antenne isotrope = sphère parfaite) donc on donnera jamais de directivité mais simplement la valeur en dBi pour avoir la directivité. Il y a une plage de fréquence dans laquelle, elle est efficace. 
-- QUand on perd -3dB de capitation par rapport à l'axe de par et d'autre de son axe cela donne son angle d'ouverture par rapport à sa direction privilégiée. 
-- Le rendement est faible (quelques %), pour augmenter on essaye d'utiliser des longueurs d'antennes proches des longueurs d'ondes des porteuses (ou1/2, ou ¼). On appelle cela l'accord de l'antenne.
+- QUand on perd **-3dB** de captation par rapport à l'axe de par et d'autre de son axe cela donne son angle d'ouverture par rapport à sa direction privilégiée. 
+- Le rendement est faible (quelques %), pour augmenter on essaye d'utiliser des longueurs d'antennes proches des longueurs d'ondes des porteuses (ou1/2, ou ¼). On appelle cela **l'accord de l'antenne**.
 
 >[!note]
 >Pour F = 600MHz on a $\lambda$ = 50 cm
@@ -129,7 +130,7 @@ Elle fonctionne comme un omni mais comme on a pas les deux côté comme dans l'a
 - Appelée aussi antenne "drapeau", "oreilles de Mickey" ou "pelle à tarte"…
 - Antenne directive très utilisé comme antenne déportée des appareils (récepteur ou émetteurs)
 - Bande passante largeur 
-- Remplacé souvent les antennes jouet présentent de base sur les boîtiers de réception/émission 
+- Remplacé souvent les antennes fouet présentent de base sur les boîtiers de réception/émission 
 - Le principe est un peu similaire à la [[Liaisons HF#Yagi|Yagi]]
 - Quand on les utilise avec un système de réception diversity, bien penser à les espacer pour pouvoir bien cibler deux directivités différentes et pour ne pas qu'il y ait d'interférences électromagnétiques. (Espacement d'environ 2m)
 - Elles se fixent sur des pieds de micro. 
@@ -139,7 +140,7 @@ Elle fonctionne comme un omni mais comme on a pas les deux côté comme dans l'a
 - Nécessite une bonne orientation
 - Souvent utilisée comme émetteur pour les systèmes de retours In-Ear-Monitor (IEM)
 ##### Variante Hélicoïdale 
-- couvre une large bande de fréquence et propose un important 
+- couvre une large bande de fréquence et propose un gain important 
 - Directivité hémisphérique (antenne type hélicoïdale) 
 - Utilisée pour les systèmes de retours In-Ear-Monitor(IEM) et l'intercom hf
 C'est comme une antenne hélicoïdale mais avec une plaque à l'arrière qui sert de plan de masse (ground plane). 
@@ -162,7 +163,7 @@ C'est comme une antenne hélicoïdale mais avec une plaque à l'arrière qui ser
 
 
 ### Émetteur (Tx)
-- Réalise la modulation (de type FM) de la fréquence porteuse choisie par le signal audio entrant (micro ou) puis émet le signal RF via l'antenne. 
+- Réalise la modulation (de type FM) de la fréquence porteuse choisie par le signal audio entrant (micro ou boitier) puis émet le signal RF via l'antenne. 
 - Connecteur entrée audio : mini-jack, lemo, TA3, TA4… (En fonction des marques et des modèles)
 - **Important** : L'utilisateur devra (en plus de choisir une fréquence porteuse entre 470 et 694MHz) régler le gain du signal audio (AF) sur l'émetteur le plus précisément possible afin d'obtenir une qualité optimale (réglage parfois nommé "sensibilité")
 >[!note] 
@@ -170,7 +171,7 @@ C'est comme une antenne hélicoïdale mais avec une plaque à l'arrière qui ser
 #### Puissance
 - Appelé P.A.R. = Puissance Apparente Rayonnée (par l'antenne)
 - Exprimée en dBi ou en Watt
-- Liaison HF : 30mW (environ 15dBm) **Attention : max autorisé 50mW 
+- Liaison HF : **30mW** (environ 15dBm) **Attention : max autorisé 50mW** 
 - Émetteur TV : 250kW
 #### Traitements audio 
 Il sont réalisés dans l'émetteur avant la modulation de la porteuse et l'émission par l'antenne, ils permettent d'optimiser la qualité audio de la liaison HF.
@@ -332,3 +333,48 @@ Les différents constructeurs d'équipements HF proposent des outils logiciels (
 - Monitoring et parfois modification de : niveau batterie émetteur, choix de fréquence RF, gain, mute, nom, niveau R…. 
 ### Sennheiser WSR
 ### Shure Workbench
+
+# Flashcards
+
+
+Qu'est-ce qu'une liaison HF en audiovisuel?::Une liaison HF en audiovisuel est une connexion sans fil qui permet le transport de signaux audio à l'aide d'ondes radioélectriques.
+<!--SR:!2024-04-18,1,250-->
+Quel est le principe de base des liaisons HF?::Le principe est d'utiliser une onde électromagnétique porteuse modulée par le signal audio à transporter. La modulation peut se faire en amplitude (AM) ou en fréquence (FM).
+<!--SR:!2024-01-21,1,160-->
+Quels sont les avantages des liaisons HF en audiovisuel?::Liberté de mouvement, limitation des câbles, utilisation dans divers domaines tels que le cinéma, la télévision, la radio, etc.
+<!--SR:!2024-04-18,1,250-->
+Quels sont les trois types de modulation possibles pour une onde porteuse?::Amplitude Modulation (AM), Frequency Modulation (FM), et Phase Inversion.
+<!--SR:!2024-01-21,1,160-->
+Quelle est la différence entre les ondes électromagnétiques et les ondes acoustiques?::Les ondes électromagnétiques sont composées d'une composante électrique et magnétique et se propagent dans tous les milieux, y compris le vide. Les ondes acoustiques sont des ondes mécaniques nécessitant un milieu élastique pour se propager.
+<!--SR:!2024-04-18,1,250-->
+Quelle est la fréquence de la bande UHF utilisée pour les liaisons HF?::Les liaisons HF sont autorisées entre 470 et 694 MHz, principalement dans la bande UHF (Ultra Hautes Fréquences).
+<!--SR:!2024-01-21,1,160-->
+Qu'est-ce que la modulation FM (Frequency Modulation)?::La modulation FM utilise une onde électromagnétique (porteuse) modulée en fréquence par le signal audio à transmettre. Plus le signal audio est fort, plus la porteuse s'éloigne de sa fréquence d'origine.
+<!--SR:!2024-01-21,1,160-->
+Comment se règle le gain sur un micro HF?::Le gain sur un micro HF se règle généralement sur le micro lui-même, et il est crucial pour assurer une modulation appropriée de la porteuse.
+<!--SR:!2024-04-18,1,250-->
+Quel est le rôle du squelch dans un récepteur HF?::Le squelch est une fonction qui agit comme un noise-gate au niveau de la porteuse RF, empêchant l'apparition brutale du bruit blanc lorsque l'émetteur est éloigné.
+<!--SR:!2024-04-18,1,250-->
+Qu'est-ce que la diversité (Diversity) dans un récepteur HF?::La diversité est un système à double antenne et double circuit de démodulation qui améliore la portée et la stabilité de la liaison HF en sélectionnant automatiquement la meilleure réception entre deux antennes.
+<!--SR:!2024-01-21,1,160-->
+Quels sont les différents types d'antennes utilisées en liaisons HF?::Antenne doublet, antenne libre (fouet), Yagi, antenne directive log-périodique, antenne hélicoïdale, et antenne omnidirectionnelle.
+<!--SR:!2024-04-18,1,250-->
+Comment se règle le squelch sur un récepteur HF?::Le squelch se règle sur le récepteur avec l'émetteur éteint, en ajustant le seuil juste au-dessus du bruit de fond électromagnétique.
+<!--SR:!2024-01-23,1,140-->
+Quelle est la fonction d'un splitter (répartiteur) en liaisons HF?::Un splitter permet de diviser le signal d'une antenne vers plusieurs récepteurs, évitant ainsi la multiplication des antennes pour chaque récepteur.
+<!--SR:!2024-01-21,1,160-->
+Quelle est la différence entre un splitter et un combinateur en liaisons HF?::Un splitter divise le signal d'une antenne vers plusieurs récepteurs, tandis qu'un combinateur combine les signaux de plusieurs émetteurs vers une seule antenne.
+<!--SR:!2024-01-21,1,160-->
+Qu'est-ce qu'un In-ear Monitor (IEM) en audiovisuel?::Un In-ear Monitor est un système de retour sans fil avec oreillette, utilisé en concert et à la télévision, permettant aux artistes de recevoir un retour audio personnalisé.
+<!--SR:!2024-01-23,1,140-->
+Quels sont les avantages des liaisons HF numériques par rapport aux analogiques?::Amélioration de la qualité audio, absence de traitement de type Compandeur, réduction des problèmes d'intermodulation, et possibilité d'utiliser un plus grand nombre de fréquences dans une bande restreinte.
+<!--SR:!2024-01-23,1,140-->
+Quels sont les organismes et réglementations liés aux liaisons HF en France?::ANFR (Agence Nationale des Fréquences), ARCEP (Autorité de Régulation des Communications Électroniques et des Postes), et CEPT (Commission Européenne des Postes et Télécommunications).
+<!--SR:!2024-01-23,1,140-->
+
+Comment choisir des fréquences libres pour les liaisons HF dans un environnement encombré?::Utiliser un scanner RadioFrequency pour détecter les fréquences utilisées, éviter les fréquences utilisées par d'autres systèmes, et tenir compte des allocations de fréquences définies par les autorités de régulation.
+<!--SR:!2024-01-23,1,140-->
+Quelles sont les précautions à prendre pour éviter les interférences lors d'une utilisation de liaisons HF?::Éloigner les émetteurs et récepteurs HF des sources d'interférences potentielles, utiliser des fréquences libres, et vérifier régulièrement les conditions RF sur le lieu de l'événement.
+<!--SR:!2024-01-21,1,160-->
+Comment optimiser la portée d'une liaison HF?::Utiliser des fréquences appropriées, choisir des antennes adaptées, maximiser la hauteur des antennes, éviter les obstacles, et s'assurer d'une puissance d'émission conforme à la réglementation.
+<!--SR:!2024-01-23,1,140-->

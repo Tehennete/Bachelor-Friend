@@ -1,19 +1,25 @@
 ---
-Matière: Technologie des Equipements
-Semestre: B2-1
+Matière:
+  - Technologie des Equipements
+Semestre:
+  - B2-1
 Date: 2023-10-11
 Prof: "[[David Laurent]]"
 Type: notes de cours
+tags:
+  - "#cours"
+  - "#Technologie-des-équipements"
+  - flashcards-te
 ---
 # Time Code
-Dates: [[2023-10-11|2023-10-11]] - [[2023-10-12 1|2023-10-12 1]]  | Tags : #cours #Technologie-des-équipements
+Dates: [[500 Journal/2023/2023-11-Novembre/2023-10-11|2023-10-11]] - [[2023-10-12 1|2023-10-12 1]] 
 
 >[!INFO] Objectif
 >Étude du système de repérage absolu des images en heures, minutes, secondes et nombre d'images, normalisé au niveau mondial. Notions de synchronisation et modes d'utilisation en particulier dans le cas du son à l'image. 
 ## Introduction
-#### 1. Definitions
+### 1. Definitions
 - **synchronisation** : Action de rendre solidaires et simultanés les mouvements de deux appareils
-- **synchrone** : Se dit des mouvements qui se font dans un même temps (son synchrone c'est les sons enregistrés sur le plateau, on l'appel aussi son 
+- **synchrone** : Se dit des mouvements qui se font dans un même temps (son synchrone c'est les sons enregistrés sur le plateau, on l'appel aussi son direct
 - 
 > [!NOTE] Notabene 
 Il faut environ 3 images (120ms) de décalage entre image et son pour pouvoir établir précisément le sens du dé-synchronisme. EN revanche un décalage d'une seule image est détectable par un œil et une oreille exercés. À une image c'est dur de dire si le son est en avance ou en retard
@@ -156,3 +162,44 @@ Examples de générateurs : *Horita PTG2 - Atomos - Ambient*
 
 >[!NOTE]
 > Les fichiers audio .BWF (Broadcast Wave File) incorporent le time code dans les Métadatas (c'est la différence avec le Wav qui ne l'incorpore pas)
+
+# Flashcards
+Quelle est l'action de rendre solidaires et simultanés les mouvements de deux appareils?::La synchronisation
+
+Que signifie le terme "synchrone" en référence au son?::Se dit des mouvements qui se font dans un même temps (son synchrone, c'est les sons enregistrés sur le plateau, on l'appelle aussi son de direct)
+
+Combien d'images (environ 120 ms de décalage entre image et son) sont nécessaires pour établir précisément le sens du dé-synchronisme?::Environ 3 images
+
+Quelle est la limite maximale admissible de la désynchronisation Son/Image en diffusion pour la télé, selon la CST (Commission Supérieure des Techniques de l'image et du son)?::-1 ou +2 images max
+
+Quels étaient les deux organismes qui ont proposé des variantes du Time Code en fonction du nombre d'images par seconde (SMPTE pour 30i/s, et UER/EBU pour 25i/s)?::SMPTE (Society of Motion Picture and Television Engineer) et UER (EBU en anglais) (Union Européenne de Radiodiffusion)
+
+Quelle est la représentation du Time Code comprenant les heures, minutes, secondes et le numéro d'images?::HEURE : MINUTES : SECONDES : N° D'IMAGES
+
+Qu'est-ce que le Sync Word dans le contexte du Time Code?::Un mot de synchronisation composé de 16 bits pour le début et la fin de chaque information du Time Code.
+
+Quelle est la constitution binaire du Time Code?::Il s'agit d'un signal décibinaire (DCB = Décimal Code Binaire) qui permet les chiffres de 0 à 9 en une suite de nombres binaires.
+
+Combien de bits sont nécessaires pour représenter les unités de chaque élément du Time Code (heures, minutes, secondes, numéro d'images)?::2 bits pour dizaines d'heures ou images, 3 bits pour dizaines de minutes ou secondes, 4 bits pour toutes les unités (heures, minutes, secondes, images)
+
+Quelle est la représentation électrique initiale du Time Code et pourquoi a-t-elle été modifiée?::Initialement, c'était le NRZ (No Return to Zero), mais il a été changé en Bi-Phase Mark (Manchester) car une suite continue de 1 ou de 0 n'est pas conseillée pour les circuits audio.
+
+Qu'est-ce que le LTC (Longitudinal ou Linear Time Code)?::Le Time Code enregistré sur une piste longitudinale séparée de l'image.
+
+Quels sont les avantages du LTC (Longitudinal Time Code)?::Débit faible, transport, distribution, amplification possible par les équipements audio analogiques, lecture possible à grande vitesse de défilement (recherche rapide), lecture dans les deux sens avant et arrière.
+
+Qu'est-ce que le VITC (Vertical Interval Time Code)?::Le Time Code incorporé à l'information image vidéo analogique.
+
+Quel est le principal avantage du VITC (Vertical Interval Time Code)?::Lecture possible à l'arrêt sur l'image.
+
+Qu'est-ce que le MTC (Midi Time Code)?::Le Time Code incorporé au protocole MIDI (Musical Instrument Digital Interface) utilisé pour la communication entre instruments électroniques, contrôleurs, séquenceurs, et logiciels de musiques.
+
+Qu'est-ce que l'offset dans le contexte du Time Code?::Un décalage volontaire ou involontaire du défilement d'une machine par rapport aux autres.
+
+Qu'est-ce que le Jam sync dans le contexte du Time Code?::Un mode de synchronisation qui permet à une machine définie en mode slave de continuer à défiler sur la même cadence lorsque le Time Code envoyé par la machine Master est interrompu ou illisible.
+
+Qu'est-ce que le Free Run dans le contexte du Time Code?::Un mode de synchronisation qui consiste à utiliser le Time Code interne d'un appareil qui défilera de manière continue et sans interruption.
+
+Qu'est-ce que le Rec Return dans le contexte du Time Code?::Un mode de synchronisation dans lequel le Time Code ne défile que lorsque l'appareil est en enregistrement.
+
+

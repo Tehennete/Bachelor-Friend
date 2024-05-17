@@ -8,7 +8,7 @@ tags:
   - cours
 ---
 # Rappels 
-Date: [[2023-10-17]] 
+Date: [[500 Journal/2023/2023-11-Novembre/2023-10-17]] 
 
 ## Atténuation géométrique
 ### Cas 1

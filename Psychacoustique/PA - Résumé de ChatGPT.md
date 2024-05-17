@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases:
 Matière:
   - Psychoacoustique
 Semestre:
