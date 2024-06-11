@@ -338,43 +338,43 @@ Les différents constructeurs d'équipements HF proposent des outils logiciels (
 
 
 Qu'est-ce qu'une liaison HF en audiovisuel?::Une liaison HF en audiovisuel est une connexion sans fil qui permet le transport de signaux audio à l'aide d'ondes radioélectriques.
-<!--SR:!2024-04-18,1,250-->
+<!--SR:!2024-06-14,4,270-->
 Quel est le principe de base des liaisons HF?::Le principe est d'utiliser une onde électromagnétique porteuse modulée par le signal audio à transporter. La modulation peut se faire en amplitude (AM) ou en fréquence (FM).
-<!--SR:!2024-01-21,1,160-->
+<!--SR:!2024-06-11,1,140-->
 Quels sont les avantages des liaisons HF en audiovisuel?::Liberté de mouvement, limitation des câbles, utilisation dans divers domaines tels que le cinéma, la télévision, la radio, etc.
-<!--SR:!2024-04-18,1,250-->
+<!--SR:!2024-06-14,4,270-->
 Quels sont les trois types de modulation possibles pour une onde porteuse?::Amplitude Modulation (AM), Frequency Modulation (FM), et Phase Inversion.
-<!--SR:!2024-01-21,1,160-->
+<!--SR:!2024-06-11,1,250-->
 Quelle est la différence entre les ondes électromagnétiques et les ondes acoustiques?::Les ondes électromagnétiques sont composées d'une composante électrique et magnétique et se propagent dans tous les milieux, y compris le vide. Les ondes acoustiques sont des ondes mécaniques nécessitant un milieu élastique pour se propager.
-<!--SR:!2024-04-18,1,250-->
+<!--SR:!2024-06-14,4,270-->
 Quelle est la fréquence de la bande UHF utilisée pour les liaisons HF?::Les liaisons HF sont autorisées entre 470 et 694 MHz, principalement dans la bande UHF (Ultra Hautes Fréquences).
-<!--SR:!2024-01-21,1,160-->
+<!--SR:!2024-06-11,1,230-->
 Qu'est-ce que la modulation FM (Frequency Modulation)?::La modulation FM utilise une onde électromagnétique (porteuse) modulée en fréquence par le signal audio à transmettre. Plus le signal audio est fort, plus la porteuse s'éloigne de sa fréquence d'origine.
-<!--SR:!2024-01-21,1,160-->
+<!--SR:!2024-06-11,1,250-->
 Comment se règle le gain sur un micro HF?::Le gain sur un micro HF se règle généralement sur le micro lui-même, et il est crucial pour assurer une modulation appropriée de la porteuse.
-<!--SR:!2024-04-18,1,250-->
+<!--SR:!2024-06-14,4,270-->
 Quel est le rôle du squelch dans un récepteur HF?::Le squelch est une fonction qui agit comme un noise-gate au niveau de la porteuse RF, empêchant l'apparition brutale du bruit blanc lorsque l'émetteur est éloigné.
-<!--SR:!2024-04-18,1,250-->
+<!--SR:!2024-06-11,1,230-->
 Qu'est-ce que la diversité (Diversity) dans un récepteur HF?::La diversité est un système à double antenne et double circuit de démodulation qui améliore la portée et la stabilité de la liaison HF en sélectionnant automatiquement la meilleure réception entre deux antennes.
-<!--SR:!2024-01-21,1,160-->
+<!--SR:!2024-06-12,2,180-->
 Quels sont les différents types d'antennes utilisées en liaisons HF?::Antenne doublet, antenne libre (fouet), Yagi, antenne directive log-périodique, antenne hélicoïdale, et antenne omnidirectionnelle.
-<!--SR:!2024-04-18,1,250-->
+<!--SR:!2024-06-11,1,230-->
 Comment se règle le squelch sur un récepteur HF?::Le squelch se règle sur le récepteur avec l'émetteur éteint, en ajustant le seuil juste au-dessus du bruit de fond électromagnétique.
-<!--SR:!2024-01-23,1,140-->
+<!--SR:!2024-06-12,2,160-->
 Quelle est la fonction d'un splitter (répartiteur) en liaisons HF?::Un splitter permet de diviser le signal d'une antenne vers plusieurs récepteurs, évitant ainsi la multiplication des antennes pour chaque récepteur.
-<!--SR:!2024-01-21,1,160-->
+<!--SR:!2024-06-11,1,250-->
 Quelle est la différence entre un splitter et un combinateur en liaisons HF?::Un splitter divise le signal d'une antenne vers plusieurs récepteurs, tandis qu'un combinateur combine les signaux de plusieurs émetteurs vers une seule antenne.
-<!--SR:!2024-01-21,1,160-->
+<!--SR:!2024-06-12,2,180-->
 Qu'est-ce qu'un In-ear Monitor (IEM) en audiovisuel?::Un In-ear Monitor est un système de retour sans fil avec oreillette, utilisé en concert et à la télévision, permettant aux artistes de recevoir un retour audio personnalisé.
-<!--SR:!2024-01-23,1,140-->
+<!--SR:!2024-06-11,1,130-->
 Quels sont les avantages des liaisons HF numériques par rapport aux analogiques?::Amélioration de la qualité audio, absence de traitement de type Compandeur, réduction des problèmes d'intermodulation, et possibilité d'utiliser un plus grand nombre de fréquences dans une bande restreinte.
-<!--SR:!2024-01-23,1,140-->
+<!--SR:!2024-06-11,1,250-->
 Quels sont les organismes et réglementations liés aux liaisons HF en France?::ANFR (Agence Nationale des Fréquences), ARCEP (Autorité de Régulation des Communications Électroniques et des Postes), et CEPT (Commission Européenne des Postes et Télécommunications).
-<!--SR:!2024-01-23,1,140-->
+<!--SR:!2024-06-12,2,160-->
 
 Comment choisir des fréquences libres pour les liaisons HF dans un environnement encombré?::Utiliser un scanner RadioFrequency pour détecter les fréquences utilisées, éviter les fréquences utilisées par d'autres systèmes, et tenir compte des allocations de fréquences définies par les autorités de régulation.
-<!--SR:!2024-01-23,1,140-->
+<!--SR:!2024-06-14,4,270-->
 Quelles sont les précautions à prendre pour éviter les interférences lors d'une utilisation de liaisons HF?::Éloigner les émetteurs et récepteurs HF des sources d'interférences potentielles, utiliser des fréquences libres, et vérifier régulièrement les conditions RF sur le lieu de l'événement.
-<!--SR:!2024-01-21,1,160-->
+<!--SR:!2024-06-11,1,230-->
 Comment optimiser la portée d'une liaison HF?::Utiliser des fréquences appropriées, choisir des antennes adaptées, maximiser la hauteur des antennes, éviter les obstacles, et s'assurer d'une puissance d'émission conforme à la réglementation.
-<!--SR:!2024-01-23,1,140-->
+<!--SR:!2024-06-14,4,270-->

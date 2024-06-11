@@ -176,31 +176,31 @@ D'où l'apparition de Studio de delivery qui font plusieurs propositions de mix 
 Regarder soulseak (petit oiseau bleu)
 # Flashcards
 **Qu'est-ce que signifie l'acronyme "PAD" dans le contexte de la technologie des équipements audiovisuels?**::"PAD" se réfère à "Prêt À Diffuser", une norme technique imposée par les diffuseurs dans le domaine de l'audiovisuel et des plateformes de streaming.
-<!--SR:!2024-01-23,1,145-->
+<!--SR:!2024-06-12,2,165-->
 
 **Quelle est la mesure "Loudness" et quel est son objectif principal dans le domaine audiovisuel?**::La mesure "Loudness" est une mesure moyenne et subjective d'un programme audiovisuel. Son objectif est de garantir un confort d'écoute, une bonne intelligibilité, et une continuité homogène dans l'enchaînement des programmes tout en respectant les choix artistiques.
-<!--SR:!2024-01-21,1,165-->
+<!--SR:!2024-06-11,1,145-->
 
 **Quelle norme a été établie par la CST (Commission Supérieure des Techniques de l'image et du Son) en 2011?**::La CST a établi des recommandations pour les programmes audiovisuels en 2011, notamment la recommandation CST_RT_017_TV_V3.
-<!--SR:!2024-01-23,1,145-->
+<!--SR:!2024-06-11,1,230-->
 
 **Avant 2011, quelles étaient les normes de mixage peu exigeantes pour une diffusion TV?**::Avant 2011, les normes de mixage pour une diffusion TV étaient peu exigeantes, avec un niveau d'alignement de -18 dBFS et un pic maximal de -9 dBFS.
-<!--SR:!2024-04-18,1,250-->
+<!--SR:!2024-06-11,1,250-->
 
 **Quelle norme Loudness TV est actuellement en vigueur au niveau européen?**::La norme Loudness TV en vigueur au niveau européen est l'EBU R128, issue des recommandations de la CST, avec la version _R128 S2_ pour le streaming et _R128 S3_ pour la radio.
-<!--SR:!2024-04-18,1,250-->
+<!--SR:!2024-06-11,1,230-->
 
 **Quels sont les critères de mesure de Loudness, et quels filtres sont appliqués?**::Les critères de mesure de Loudness incluent Target Loudness, Loudness Integrated, Loudness Short Term, Loudness Momentary, True Peak, et Loudness Range. Un filtre coupe-bas à 100Hz et un filtre shelving d'augmentation de +4dB à partir de 1500Hz sont appliqués.
-<!--SR:!2024-01-21,1,165-->
+<!--SR:!2024-06-11,1,230-->
 
 **Quelle est la mesure instantanée des pics de signal qui tient compte de l'évolution du signal entre deux échantillons?**::La mesure instantanée des pics de signal qui tient compte de l'évolution du signal entre deux échantillons est appelée "True Peak" et est mesurée en dBTP.
-<!--SR:!2024-01-23,1,145-->
+<!--SR:!2024-06-11,1,130-->
 
 **Comment est mesurée la dynamique d'un programme audiovisuel?**::La dynamique d'un programme audiovisuel est mesurée par la "Loudness Range" (LRA), basée sur la mesure Short Term 3s avec un filtre et un gate fixe à -70 LUFS.
-<!--SR:!2024-04-18,1,250-->
+<!--SR:!2024-06-11,1,230-->
 
 **Quelle est la norme en vigueur en Europe pour la mesure du Loudness TV?**::La norme en vigueur en Europe pour la mesure du Loudness TV est l'EBU R128, qui propose une unification des unités LUFS et LKFS, avec un niveau cible de -23 LUFS.
-<!--SR:!2024-01-23,1,145-->
+<!--SR:!2024-06-12,2,165-->
 
 **Quelles sont les recommandations de l'EBU pour les plateformes de streaming en termes de Loudness?**::Les recommandations de l'EBU pour les plateformes de streaming incluent la livraison des programmes suivant la norme R128, sans modification de niveaux, avec une utilisation correcte des métadonnées indiquant le niveau Loudness.
-<!--SR:!2024-04-18,1,250-->
+<!--SR:!2024-06-11,1,230-->

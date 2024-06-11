@@ -173,6 +173,7 @@ Combien d'images (environ 120 ms de décalage entre image et son) sont nécessai
 Quelle est la limite maximale admissible de la désynchronisation Son/Image en diffusion pour la télé, selon la CST (Commission Supérieure des Techniques de l'image et du son)?::-1 ou +2 images max
 
 Quels étaient les deux organismes qui ont proposé des variantes du Time Code en fonction du nombre d'images par seconde (SMPTE pour 30i/s, et UER/EBU pour 25i/s)?::SMPTE (Society of Motion Picture and Television Engineer) et UER (EBU en anglais) (Union Européenne de Radiodiffusion)
+<!--SR:!2024-06-11,1,230-->
 
 Quelle est la représentation du Time Code comprenant les heures, minutes, secondes et le numéro d'images?::HEURE : MINUTES : SECONDES : N° D'IMAGES
 
@@ -181,6 +182,7 @@ Qu'est-ce que le Sync Word dans le contexte du Time Code?::Un mot de synchronisa
 Quelle est la constitution binaire du Time Code?::Il s'agit d'un signal décibinaire (DCB = Décimal Code Binaire) qui permet les chiffres de 0 à 9 en une suite de nombres binaires.
 
 Combien de bits sont nécessaires pour représenter les unités de chaque élément du Time Code (heures, minutes, secondes, numéro d'images)?::2 bits pour dizaines d'heures ou images, 3 bits pour dizaines de minutes ou secondes, 4 bits pour toutes les unités (heures, minutes, secondes, images)
+<!--SR:!2024-06-11,1,230-->
 
 Quelle est la représentation électrique initiale du Time Code et pourquoi a-t-elle été modifiée?::Initialement, c'était le NRZ (No Return to Zero), mais il a été changé en Bi-Phase Mark (Manchester) car une suite continue de 1 ou de 0 n'est pas conseillée pour les circuits audio.
 
@@ -195,11 +197,13 @@ Quel est le principal avantage du VITC (Vertical Interval Time Code)?::Lecture p
 Qu'est-ce que le MTC (Midi Time Code)?::Le Time Code incorporé au protocole MIDI (Musical Instrument Digital Interface) utilisé pour la communication entre instruments électroniques, contrôleurs, séquenceurs, et logiciels de musiques.
 
 Qu'est-ce que l'offset dans le contexte du Time Code?::Un décalage volontaire ou involontaire du défilement d'une machine par rapport aux autres.
+<!--SR:!2024-06-11,1,230-->
 
 Qu'est-ce que le Jam sync dans le contexte du Time Code?::Un mode de synchronisation qui permet à une machine définie en mode slave de continuer à défiler sur la même cadence lorsque le Time Code envoyé par la machine Master est interrompu ou illisible.
 
 Qu'est-ce que le Free Run dans le contexte du Time Code?::Un mode de synchronisation qui consiste à utiliser le Time Code interne d'un appareil qui défilera de manière continue et sans interruption.
 
 Qu'est-ce que le Rec Return dans le contexte du Time Code?::Un mode de synchronisation dans lequel le Time Code ne défile que lorsque l'appareil est en enregistrement.
+<!--SR:!2024-06-14,4,270-->
 
 

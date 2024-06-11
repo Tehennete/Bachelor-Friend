@@ -348,7 +348,7 @@ Documentation et raccourcis protools, on peut taper une requete et trouver les a
 
 # CHAPITRE 3 : pistes, workspace et preview
 
-## Les pistes en fonction des versionq
+## Les pistes en fonction des version
 
 | Type de piste | Nombre max PT Artist | Nombre max PT Studio | Nombre max PT Ultimate |
 | --- | --- | --- | --- |
